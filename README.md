@@ -1,0 +1,2 @@
+# MSC_AI_Pattern_Recognition_And_Machine_Learning
+Repository of all practical work for MSC_AI_PRaML
