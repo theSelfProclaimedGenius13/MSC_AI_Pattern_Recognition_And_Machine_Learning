@@ -1,5 +1,3 @@
 transaction_id,customer_id,amount,customer_age,past_fraud_count,avg_spend,is_international,device_type,customer_region,category,merchant,transaction_time,is_fraud
-T3132,C218,82.04,66.0,1,144.91,1,mobile,east,shopping,walmart,2024-01-01 22:39:33,1
-T1011,C137,350.36,65.0,1,50.43,1,mobile,south,food,walmart,2024-01-01 03:52:00,1
-T4250,C470,3802.000000000001,62.0,1,173.21,0,web,west,shopping,walmart,2024-01-01 07:34:00,1
-T2633,C387,7934.5,42.0,1,97.41,0,mobile,east,grocery,walmart,2024-01-01 11:28:00,1
+T4250,C470,70.865,62.0,1,173.21,0,web,west,shopping,walmart,2024-01-01 07:34:00,1
+T2633,C387,70.865,42.0,1,97.41,0,mobile,east,grocery,walmart,2024-01-01 11:28:00,1
