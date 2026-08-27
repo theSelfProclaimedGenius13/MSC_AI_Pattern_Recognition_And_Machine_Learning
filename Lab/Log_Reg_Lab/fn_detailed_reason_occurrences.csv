@@ -1,0 +1,11 @@
+transaction_id,customer_id,amount,customer_age,past_fraud_count,avg_spend,is_international,device_type,customer_region,category,merchant,transaction_time,is_fraud,Reason
+T4250,C470,70.865,62.0,1,173.21,0,web,west,shopping,walmart,2024-01-01 07:34:00,1,Domestic transaction
+T2633,C387,70.865,42.0,1,97.41,0,mobile,east,grocery,walmart,2024-01-01 11:28:00,1,Domestic transaction
+T4250,C470,70.865,62.0,1,173.21,0,web,west,shopping,walmart,2024-01-01 07:34:00,1,Moderate/normal transaction amount
+T2633,C387,70.865,42.0,1,97.41,0,mobile,east,grocery,walmart,2024-01-01 11:28:00,1,Moderate/normal transaction amount
+T4250,C470,70.865,62.0,1,173.21,0,web,west,shopping,walmart,2024-01-01 07:34:00,1,Walmart merchant
+T2633,C387,70.865,42.0,1,97.41,0,mobile,east,grocery,walmart,2024-01-01 11:28:00,1,Walmart merchant
+T4250,C470,70.865,62.0,1,173.21,0,web,west,shopping,walmart,2024-01-01 07:34:00,1,Previous fraud count = 1
+T2633,C387,70.865,42.0,1,97.41,0,mobile,east,grocery,walmart,2024-01-01 11:28:00,1,Previous fraud count = 1
+T4250,C470,70.865,62.0,1,173.21,0,web,west,shopping,walmart,2024-01-01 07:34:00,1,Shopping category
+T2633,C387,70.865,42.0,1,97.41,0,mobile,east,grocery,walmart,2024-01-01 11:28:00,1,Grocery category

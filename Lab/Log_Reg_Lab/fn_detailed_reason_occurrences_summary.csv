@@ -1,0 +1,7 @@
+Reason,Occurrences,Percentage
+Domestic transaction,2,100.0
+Moderate/normal transaction amount,2,100.0
+Walmart merchant,2,100.0
+Previous fraud count = 1,2,100.0
+Shopping category,1,50.0
+Grocery category,1,50.0
