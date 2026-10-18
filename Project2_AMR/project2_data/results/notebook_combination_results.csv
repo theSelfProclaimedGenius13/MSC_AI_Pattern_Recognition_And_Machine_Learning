@@ -1,0 +1,7 @@
+organism_group,antibiotic,rows,accuracy,balanced_accuracy,macro_f1,errors
+Salmonella enterica,tetracycline,200,0.745,0.745,0.742677665935064,51
+Campylobacter jejuni,tetracycline,200,0.73,0.73,0.72997299729973,54
+Salmonella enterica,ampicillin,200,0.72,0.72,0.719551282051282,56
+E.coli and Shigella,tetracycline,200,0.625,0.625,0.6249906247656192,75
+E.coli and Shigella,ampicillin,200,0.575,0.575,0.5737104741844078,85
+Campylobacter jejuni,ciprofloxacin,200,0.56,0.56,0.5599559955995599,88

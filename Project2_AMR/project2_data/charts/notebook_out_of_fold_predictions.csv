@@ -1,0 +1,1201 @@
+row_index,actual,predicted,model,organism_group,antibiotic,biosample_accession
+0,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633435
+1,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12035700
+2,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633319
+3,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047786
+4,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04599777
+5,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783303
+6,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN19674306
+7,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09604940
+8,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605295
+9,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05440727
+10,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387513
+11,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04599785
+12,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633623
+13,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672095
+14,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047958
+15,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12585639
+16,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04600087
+17,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672198
+18,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387145
+19,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN16231167
+20,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04869749
+21,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04958206
+22,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN37751380
+23,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605328
+24,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605029
+25,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN13153447
+26,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605336
+27,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387172
+28,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN27520491
+29,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN13708334
+30,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04508257
+31,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04524179
+32,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672047
+33,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387400
+34,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783139
+35,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN25582462
+36,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387463
+37,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605360
+38,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672290
+39,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783390
+40,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633740
+41,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387518
+42,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605011
+43,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605270
+44,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN13920672
+45,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12289144
+46,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047655
+47,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05189927
+48,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12906189
+49,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09604922
+50,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN16231210
+51,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12906161
+52,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04528906
+53,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672011
+54,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387481
+55,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09604961
+56,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605220
+57,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04580866
+58,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387270
+59,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047946
+60,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783296
+61,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN20847462
+62,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12035671
+63,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387303
+64,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047844
+65,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387489
+66,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783167
+67,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04599793
+68,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05301254
+69,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605236
+70,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387161
+71,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN16231162
+72,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672066
+73,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN14754874
+74,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387455
+75,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04580859
+76,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672115
+77,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09604898
+78,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12648963
+79,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387230
+80,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605222
+81,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605326
+82,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783323
+83,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633637
+84,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605103
+85,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047802
+86,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN17833674
+87,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605039
+88,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04625669
+89,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387210
+90,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047614
+91,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09604991
+92,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05013896
+93,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387430
+94,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633732
+95,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633529
+96,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12087880
+97,1,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605351
+98,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12606335
+99,1,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN16231151
+100,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047740
+101,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387414
+102,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633749
+103,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672306
+104,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04600089
+105,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387533
+106,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605248
+107,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12035628
+108,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05505582
+109,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05505588
+110,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12035635
+111,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783388
+112,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633563
+113,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633667
+114,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387244
+115,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672049
+116,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04461472
+117,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047791
+118,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633639
+119,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04508228
+120,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04599778
+121,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN15297859
+122,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12906153
+123,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783346
+124,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05190038
+125,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05558630
+126,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047796
+127,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672101
+128,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672224
+129,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783253
+130,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN25247373
+131,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09604926
+132,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605099
+133,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047827
+134,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04942547
+135,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783212
+136,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633326
+137,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047749
+138,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04508235
+139,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05366794
+140,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633432
+141,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12035695
+142,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05440722
+143,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633386
+144,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605091
+145,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN13825572
+146,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783094
+147,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047959
+148,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11854454
+149,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN16231177
+150,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672289
+151,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN19461832
+152,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12783968
+153,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12585648
+154,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN18986040
+155,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12035636
+156,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04537002
+157,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09604931
+158,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783173
+159,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783186
+160,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12035729
+161,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387256
+162,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605036
+163,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633597
+164,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05274303
+165,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047861
+166,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605164
+167,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN16231174
+168,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387486
+169,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05190016
+170,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633715
+171,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05413484
+172,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN11047805
+173,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387526
+174,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04599783
+175,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783269
+176,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04599784
+177,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN05505575
+178,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12906144
+179,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672161
+180,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633599
+181,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04508248
+182,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04537008
+183,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633683
+184,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN20209544
+185,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387285
+186,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN18914393
+187,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783274
+188,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783405
+189,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN07633626
+190,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN12035674
+191,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09783324
+192,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04514652
+193,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN09605267
+194,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387520
+195,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04461483
+196,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN38672218
+197,0,1,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN13293619
+198,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN04625686
+199,0,0,DNA + metadata,Campylobacter jejuni,ciprofloxacin,SAMN62387419
+200,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633838
+201,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN14754868
+202,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12035602
+203,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11047750
+204,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387431
+205,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672302
+206,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN13781657
+207,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09783338
+208,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387462
+209,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11047898
+210,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11047839
+211,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11047702
+212,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04524198
+213,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387151
+214,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN14754907
+215,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04537005
+216,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04461472
+217,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05505588
+218,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387264
+219,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387147
+220,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672290
+221,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11047943
+222,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387243
+223,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12606330
+224,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05189927
+225,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN15297388
+226,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387425
+227,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04625662
+228,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12906125
+229,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633492
+230,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09605049
+231,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN13836749
+232,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04528880
+233,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04599783
+234,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672101
+235,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09604961
+236,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387527
+237,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05366801
+238,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672008
+239,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387328
+240,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387294
+241,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN31428618
+242,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672240
+243,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633557
+244,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09604955
+245,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672276
+246,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387464
+247,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09605327
+248,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05013909
+249,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672249
+250,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387290
+251,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672157
+252,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387416
+253,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05013900
+254,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04536999
+255,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633670
+256,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09783160
+257,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05189938
+258,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04526072
+259,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05558630
+260,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09604890
+261,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04599799
+262,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11047862
+263,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04625670
+264,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04524189
+265,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11047751
+266,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633687
+267,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09605080
+268,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633831
+269,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672093
+270,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05558628
+271,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05413498
+272,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12087875
+273,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633839
+274,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN20509453
+275,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04625691
+276,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387303
+277,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04625674
+278,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05189931
+279,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387397
+280,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05013906
+281,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387326
+282,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672108
+283,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04508249
+284,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09605296
+285,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05440728
+286,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05440729
+287,1,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12606353
+288,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672091
+289,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN13025377
+290,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05013903
+291,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11047609
+292,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09605007
+293,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04958217
+294,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672205
+295,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387402
+296,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04599794
+297,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05190019
+298,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633691
+299,1,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387456
+300,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12585786
+301,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633817
+302,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN14754904
+303,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633343
+304,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12585750
+305,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11047724
+306,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12585742
+307,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387455
+308,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN14754901
+309,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12993393
+310,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633466
+311,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN13327261
+312,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12862106
+313,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09783118
+314,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12035599
+315,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12585746
+316,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387128
+317,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672129
+318,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387297
+319,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN14754918
+320,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633515
+321,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09605168
+322,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12236624
+323,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387410
+324,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN14754881
+325,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672085
+326,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN18914393
+327,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633531
+328,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387370
+329,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633471
+330,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387437
+331,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12606357
+332,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12862104
+333,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09783217
+334,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12035601
+335,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12585671
+336,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12161666
+337,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09783365
+338,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672070
+339,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672006
+340,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05049822
+341,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672265
+342,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672031
+343,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04942549
+344,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672118
+345,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11047855
+346,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11047786
+347,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09783144
+348,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633751
+349,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN23426545
+350,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN13674621
+351,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04869743
+352,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38671997
+353,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12585097
+354,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09605257
+355,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN15096510
+356,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11047616
+357,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09605288
+358,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633505
+359,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09604994
+360,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672014
+361,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04543691
+362,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN14754919
+363,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633529
+364,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09783095
+365,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11047831
+366,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN14410134
+367,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12384719
+368,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09605002
+369,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633359
+370,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09604899
+371,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09783260
+372,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09605169
+373,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633829
+374,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09605065
+375,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12585778
+376,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09783135
+377,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN13682861
+378,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05505589
+379,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09604900
+380,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09605210
+381,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN17903838
+382,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN20284457
+383,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN62387159
+384,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12906154
+385,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN09783379
+386,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN04599780
+387,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN16231197
+388,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633458
+389,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN24592216
+390,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN13851940
+391,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN38672259
+392,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN20119351
+393,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN16231166
+394,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12585710
+395,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05413513
+396,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN07633565
+397,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN11132139
+398,0,0,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN05514399
+399,0,1,DNA + metadata,Campylobacter jejuni,tetracycline,SAMN12995454
+400,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN48878282
+401,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN16304319
+402,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309248
+403,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN48878633
+404,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308858
+405,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309203
+406,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12587152
+407,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221154
+408,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309245
+409,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221225
+410,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN51434509
+411,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26304893
+412,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN48878200
+413,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN38228846
+414,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221234
+415,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN03177663
+416,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308764
+417,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN36727289
+418,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN36729169
+419,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN36726697
+420,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN13445911
+421,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221014
+422,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10220963
+423,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43565175
+424,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308351
+425,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN03177629
+426,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43694150
+427,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26305255
+428,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN51434407
+429,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221255
+430,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12587159
+431,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN07410718
+432,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309222
+433,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43564365
+434,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26304586
+435,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN13842449
+436,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN36727302
+437,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308802
+438,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN48878738
+439,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26304937
+440,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN31087253
+441,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN11372853
+442,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43564213
+443,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308741
+444,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12943655
+445,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12359899
+446,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN04014930
+447,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN36726422
+448,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN15394807
+449,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308815
+450,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309309
+451,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12943713
+452,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43564152
+453,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN40930662
+454,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN36726620
+455,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10620158
+456,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43563273
+457,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN13445912
+458,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309251
+459,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26304346
+460,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN16304283
+461,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308889
+462,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10620083
+463,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12943597
+464,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26304542
+465,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309412
+466,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN36727317
+467,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN31087219
+468,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10620169
+469,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN05774076
+470,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43564549
+471,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN36726418
+472,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN36726480
+473,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43562965
+474,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221100
+475,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN04014969
+476,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN38228875
+477,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12091255
+478,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN36728988
+479,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN22785515
+480,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN31087258
+481,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43694153
+482,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN41091872
+483,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12943744
+484,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43564603
+485,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12359862
+486,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN51434408
+487,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308420
+488,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43694159
+489,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN37516902
+490,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26304406
+491,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309060
+492,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26305081
+493,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN39956418
+494,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43564646
+495,1,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN31087423
+496,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43564942
+497,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN13176243
+498,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN16245277
+499,1,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN51434876
+500,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN16245199
+501,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12797188
+502,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN16245132
+503,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN13719135
+504,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12359968
+505,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43564842
+506,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12943591
+507,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221232
+508,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12359819
+509,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26305150
+510,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221513
+511,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309019
+512,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12727832
+513,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12359774
+514,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308819
+515,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12359931
+516,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26305159
+517,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308752
+518,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309008
+519,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221373
+520,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN16484135
+521,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26305156
+522,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43563756
+523,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309113
+524,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221214
+525,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12943465
+526,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12359932
+527,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN49488380
+528,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12990630
+529,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN16245193
+530,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26304363
+531,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221067
+532,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN13836675
+533,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12587173
+534,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309097
+535,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43565208
+536,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12359779
+537,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26304690
+538,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43564930
+539,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308691
+540,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221610
+541,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN48878771
+542,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN48878357
+543,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308660
+544,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN48878924
+545,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221487
+546,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221557
+547,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26304468
+548,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221559
+549,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN16245214
+550,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN05510450
+551,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN11372864
+552,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12913175
+553,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN13153733
+554,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN48590768
+555,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26304921
+556,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN16245238
+557,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221568
+558,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43564294
+559,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43564953
+560,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221003
+561,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308949
+562,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221668
+563,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN13446263
+564,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43564416
+565,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12359841
+566,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43563281
+567,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12359560
+568,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN47623322
+569,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43563646
+570,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26304415
+571,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12091249
+572,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN03177635
+573,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221363
+574,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43562885
+575,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308753
+576,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN16245293
+577,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309011
+578,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221276
+579,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26305126
+580,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10220970
+581,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN04563576
+582,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43563761
+583,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43563069
+584,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN43563507
+585,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN22785525
+586,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221177
+587,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221622
+588,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN10221430
+589,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26304994
+590,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26305268
+591,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26304818
+592,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN12943525
+593,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309380
+594,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26305248
+595,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN03177643
+596,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26309255
+597,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308678
+598,0,1,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308695
+599,0,0,DNA + metadata,E.coli and Shigella,ampicillin,SAMN26308509
+600,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12990617
+601,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12990688
+602,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12359942
+603,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221621
+604,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12943660
+605,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12307939
+606,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12273919
+607,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN16304073
+608,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN06311517
+609,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304936
+610,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN42946274
+611,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN14850302
+612,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221296
+613,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26309177
+614,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN16304184
+615,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12943606
+616,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26309222
+617,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN31087093
+618,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221093
+619,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12359618
+620,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43564463
+621,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43563930
+622,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221499
+623,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221079
+624,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304623
+625,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN06546419
+626,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12359848
+627,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43563775
+628,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN14448591
+629,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43563868
+630,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12359967
+631,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304798
+632,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10948830
+633,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221640
+634,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN16245237
+635,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12990628
+636,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221040
+637,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221508
+638,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN16245122
+639,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26309095
+640,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12943623
+641,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308956
+642,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN47623376
+643,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN31087319
+644,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221341
+645,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304660
+646,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN36729156
+647,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN31087390
+648,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12359801
+649,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26305301
+650,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12943648
+651,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN47585722
+652,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN16245240
+653,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308396
+654,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43564205
+655,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN36726662
+656,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12359735
+657,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221160
+658,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43694168
+659,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12091260
+660,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN03177668
+661,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43563669
+662,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43563906
+663,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN36729192
+664,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN04621604
+665,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308885
+666,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43563450
+667,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN15299077
+668,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43694153
+669,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12289081
+670,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12943603
+671,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304507
+672,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN31087226
+673,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221447
+674,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN31087108
+675,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221419
+676,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12943448
+677,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN31087408
+678,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43564839
+679,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308427
+680,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43564334
+681,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221175
+682,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26309326
+683,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN47623382
+684,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221237
+685,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221187
+686,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304999
+687,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN22785518
+688,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12924386
+689,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN07291513
+690,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43564012
+691,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304535
+692,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221538
+693,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221339
+694,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN13682810
+695,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN47623301
+696,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN03177621
+697,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308801
+698,1,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN15053762
+699,1,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN47623302
+700,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308386
+701,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12359737
+702,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304417
+703,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12359871
+704,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43565019
+705,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221655
+706,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304579
+707,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12359721
+708,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN04014922
+709,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12943576
+710,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308829
+711,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43562874
+712,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221472
+713,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN31087153
+714,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN14414513
+715,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304370
+716,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26309100
+717,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304384
+718,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN07332509
+719,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304897
+720,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12990697
+721,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221258
+722,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN31087086
+723,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN16304112
+724,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26305149
+725,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN03177665
+726,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43563172
+727,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN05510454
+728,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26305193
+729,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308661
+730,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304461
+731,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN11372842
+732,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308927
+733,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43563739
+734,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308651
+735,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN14448422
+736,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12684085
+737,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12943499
+738,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26305092
+739,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304321
+740,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304644
+741,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304743
+742,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221205
+743,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12990630
+744,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308358
+745,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN16484154
+746,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26309267
+747,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12587158
+748,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN04568568
+749,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43563436
+750,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221382
+751,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43563283
+752,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221018
+753,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43563286
+754,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26309430
+755,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN16304190
+756,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221629
+757,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308585
+758,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN31087165
+759,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26309022
+760,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221091
+761,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN11372953
+762,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26309285
+763,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308966
+764,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26305224
+765,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221616
+766,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26305248
+767,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN12943747
+768,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43694184
+769,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26309335
+770,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304947
+771,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304476
+772,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26305005
+773,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43563363
+774,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26305283
+775,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26305167
+776,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304449
+777,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26309080
+778,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN36728953
+779,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN11372907
+780,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26305030
+781,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308643
+782,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304845
+783,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304458
+784,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304751
+785,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN13996990
+786,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN31087357
+787,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN14850305
+788,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26305280
+789,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304991
+790,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304649
+791,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN43565160
+792,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26309298
+793,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26309000
+794,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26305076
+795,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26304697
+796,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN10221478
+797,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26308907
+798,0,0,DNA + metadata,E.coli and Shigella,tetracycline,SAMN26305108
+799,0,1,DNA + metadata,E.coli and Shigella,tetracycline,SAMN04339724
+800,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN13930078
+801,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN02699206
+802,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04577341
+803,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN38225595
+804,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN05941624
+805,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03291632
+806,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04856227
+807,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03842264
+808,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03938941
+809,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03938819
+810,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03291515
+811,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN05907758
+812,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12360234
+813,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN02894185
+814,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04217205
+815,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN05202006
+816,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04217332
+817,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04256035
+818,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN11967935
+819,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03938754
+820,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04577465
+821,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04908470
+822,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN12587270
+823,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN02782583
+824,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04577446
+825,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN02699308
+826,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03938932
+827,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN05907762
+828,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12142568
+829,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN05201511
+830,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN02782495
+831,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN20429144
+832,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN11968050
+833,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN02767031
+834,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN05201754
+835,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN12360100
+836,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04224227
+837,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN10133005
+838,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN02699256
+839,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN10132770
+840,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN12138080
+841,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN03894279
+842,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN08114000
+843,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04218175
+844,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN12842989
+845,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN05201943
+846,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04255358
+847,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04867492
+848,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03938895
+849,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN27484015
+850,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03894323
+851,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN26174799
+852,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN02766959
+853,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN10132765
+854,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04255390
+855,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04256007
+856,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04224358
+857,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04255260
+858,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03291556
+859,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN05596296
+860,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN17577685
+861,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN03938873
+862,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN12161881
+863,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12586985
+864,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN12587260
+865,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN18984159
+866,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04255341
+867,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN19314168
+868,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04964208
+869,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04576652
+870,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04577389
+871,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN12843061
+872,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03567171
+873,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04577438
+874,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03938807
+875,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN08114236
+876,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN05201877
+877,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN08114009
+878,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN23391191
+879,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN02777737
+880,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04217334
+881,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04224324
+882,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04217226
+883,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04255142
+884,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03938820
+885,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04577384
+886,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN05201643
+887,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04577206
+888,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04218158
+889,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN05201976
+890,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN11942485
+891,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN02782473
+892,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03938942
+893,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN05201603
+894,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN05201700
+895,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN20286093
+896,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04217280
+897,1,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03842238
+898,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN05596753
+899,1,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12842968
+900,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04532059
+901,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04218245
+902,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN08114226
+903,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN08114113
+904,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN25596648
+905,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN08113939
+906,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN24588003
+907,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN26027247
+908,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN02766967
+909,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN03894343
+910,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN10132996
+911,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12587034
+912,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN02782617
+913,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN03894128
+914,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN03276019
+915,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN05413520
+916,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN02767009
+917,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN05201586
+918,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04568446
+919,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04218222
+920,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03276015
+921,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN02640898
+922,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04224391
+923,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04224444
+924,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN14755082
+925,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN38225729
+926,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04869632
+927,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04507536
+928,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN10132859
+929,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN13018483
+930,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03842308
+931,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN24442247
+932,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04224384
+933,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN05201809
+934,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN38156159
+935,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN19605051
+936,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN38156225
+937,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12702760
+938,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN38156144
+939,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN40541410
+940,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12360226
+941,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04576642
+942,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN10133078
+943,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN05201546
+944,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN12842956
+945,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN05596241
+946,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN05440608
+947,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN02777661
+948,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN08114146
+949,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN02782515
+950,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN16231227
+951,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03894088
+952,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12586935
+953,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03275961
+954,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN13003108
+955,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN11968077
+956,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN11967902
+957,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN02640864
+958,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN03291536
+959,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN12842936
+960,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12360056
+961,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN02782647
+962,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03894296
+963,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04869849
+964,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12897299
+965,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN38225723
+966,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN11968092
+967,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN05413588
+968,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04577404
+969,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN03894283
+970,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04507532
+971,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03894130
+972,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN13186650
+973,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12360078
+974,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12561584
+975,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN25980731
+976,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN02777714
+977,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12842830
+978,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN03938913
+979,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN11967915
+980,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN13991591
+981,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN10132938
+982,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN02782555
+983,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN08114241
+984,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN03894215
+985,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN38225691
+986,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN04576687
+987,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN03269421
+988,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04577379
+989,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04482637
+990,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN12587076
+991,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN03988399
+992,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN05274324
+993,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN12586933
+994,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN08114296
+995,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN02782524
+996,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN16231323
+997,0,1,DNA + metadata,Salmonella enterica,ampicillin,SAMN04224472
+998,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN05596682
+999,0,0,DNA + metadata,Salmonella enterica,ampicillin,SAMN03275988
+1000,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02699332
+1001,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03842387
+1002,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN16231315
+1003,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN05907766
+1004,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02699353
+1005,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03291537
+1006,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04577210
+1007,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04224225
+1008,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN05505559
+1009,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN12842902
+1010,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02782646
+1011,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN12897318
+1012,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN05176306
+1013,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN08113916
+1014,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN10132953
+1015,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02782517
+1016,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN08114139
+1017,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN05201587
+1018,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN10133056
+1019,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02894075
+1020,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN11509985
+1021,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02777819
+1022,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04577481
+1023,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04576596
+1024,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04218247
+1025,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03269439
+1026,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02777678
+1027,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02699215
+1028,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04255295
+1029,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN08113934
+1030,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN12360203
+1031,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02777682
+1032,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04577212
+1033,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN38156175
+1034,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02766966
+1035,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN09771008
+1036,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN05201642
+1037,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN05201603
+1038,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04218212
+1039,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03988254
+1040,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN14755033
+1041,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03938842
+1042,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03988455
+1043,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN38156151
+1044,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN05596269
+1045,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN38225732
+1046,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04217257
+1047,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03842404
+1048,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02640794
+1049,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04217434
+1050,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04255159
+1051,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03988470
+1052,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03276048
+1053,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04577206
+1054,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN14755108
+1055,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03842313
+1056,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN14754938
+1057,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04218117
+1058,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03269495
+1059,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04577420
+1060,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02894183
+1061,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02640840
+1062,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02699211
+1063,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04942608
+1064,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04576673
+1065,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN38156059
+1066,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN05907758
+1067,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN12930425
+1068,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02766991
+1069,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN05201926
+1070,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02777751
+1071,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN09770937
+1072,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN11967914
+1073,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN08114051
+1074,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN18336128
+1075,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04536993
+1076,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03842388
+1077,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04255245
+1078,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03988367
+1079,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02782590
+1080,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02777794
+1081,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04256051
+1082,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN14754970
+1083,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02777829
+1084,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03276092
+1085,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04577355
+1086,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03938933
+1087,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN08114230
+1088,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN08114118
+1089,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04224437
+1090,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03988479
+1091,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN10132982
+1092,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN38156137
+1093,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN12843010
+1094,1,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN25281342
+1095,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02782591
+1096,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN12842925
+1097,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02894041
+1098,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN38156266
+1099,1,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN12783880
+1100,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN12587206
+1101,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04255113
+1102,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02777691
+1103,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03988304
+1104,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN14754944
+1105,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN23206604
+1106,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03938834
+1107,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN10132872
+1108,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03842316
+1109,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN05201555
+1110,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04256047
+1111,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04256015
+1112,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN10132933
+1113,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03269336
+1114,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN05461900
+1115,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN12930410
+1116,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN05201684
+1117,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04218141
+1118,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN38156094
+1119,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN12842922
+1120,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN05596257
+1121,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN38225697
+1122,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN13494306
+1123,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN10133033
+1124,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03988345
+1125,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN09771025
+1126,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02782558
+1127,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN21569108
+1128,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04575034
+1129,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03291649
+1130,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02777710
+1131,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04256110
+1132,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN05001753
+1133,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN12360217
+1134,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN12587117
+1135,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04489848
+1136,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN38156110
+1137,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN38225678
+1138,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02640834
+1139,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN10132967
+1140,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02782568
+1141,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN10133081
+1142,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN08114186
+1143,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN09770860
+1144,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN16424500
+1145,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN12751067
+1146,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04528757
+1147,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02777763
+1148,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04255370
+1149,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04218246
+1150,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN16231280
+1151,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03842367
+1152,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN24118209
+1153,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02894156
+1154,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN38225659
+1155,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN13266243
+1156,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02777669
+1157,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03269505
+1158,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04255288
+1159,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN10242832
+1160,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN05191778
+1161,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN38225641
+1162,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN10133087
+1163,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN05596296
+1164,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02699334
+1165,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02782474
+1166,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02640815
+1167,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN12360176
+1168,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02894178
+1169,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN38156205
+1170,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN12586929
+1171,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03894402
+1172,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04576638
+1173,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN22377525
+1174,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN10133086
+1175,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03276051
+1176,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN16815571
+1177,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03894064
+1178,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN38156191
+1179,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN19406514
+1180,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03894314
+1181,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02894016
+1182,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN08113956
+1183,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN12897324
+1184,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03842310
+1185,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN03894296
+1186,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03291563
+1187,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03894067
+1188,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN11967934
+1189,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN02640824
+1190,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN12842807
+1191,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN12842798
+1192,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN02782660
+1193,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03269417
+1194,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN38225731
+1195,0,1,DNA + metadata,Salmonella enterica,tetracycline,SAMN04217246
+1196,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN04605182
+1197,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN22306580
+1198,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN05245177
+1199,0,0,DNA + metadata,Salmonella enterica,tetracycline,SAMN03988263

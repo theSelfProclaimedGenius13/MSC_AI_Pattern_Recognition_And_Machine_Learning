@@ -1,0 +1,49 @@
+{
+    "model": "Neural Network - Structural + Subject TF-IDF",
+    "structural_features": 25,
+    "tfidf_features": 800,
+    "total_features": 825,
+    "validation": {
+        "loss": 0.6183602809906006,
+        "accuracy": 0.6425196850393701,
+        "precision": 0.6283783783783784,
+        "recall": 0.6138613861386139,
+        "f1": 0.6210350584307178,
+        "roc_auc": 0.7105650324068551
+    },
+    "test": {
+        "loss": 0.5962214469909668,
+        "accuracy": 0.6635220125786163,
+        "precision": 0.6986301369863014,
+        "recall": 0.6181818181818182,
+        "f1": 0.6559485530546624,
+        "roc_auc": 0.7287284610814022
+    },
+    "preprocessing": {
+        "count_transformation": "log1p",
+        "scaler": "StandardScaler",
+        "tfidf_ngram_range": [
+            1,
+            2
+        ],
+        "tfidf_min_df": 3,
+        "tfidf_max_features": 800,
+        "sublinear_tf": true
+    },
+    "training": {
+        "batch_size": 64,
+        "learning_rate": 0.0005,
+        "weight_decay": 0.001,
+        "max_epochs": 100,
+        "early_stopping_patience": 15
+    },
+    "architecture": [
+        "Linear(825, 32)",
+        "ReLU",
+        "Dropout(0.40)",
+        "Linear(32, 16)",
+        "ReLU",
+        "Dropout(0.30)",
+        "Linear(16, 1)"
+    ]
+}

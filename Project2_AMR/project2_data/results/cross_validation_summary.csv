@@ -1,0 +1,4 @@
+Model,Mean_balanced_accuracy,SD_balanced_accuracy,Mean_macro_F1,SD_macro_F1
+DNA + metadata,0.673,0.024,0.673,0.024
+DNA only,0.658,0.021,0.657,0.021
+Metadata only,0.448,0.011,0.441,0.018

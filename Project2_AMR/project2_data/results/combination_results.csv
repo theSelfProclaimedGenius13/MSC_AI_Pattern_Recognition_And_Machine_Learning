@@ -1,0 +1,7 @@
+Organism,Antibiotic,Records,Test records,Test genomes,Accuracy,Balanced accuracy,Macro F1
+Campylobacter jejuni,ciprofloxacin,200,50,50,0.64,0.63,0.631
+Campylobacter jejuni,tetracycline,200,50,50,0.8,0.801,0.797
+E.coli and Shigella,ampicillin,200,50,50,0.7,0.7,0.7
+E.coli and Shigella,tetracycline,200,50,50,0.54,0.538,0.538
+Salmonella enterica,ampicillin,200,50,50,0.82,0.833,0.818
+Salmonella enterica,tetracycline,200,50,50,0.74,0.742,0.74

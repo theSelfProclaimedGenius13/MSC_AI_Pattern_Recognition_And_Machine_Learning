@@ -1,0 +1,7 @@
+organism_group,antibiotic,Correct,False negative,False positive
+Campylobacter jejuni,ciprofloxacin,112,45,43
+Campylobacter jejuni,tetracycline,146,28,26
+E.coli and Shigella,ampicillin,115,37,48
+E.coli and Shigella,tetracycline,125,38,37
+Salmonella enterica,ampicillin,144,24,32
+Salmonella enterica,tetracycline,149,35,16

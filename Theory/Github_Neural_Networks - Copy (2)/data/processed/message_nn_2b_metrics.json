@@ -1,0 +1,19 @@
+{
+    "experiment": "2B",
+    "structural_features": 25,
+    "tfidf_features": 800,
+    "total_features": 825,
+    "train_samples": 2963,
+    "validation_samples": 635,
+    "test_samples": 636,
+    "validation_accuracy": 0.6299212598425197,
+    "validation_precision": 0.6042944785276073,
+    "validation_recall": 0.6501650165016502,
+    "validation_f1": 0.6263910969793323,
+    "validation_roc_auc": 0.6954550876774424,
+    "test_accuracy": 0.64937106918239,
+    "test_precision": 0.6646153846153846,
+    "test_recall": 0.6545454545454545,
+    "test_f1": 0.6595419847328244,
+    "test_roc_auc": 0.7302634184987127
+}

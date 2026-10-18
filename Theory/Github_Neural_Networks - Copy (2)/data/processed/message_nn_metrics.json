@@ -1,0 +1,16 @@
+{
+    "input_features": 4249,
+    "tfidf_features": 4224,
+    "structural_features": 25,
+    "train_samples": 2963,
+    "validation_samples": 635,
+    "test_samples": 636,
+    "validation_accuracy": 0.6299212598425197,
+    "validation_precision": 0.5825242718446602,
+    "validation_recall": 0.7920792079207921,
+    "validation_f1": 0.6713286713286712,
+    "test_accuracy": 0.6289308176100629,
+    "test_precision": 0.6135265700483091,
+    "test_recall": 0.7696969696969697,
+    "test_f1": 0.6827956989247311
+}

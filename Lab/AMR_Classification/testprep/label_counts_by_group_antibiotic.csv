@@ -1,0 +1,607 @@
+organism_group,antibiotic,ast_status_original,records
+Acinetobacter baumannii,amikacin,R,524
+Acinetobacter baumannii,amikacin,S,607
+Acinetobacter baumannii,amoxicillin-clavulanic acid,R,14
+Acinetobacter baumannii,ampicillin,R,651
+Acinetobacter baumannii,ampicillin,S,1
+Acinetobacter baumannii,ampicillin-sulbactam,R,407
+Acinetobacter baumannii,ampicillin-sulbactam,S,525
+Acinetobacter baumannii,azithromycin,R,1
+Acinetobacter baumannii,azithromycin,S,4
+Acinetobacter baumannii,aztreonam,R,650
+Acinetobacter baumannii,benzylpenicillin,R,1
+Acinetobacter baumannii,cefazolin,R,646
+Acinetobacter baumannii,cefazolin,S,1
+Acinetobacter baumannii,cefepime,R,220
+Acinetobacter baumannii,cefepime,S,152
+Acinetobacter baumannii,cefotaxime,R,602
+Acinetobacter baumannii,cefotaxime,S,28
+Acinetobacter baumannii,cefotetan,R,100
+Acinetobacter baumannii,cefotetan,S,1
+Acinetobacter baumannii,cefoxitin,R,467
+Acinetobacter baumannii,cefpodoxime,S,4
+Acinetobacter baumannii,ceftazidime,R,709
+Acinetobacter baumannii,ceftazidime,S,247
+Acinetobacter baumannii,ceftiofur,R,82
+Acinetobacter baumannii,ceftiofur,S,1
+Acinetobacter baumannii,ceftriaxone,R,717
+Acinetobacter baumannii,ceftriaxone,S,82
+Acinetobacter baumannii,cefuroxime,R,5
+Acinetobacter baumannii,cephalothin,R,4
+Acinetobacter baumannii,chloramphenicol,R,6
+Acinetobacter baumannii,ciprofloxacin,R,920
+Acinetobacter baumannii,ciprofloxacin,S,270
+Acinetobacter baumannii,clarithromycin,R,1
+Acinetobacter baumannii,colistin,R,32
+Acinetobacter baumannii,colistin,S,348
+Acinetobacter baumannii,daptomycin,R,1
+Acinetobacter baumannii,doripenem,R,157
+Acinetobacter baumannii,doripenem,S,238
+Acinetobacter baumannii,enrofloxacin,R,75
+Acinetobacter baumannii,enrofloxacin,S,6
+Acinetobacter baumannii,ertapenem,R,8
+Acinetobacter baumannii,erythromycin,R,1
+Acinetobacter baumannii,fosfomycin,R,2
+Acinetobacter baumannii,gentamicin,R,885
+Acinetobacter baumannii,gentamicin,S,287
+Acinetobacter baumannii,imipenem,R,457
+Acinetobacter baumannii,imipenem,S,708
+Acinetobacter baumannii,levofloxacin,R,563
+Acinetobacter baumannii,levofloxacin,S,176
+Acinetobacter baumannii,linezolid,R,1
+Acinetobacter baumannii,marbofloxacin,R,72
+Acinetobacter baumannii,marbofloxacin,S,7
+Acinetobacter baumannii,meropenem,R,412
+Acinetobacter baumannii,meropenem,S,376
+Acinetobacter baumannii,minocycline,R,26
+Acinetobacter baumannii,minocycline,S,156
+Acinetobacter baumannii,moxifloxacin,R,57
+Acinetobacter baumannii,moxifloxacin,S,25
+Acinetobacter baumannii,nalidixic acid,S,4
+Acinetobacter baumannii,nitrofurantoin,R,645
+Acinetobacter baumannii,piperacillin-tazobactam,R,175
+Acinetobacter baumannii,piperacillin-tazobactam,S,97
+Acinetobacter baumannii,polymyxin B,R,52
+Acinetobacter baumannii,polymyxin B,S,284
+Acinetobacter baumannii,rifampin,R,1
+Acinetobacter baumannii,streptomycin,S,4
+Acinetobacter baumannii,sulfisoxazole,S,4
+Acinetobacter baumannii,teicoplanin,R,1
+Acinetobacter baumannii,tetracycline,R,556
+Acinetobacter baumannii,tetracycline,S,259
+Acinetobacter baumannii,ticarcillin-clavulanic acid,R,3
+Acinetobacter baumannii,tigecycline,R,6
+Acinetobacter baumannii,tigecycline,S,360
+Acinetobacter baumannii,tobramycin,R,520
+Acinetobacter baumannii,tobramycin,S,374
+Acinetobacter baumannii,trimethoprim-sulfamethoxazole,R,766
+Acinetobacter baumannii,trimethoprim-sulfamethoxazole,S,200
+Acinetobacter baumannii,vancomycin,R,1
+Campylobacter jejuni,amoxicillin-clavulanic acid,S,163
+Campylobacter jejuni,ampicillin,R,23
+Campylobacter jejuni,ampicillin,S,140
+Campylobacter jejuni,azithromycin,R,87
+Campylobacter jejuni,azithromycin,S,4173
+Campylobacter jejuni,ciprofloxacin,R,977
+Campylobacter jejuni,ciprofloxacin,S,3451
+Campylobacter jejuni,clindamycin,R,120
+Campylobacter jejuni,clindamycin,S,4139
+Campylobacter jejuni,erythromycin,R,95
+Campylobacter jejuni,erythromycin,S,4333
+Campylobacter jejuni,florfenicol,S,4256
+Campylobacter jejuni,gentamicin,R,35
+Campylobacter jejuni,gentamicin,S,4388
+Campylobacter jejuni,meropenem,S,816
+Campylobacter jejuni,nalidixic acid,R,950
+Campylobacter jejuni,nalidixic acid,S,3309
+Campylobacter jejuni,telithromycin,R,61
+Campylobacter jejuni,telithromycin,S,2889
+Campylobacter jejuni,tetracycline,R,2173
+Campylobacter jejuni,tetracycline,S,2254
+E.coli and Shigella,amikacin,R,75
+E.coli and Shigella,amikacin,S,3613
+E.coli and Shigella,amoxicillin,R,60
+E.coli and Shigella,amoxicillin,S,1
+E.coli and Shigella,amoxicillin-clavulanic acid,R,971
+E.coli and Shigella,amoxicillin-clavulanic acid,S,5719
+E.coli and Shigella,ampicillin,R,4035
+E.coli and Shigella,ampicillin,S,4180
+E.coli and Shigella,ampicillin-sulbactam,R,271
+E.coli and Shigella,ampicillin-sulbactam,S,207
+E.coli and Shigella,azithromycin,R,57
+E.coli and Shigella,azithromycin,S,4586
+E.coli and Shigella,aztreonam,R,403
+E.coli and Shigella,aztreonam,S,2081
+E.coli and Shigella,benzylpenicillin,R,1
+E.coli and Shigella,carbenicillin,R,1
+E.coli and Shigella,carbenicillin,S,2
+E.coli and Shigella,cefalexin,R,114
+E.coli and Shigella,cefalexin,S,111
+E.coli and Shigella,cefalotin,R,113
+E.coli and Shigella,cefalotin,S,26
+E.coli and Shigella,cefazolin,R,1057
+E.coli and Shigella,cefazolin,S,1691
+E.coli and Shigella,cefepime,R,804
+E.coli and Shigella,cefepime,S,3048
+E.coli and Shigella,cefixime,R,2
+E.coli and Shigella,cefoperazone,R,106
+E.coli and Shigella,cefoperazone,S,30
+E.coli and Shigella,cefotaxime,R,774
+E.coli and Shigella,cefotaxime,S,302
+E.coli and Shigella,cefotaxime-clavulanic acid,R,56
+E.coli and Shigella,cefotaxime-clavulanic acid,S,285
+E.coli and Shigella,cefotetan,S,5
+E.coli and Shigella,cefovecin,R,10
+E.coli and Shigella,cefovecin,S,2
+E.coli and Shigella,cefoxitin,R,1050
+E.coli and Shigella,cefoxitin,S,4376
+E.coli and Shigella,cefpodoxime,R,126
+E.coli and Shigella,cefpodoxime,S,60
+E.coli and Shigella,ceftaroline,R,3
+E.coli and Shigella,ceftaroline,S,6
+E.coli and Shigella,ceftazidime,R,1086
+E.coli and Shigella,ceftazidime,S,2668
+E.coli and Shigella,ceftazidime-avibactam,R,13
+E.coli and Shigella,ceftazidime-avibactam,S,116
+E.coli and Shigella,ceftazidime-clavulanic acid,R,54
+E.coli and Shigella,ceftazidime-clavulanic acid,S,285
+E.coli and Shigella,ceftiofur,R,523
+E.coli and Shigella,ceftiofur,S,809
+E.coli and Shigella,ceftizoxime,S,1
+E.coli and Shigella,ceftolozane-tazobactam,R,37
+E.coli and Shigella,ceftolozane-tazobactam,S,165
+E.coli and Shigella,ceftriaxone,R,1709
+E.coli and Shigella,ceftriaxone,S,5591
+E.coli and Shigella,cefuroxime,R,12
+E.coli and Shigella,cefuroxime,S,3
+E.coli and Shigella,cephalexin,R,27
+E.coli and Shigella,cephalothin,R,121
+E.coli and Shigella,cephalothin,S,35
+E.coli and Shigella,chloramphenicol,R,501
+E.coli and Shigella,chloramphenicol,S,4195
+E.coli and Shigella,ciprofloxacin,R,1643
+E.coli and Shigella,ciprofloxacin,S,6486
+E.coli and Shigella,clarithromycin,R,1
+E.coli and Shigella,clindamycin,R,5
+E.coli and Shigella,clindamycin,S,4
+E.coli and Shigella,colistin,R,19
+E.coli and Shigella,colistin,S,515
+E.coli and Shigella,daptomycin,R,1
+E.coli and Shigella,daptomycin,S,15
+E.coli and Shigella,delafloxacin,R,6
+E.coli and Shigella,delafloxacin,S,4
+E.coli and Shigella,doripenem,R,39
+E.coli and Shigella,doripenem,S,118
+E.coli and Shigella,doxycycline,R,29
+E.coli and Shigella,doxycycline,S,9
+E.coli and Shigella,enrofloxacin,R,122
+E.coli and Shigella,enrofloxacin,S,27
+E.coli and Shigella,ertapenem,R,132
+E.coli and Shigella,ertapenem,S,3592
+E.coli and Shigella,erythromycin,R,19
+E.coli and Shigella,florfenicol,R,71
+E.coli and Shigella,florfenicol,S,18
+E.coli and Shigella,fluconazole,R,1
+E.coli and Shigella,fosfomycin,R,7
+E.coli and Shigella,fosfomycin,S,99
+E.coli and Shigella,gatifloxacin,R,1
+E.coli and Shigella,gentamicin,R,1305
+E.coli and Shigella,gentamicin,S,6495
+E.coli and Shigella,imipenem,R,71
+E.coli and Shigella,imipenem,S,3329
+E.coli and Shigella,imipenem-relebactam,R,1
+E.coli and Shigella,kanamycin,R,178
+E.coli and Shigella,kanamycin,S,1055
+E.coli and Shigella,levofloxacin,R,1020
+E.coli and Shigella,levofloxacin,S,2190
+E.coli and Shigella,linezolid,R,1
+E.coli and Shigella,linezolid,S,21
+E.coli and Shigella,marbofloxacin,R,121
+E.coli and Shigella,marbofloxacin,S,45
+E.coli and Shigella,mecillinam,S,1
+E.coli and Shigella,meropenem,R,107
+E.coli and Shigella,meropenem,S,6539
+E.coli and Shigella,meropenem-vaborbactam,R,3
+E.coli and Shigella,meropenem-vaborbactam,S,73
+E.coli and Shigella,metronidazole,R,1
+E.coli and Shigella,minocycline,R,11
+E.coli and Shigella,minocycline,S,49
+E.coli and Shigella,moxifloxacin,R,38
+E.coli and Shigella,moxifloxacin,S,19
+E.coli and Shigella,nalidixic acid,R,426
+E.coli and Shigella,nalidixic acid,S,4420
+E.coli and Shigella,neomycin,R,5
+E.coli and Shigella,neomycin,S,125
+E.coli and Shigella,netilmicin,R,1
+E.coli and Shigella,nitrofurantoin,R,27
+E.coli and Shigella,nitrofurantoin,S,560
+E.coli and Shigella,norfloxacin,R,23
+E.coli and Shigella,norfloxacin,S,164
+E.coli and Shigella,ofloxacin,R,2
+E.coli and Shigella,ofloxacin,S,1
+E.coli and Shigella,orbifloxacin,R,11
+E.coli and Shigella,orbifloxacin,S,2
+E.coli and Shigella,oxacillin,R,9
+E.coli and Shigella,oxacillin,S,2
+E.coli and Shigella,piperacillin,R,10
+E.coli and Shigella,piperacillin,S,1
+E.coli and Shigella,piperacillin-tazobactam,R,184
+E.coli and Shigella,piperacillin-tazobactam,S,2871
+E.coli and Shigella,plazomicin,S,5
+E.coli and Shigella,polymyxin,S,4
+E.coli and Shigella,polymyxin B,R,32
+E.coli and Shigella,polymyxin B,S,113
+E.coli and Shigella,rifampin,R,3
+E.coli and Shigella,rifampin,S,7
+E.coli and Shigella,streptomycin,R,1500
+E.coli and Shigella,streptomycin,S,2666
+E.coli and Shigella,sulbactam,R,1
+E.coli and Shigella,sulfamethoxazole,R,333
+E.coli and Shigella,sulfamethoxazole,S,200
+E.coli and Shigella,sulfisoxazole,R,1474
+E.coli and Shigella,sulfisoxazole,S,2638
+E.coli and Shigella,teicoplanin,R,1
+E.coli and Shigella,temocillin,R,3
+E.coli and Shigella,temocillin,S,336
+E.coli and Shigella,tetracycline,R,3272
+E.coli and Shigella,tetracycline,S,4177
+E.coli and Shigella,ticarcillin,R,30
+E.coli and Shigella,ticarcillin,S,1
+E.coli and Shigella,ticarcillin-clavulanic acid,R,63
+E.coli and Shigella,ticarcillin-clavulanic acid,S,40
+E.coli and Shigella,tigecycline,R,9
+E.coli and Shigella,tigecycline,S,770
+E.coli and Shigella,tobramycin,R,348
+E.coli and Shigella,tobramycin,S,2734
+E.coli and Shigella,trimethoprim,R,314
+E.coli and Shigella,trimethoprim,S,309
+E.coli and Shigella,trimethoprim-sulfamethoxazole,R,1563
+E.coli and Shigella,trimethoprim-sulfamethoxazole,S,5981
+E.coli and Shigella,vancomycin,R,2
+E.coli and Shigella,vancomycin,S,18
+E.coli and Shigella,voriconazole,R,1
+Klebsiella pneumoniae,amikacin,R,280
+Klebsiella pneumoniae,amikacin,S,919
+Klebsiella pneumoniae,amoxicillin,R,102
+Klebsiella pneumoniae,amoxicillin-clavulanic acid,R,669
+Klebsiella pneumoniae,amoxicillin-clavulanic acid,S,452
+Klebsiella pneumoniae,ampicillin,R,1083
+Klebsiella pneumoniae,ampicillin,S,18
+Klebsiella pneumoniae,ampicillin-sulbactam,R,309
+Klebsiella pneumoniae,ampicillin-sulbactam,S,112
+Klebsiella pneumoniae,azithromycin,R,6
+Klebsiella pneumoniae,azithromycin,S,1
+Klebsiella pneumoniae,aztreonam,R,592
+Klebsiella pneumoniae,aztreonam,S,91
+Klebsiella pneumoniae,aztreonam-avibactam,S,1
+Klebsiella pneumoniae,benzylpenicillin,R,2
+Klebsiella pneumoniae,carbenicillin,R,1
+Klebsiella pneumoniae,carbenicillin,S,3
+Klebsiella pneumoniae,cefalexin,R,254
+Klebsiella pneumoniae,cefalexin,S,16
+Klebsiella pneumoniae,cefalotin,R,250
+Klebsiella pneumoniae,cefalotin,S,15
+Klebsiella pneumoniae,cefazolin,R,588
+Klebsiella pneumoniae,cefazolin,S,59
+Klebsiella pneumoniae,cefepime,R,805
+Klebsiella pneumoniae,cefepime,S,423
+Klebsiella pneumoniae,cefiderocol,R,2
+Klebsiella pneumoniae,cefiderocol,S,7
+Klebsiella pneumoniae,cefoperazone,R,248
+Klebsiella pneumoniae,cefoperazone,S,18
+Klebsiella pneumoniae,cefotaxime,R,655
+Klebsiella pneumoniae,cefotaxime,S,339
+Klebsiella pneumoniae,cefotaxime-clavulanic acid,R,27
+Klebsiella pneumoniae,cefotaxime-clavulanic acid,S,3
+Klebsiella pneumoniae,cefotetan,R,17
+Klebsiella pneumoniae,cefotetan,S,85
+Klebsiella pneumoniae,cefoxitin,R,651
+Klebsiella pneumoniae,cefoxitin,S,365
+Klebsiella pneumoniae,cefpodoxime,R,62
+Klebsiella pneumoniae,cefpodoxime,S,37
+Klebsiella pneumoniae,ceftaroline,R,6
+Klebsiella pneumoniae,ceftaroline,S,5
+Klebsiella pneumoniae,ceftazidime,R,1213
+Klebsiella pneumoniae,ceftazidime,S,764
+Klebsiella pneumoniae,ceftazidime-avibactam,R,84
+Klebsiella pneumoniae,ceftazidime-avibactam,S,208
+Klebsiella pneumoniae,ceftazidime-clavulanic acid,R,4
+Klebsiella pneumoniae,ceftiofur,R,250
+Klebsiella pneumoniae,ceftiofur,S,16
+Klebsiella pneumoniae,ceftolozane-tazobactam,R,257
+Klebsiella pneumoniae,ceftolozane-tazobactam,S,101
+Klebsiella pneumoniae,ceftriaxone,R,1156
+Klebsiella pneumoniae,ceftriaxone,S,445
+Klebsiella pneumoniae,cefuroxime,R,83
+Klebsiella pneumoniae,cefuroxime,S,33
+Klebsiella pneumoniae,cephalexin,R,3
+Klebsiella pneumoniae,cephalothin,R,75
+Klebsiella pneumoniae,cephalothin,S,49
+Klebsiella pneumoniae,chloramphenicol,R,33
+Klebsiella pneumoniae,chloramphenicol,S,65
+Klebsiella pneumoniae,ciprofloxacin,R,957
+Klebsiella pneumoniae,ciprofloxacin,S,396
+Klebsiella pneumoniae,clarithromycin,R,2
+Klebsiella pneumoniae,clindamycin,R,2
+Klebsiella pneumoniae,clindamycin,S,3
+Klebsiella pneumoniae,colistin,R,86
+Klebsiella pneumoniae,colistin,S,163
+Klebsiella pneumoniae,daptomycin,R,2
+Klebsiella pneumoniae,daptomycin,S,11
+Klebsiella pneumoniae,delafloxacin,R,4
+Klebsiella pneumoniae,delafloxacin,S,1
+Klebsiella pneumoniae,doripenem,R,303
+Klebsiella pneumoniae,doripenem,S,115
+Klebsiella pneumoniae,doxycycline,R,22
+Klebsiella pneumoniae,doxycycline,S,32
+Klebsiella pneumoniae,enrofloxacin,R,214
+Klebsiella pneumoniae,enrofloxacin,S,24
+Klebsiella pneumoniae,ertapenem,R,729
+Klebsiella pneumoniae,ertapenem,S,554
+Klebsiella pneumoniae,erythromycin,R,14
+Klebsiella pneumoniae,erythromycin,S,1
+Klebsiella pneumoniae,florfenicol,R,191
+Klebsiella pneumoniae,florfenicol,S,14
+Klebsiella pneumoniae,fosfomycin,R,15
+Klebsiella pneumoniae,fosfomycin,S,24
+Klebsiella pneumoniae,gatifloxacin,R,1
+Klebsiella pneumoniae,gentamicin,R,626
+Klebsiella pneumoniae,gentamicin,S,662
+Klebsiella pneumoniae,imipenem,R,608
+Klebsiella pneumoniae,imipenem,S,438
+Klebsiella pneumoniae,imipenem-relebactam,R,5
+Klebsiella pneumoniae,imipenem-relebactam,S,1
+Klebsiella pneumoniae,levofloxacin,R,486
+Klebsiella pneumoniae,levofloxacin,S,332
+Klebsiella pneumoniae,linezolid,R,2
+Klebsiella pneumoniae,linezolid,S,17
+Klebsiella pneumoniae,marbofloxacin,R,210
+Klebsiella pneumoniae,marbofloxacin,S,55
+Klebsiella pneumoniae,meropenem,R,727
+Klebsiella pneumoniae,meropenem,S,637
+Klebsiella pneumoniae,meropenem-vaborbactam,R,11
+Klebsiella pneumoniae,meropenem-vaborbactam,S,28
+Klebsiella pneumoniae,minocycline,R,39
+Klebsiella pneumoniae,minocycline,S,80
+Klebsiella pneumoniae,moxifloxacin,R,42
+Klebsiella pneumoniae,moxifloxacin,S,61
+Klebsiella pneumoniae,nalidixic acid,R,48
+Klebsiella pneumoniae,nalidixic acid,S,75
+Klebsiella pneumoniae,neomycin,R,44
+Klebsiella pneumoniae,neomycin,S,188
+Klebsiella pneumoniae,netilmicin,R,3
+Klebsiella pneumoniae,netilmicin,S,5
+Klebsiella pneumoniae,nitrofurantoin,R,225
+Klebsiella pneumoniae,nitrofurantoin,S,77
+Klebsiella pneumoniae,norfloxacin,R,3
+Klebsiella pneumoniae,omadacycline,R,1
+Klebsiella pneumoniae,omadacycline,S,2
+Klebsiella pneumoniae,orbifloxacin,R,3
+Klebsiella pneumoniae,oxacillin,R,6
+Klebsiella pneumoniae,oxacillin,S,2
+Klebsiella pneumoniae,piperacillin,R,49
+Klebsiella pneumoniae,piperacillin,S,6
+Klebsiella pneumoniae,piperacillin-tazobactam,R,900
+Klebsiella pneumoniae,piperacillin-tazobactam,S,639
+Klebsiella pneumoniae,plazomicin,R,10
+Klebsiella pneumoniae,plazomicin,S,6
+Klebsiella pneumoniae,polymyxin,S,5
+Klebsiella pneumoniae,polymyxin B,R,219
+Klebsiella pneumoniae,polymyxin B,S,182
+Klebsiella pneumoniae,rifampin,R,2
+Klebsiella pneumoniae,rifampin,S,4
+Klebsiella pneumoniae,streptomycin,R,2
+Klebsiella pneumoniae,streptomycin,S,1
+Klebsiella pneumoniae,sulbactam,R,3
+Klebsiella pneumoniae,sulfamethoxazole,R,10
+Klebsiella pneumoniae,sulfamethoxazole,S,3
+Klebsiella pneumoniae,sulfisoxazole,R,1
+Klebsiella pneumoniae,sulfisoxazole,S,3
+Klebsiella pneumoniae,teicoplanin,R,2
+Klebsiella pneumoniae,tetracycline,R,340
+Klebsiella pneumoniae,tetracycline,S,318
+Klebsiella pneumoniae,ticarcillin-clavulanic acid,R,299
+Klebsiella pneumoniae,ticarcillin-clavulanic acid,S,16
+Klebsiella pneumoniae,tigecycline,R,26
+Klebsiella pneumoniae,tigecycline,S,508
+Klebsiella pneumoniae,tobramycin,R,557
+Klebsiella pneumoniae,tobramycin,S,375
+Klebsiella pneumoniae,trimethoprim,R,6
+Klebsiella pneumoniae,trimethoprim,S,3
+Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,R,880
+Klebsiella pneumoniae,trimethoprim-sulfamethoxazole,S,439
+Klebsiella pneumoniae,vancomycin,R,6
+Klebsiella pneumoniae,vancomycin,S,12
+Mycobacterium tuberculosis,capreomycin,R,4
+Mycobacterium tuberculosis,capreomycin,S,1
+Mycobacterium tuberculosis,ciprofloxacin,R,5
+Mycobacterium tuberculosis,ciprofloxacin,S,13
+Mycobacterium tuberculosis,clarithromycin,S,11
+Mycobacterium tuberculosis,cycloserine,S,11
+Mycobacterium tuberculosis,ethambutol,R,11
+Mycobacterium tuberculosis,ethambutol,S,1256
+Mycobacterium tuberculosis,ethionamide,R,4
+Mycobacterium tuberculosis,ethionamide,S,4
+Mycobacterium tuberculosis,isoniazid,R,26
+Mycobacterium tuberculosis,isoniazid,S,1249
+Mycobacterium tuberculosis,ofloxacin,R,5
+Mycobacterium tuberculosis,ofloxacin,S,14
+Mycobacterium tuberculosis,pyrazinamide,R,11
+Mycobacterium tuberculosis,pyrazinamide,S,132
+Mycobacterium tuberculosis,rifampin,R,30
+Mycobacterium tuberculosis,rifampin,S,1241
+Mycobacterium tuberculosis,streptomycin,R,66
+Mycobacterium tuberculosis,streptomycin,S,1210
+Salmonella enterica,amikacin,R,6
+Salmonella enterica,amikacin,S,2982
+Salmonella enterica,amoxicillin,R,4
+Salmonella enterica,amoxicillin-clavulanic acid,R,903
+Salmonella enterica,amoxicillin-clavulanic acid,S,8042
+Salmonella enterica,ampicillin,R,2520
+Salmonella enterica,ampicillin,S,7343
+Salmonella enterica,ampicillin-sulbactam,R,7
+Salmonella enterica,ampicillin-sulbactam,S,2
+Salmonella enterica,azithromycin,R,42
+Salmonella enterica,azithromycin,S,6981
+Salmonella enterica,aztreonam,R,4
+Salmonella enterica,aztreonam,S,3
+Salmonella enterica,cefalotin,R,4
+Salmonella enterica,cefazolin,R,9
+Salmonella enterica,cefazolin,S,2
+Salmonella enterica,cefepime,R,4
+Salmonella enterica,cefepime,S,8
+Salmonella enterica,cefotaxime,R,8
+Salmonella enterica,cefotaxime,S,89
+Salmonella enterica,cefoxitin,R,805
+Salmonella enterica,cefoxitin,S,8692
+Salmonella enterica,ceftazidime,R,53
+Salmonella enterica,ceftazidime,S,200
+Salmonella enterica,ceftazidime-avibactam,S,2
+Salmonella enterica,ceftiofur,R,715
+Salmonella enterica,ceftiofur,S,4132
+Salmonella enterica,ceftolozane-tazobactam,R,1
+Salmonella enterica,ceftolozane-tazobactam,S,1
+Salmonella enterica,ceftriaxone,R,1233
+Salmonella enterica,ceftriaxone,S,8375
+Salmonella enterica,chloramphenicol,R,653
+Salmonella enterica,chloramphenicol,S,9092
+Salmonella enterica,ciprofloxacin,R,758
+Salmonella enterica,ciprofloxacin,S,8815
+Salmonella enterica,colistin,R,4
+Salmonella enterica,colistin,S,88
+Salmonella enterica,doripenem,R,1
+Salmonella enterica,doripenem,S,7
+Salmonella enterica,ertapenem,R,1
+Salmonella enterica,ertapenem,S,10
+Salmonella enterica,erythromycin,S,1
+Salmonella enterica,gentamicin,R,955
+Salmonella enterica,gentamicin,S,8564
+Salmonella enterica,imipenem,R,1
+Salmonella enterica,imipenem,S,161
+Salmonella enterica,kanamycin,R,478
+Salmonella enterica,kanamycin,S,3375
+Salmonella enterica,levofloxacin,R,1
+Salmonella enterica,levofloxacin,S,20
+Salmonella enterica,meropenem,R,1
+Salmonella enterica,meropenem,S,4825
+Salmonella enterica,minocycline,R,2
+Salmonella enterica,minocycline,S,2
+Salmonella enterica,nalidixic acid,R,846
+Salmonella enterica,nalidixic acid,S,8830
+Salmonella enterica,nitrofurantoin,S,4
+Salmonella enterica,pefloxacin,R,1
+Salmonella enterica,piperacillin,R,1
+Salmonella enterica,piperacillin,S,2
+Salmonella enterica,piperacillin-tazobactam,R,5
+Salmonella enterica,piperacillin-tazobactam,S,4
+Salmonella enterica,polymyxin B,S,3
+Salmonella enterica,spectinomycin,S,1
+Salmonella enterica,streptomycin,R,3320
+Salmonella enterica,streptomycin,S,5423
+Salmonella enterica,sulfamethoxazole,R,91
+Salmonella enterica,sulfamethoxazole,S,341
+Salmonella enterica,sulfisoxazole,R,2743
+Salmonella enterica,sulfisoxazole,S,6499
+Salmonella enterica,sulfonamide,R,4
+Salmonella enterica,tetracycline,R,4979
+Salmonella enterica,tetracycline,S,4822
+Salmonella enterica,ticarcillin,R,4
+Salmonella enterica,tigecycline,S,102
+Salmonella enterica,tobramycin,R,5
+Salmonella enterica,tobramycin,S,5
+Salmonella enterica,trimethoprim,R,1
+Salmonella enterica,trimethoprim,S,81
+Salmonella enterica,trimethoprim-sulfamethoxazole,R,332
+Salmonella enterica,trimethoprim-sulfamethoxazole,S,9300
+Salmonella enterica,vancomycin,S,1
+Staphylococcus aureus,amikacin,R,3
+Staphylococcus aureus,amikacin,S,12
+Staphylococcus aureus,amoxicillin,R,5
+Staphylococcus aureus,amoxicillin-clavulanic acid,R,3
+Staphylococcus aureus,amoxicillin-clavulanic acid,S,7
+Staphylococcus aureus,ampicillin,R,7
+Staphylococcus aureus,ampicillin-sulbactam,R,3
+Staphylococcus aureus,ampicillin-sulbactam,S,7
+Staphylococcus aureus,azithromycin,S,3
+Staphylococcus aureus,benzylpenicillin,R,1
+Staphylococcus aureus,carbenicillin,S,2
+Staphylococcus aureus,cefazolin,R,4
+Staphylococcus aureus,cefazolin,S,9
+Staphylococcus aureus,cefepime,R,1
+Staphylococcus aureus,cefepime,S,2
+Staphylococcus aureus,cefotaxime,R,1
+Staphylococcus aureus,cefoxitin,R,226
+Staphylococcus aureus,cefoxitin,S,256
+Staphylococcus aureus,cefpodoxime,R,1
+Staphylococcus aureus,ceftaroline,R,26
+Staphylococcus aureus,ceftaroline,S,271
+Staphylococcus aureus,ceftazidime,S,2
+Staphylococcus aureus,ceftriaxone,R,5
+Staphylococcus aureus,ceftriaxone,S,10
+Staphylococcus aureus,cefuroxime,R,1
+Staphylococcus aureus,cephalexin,S,1
+Staphylococcus aureus,chloramphenicol,S,18
+Staphylococcus aureus,ciprofloxacin,R,40
+Staphylococcus aureus,ciprofloxacin,S,722
+Staphylococcus aureus,clindamycin,R,413
+Staphylococcus aureus,clindamycin,S,875
+Staphylococcus aureus,daptomycin,R,32
+Staphylococcus aureus,daptomycin,S,647
+Staphylococcus aureus,delafloxacin,R,11
+Staphylococcus aureus,delafloxacin,S,8
+Staphylococcus aureus,dicloxacillin,R,1
+Staphylococcus aureus,doxycycline,R,28
+Staphylococcus aureus,doxycycline,S,92
+Staphylococcus aureus,enrofloxacin,S,5
+Staphylococcus aureus,ertapenem,S,1
+Staphylococcus aureus,erythromycin,R,564
+Staphylococcus aureus,erythromycin,S,732
+Staphylococcus aureus,fosfomycin,S,1
+Staphylococcus aureus,fusidic acid,R,12
+Staphylococcus aureus,fusidic acid,S,261
+Staphylococcus aureus,gentamicin,R,143
+Staphylococcus aureus,gentamicin,S,979
+Staphylococcus aureus,imipenem,S,10
+Staphylococcus aureus,kanamycin,S,1
+Staphylococcus aureus,levofloxacin,R,178
+Staphylococcus aureus,levofloxacin,S,544
+Staphylococcus aureus,linezolid,R,34
+Staphylococcus aureus,linezolid,S,913
+Staphylococcus aureus,meropenem,S,12
+Staphylococcus aureus,metronidazole,R,1
+Staphylococcus aureus,minocycline,S,431
+Staphylococcus aureus,moxifloxacin,R,5
+Staphylococcus aureus,moxifloxacin,S,149
+Staphylococcus aureus,mupirocin,R,53
+Staphylococcus aureus,mupirocin,S,245
+Staphylococcus aureus,nafcillin,R,1
+Staphylococcus aureus,nalidixic acid,R,1
+Staphylococcus aureus,nitrofurantoin,R,2
+Staphylococcus aureus,nitrofurantoin,S,267
+Staphylococcus aureus,ofloxacin,S,1
+Staphylococcus aureus,oxacillin,R,430
+Staphylococcus aureus,oxacillin,S,882
+Staphylococcus aureus,penicillin,R,425
+Staphylococcus aureus,penicillin,S,51
+Staphylococcus aureus,piperacillin-tazobactam,S,1
+Staphylococcus aureus,quinupristin,S,4
+Staphylococcus aureus,quinupristin-dalfopristin,S,2
+Staphylococcus aureus,rifampin,R,38
+Staphylococcus aureus,rifampin,S,1268
+Staphylococcus aureus,streptomycin,S,1
+Staphylococcus aureus,synercid,S,3
+Staphylococcus aureus,tedizolid,R,21
+Staphylococcus aureus,tedizolid,S,2
+Staphylococcus aureus,teicoplanin,R,1
+Staphylococcus aureus,teicoplanin,S,270
+Staphylococcus aureus,tetracycline,R,87
+Staphylococcus aureus,tetracycline,S,676
+Staphylococcus aureus,tigecycline,S,154
+Staphylococcus aureus,tobramycin,R,1
+Staphylococcus aureus,tobramycin,S,4
+Staphylococcus aureus,trimethoprim,R,2
+Staphylococcus aureus,trimethoprim,S,6
+Staphylococcus aureus,trimethoprim-sulfamethoxazole,R,65
+Staphylococcus aureus,trimethoprim-sulfamethoxazole,S,1178
+Staphylococcus aureus,vancomycin,R,26
+Staphylococcus aureus,vancomycin,S,1018

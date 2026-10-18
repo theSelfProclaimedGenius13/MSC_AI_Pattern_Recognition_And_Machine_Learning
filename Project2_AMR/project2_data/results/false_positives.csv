@@ -1,0 +1,203 @@
+assembly_accession,organism_group,antibiotic,actual_label,predicted_label
+GCA_005178425.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005287545.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_060799325.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005330425.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005297375.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005296605.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005364005.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005023055.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005178685.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005282845.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_004974865.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005284005.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_013685855.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005297665.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_034211555.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_021642845.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005330405.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_004877855.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_004972405.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005294185.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005327635.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_004879185.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_006359255.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005285745.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005326905.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005028275.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_014722115.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_060780845.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005284645.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005360645.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_034213755.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_004975085.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_019217865.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_060796425.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005361325.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005362825.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_006361575.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005364205.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005284185.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_060799025.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_005282525.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_034212235.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_018176455.1,Campylobacter jejuni,ciprofloxacin,Susceptible,Resistant
+GCA_014597715.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_004874865.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_014618915.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_060783185.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_014606835.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_005329405.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_034217075.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_005013495.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_014619215.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_034216515.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_005289745.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_005119285.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_005360065.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_010310005.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_005289645.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_004882725.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_034214555.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_005286085.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_005329525.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_005358145.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_019269115.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_005287405.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_014722735.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_021356685.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_019185125.2,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_004901695.2,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_018177535.1,Campylobacter jejuni,tetracycline,Susceptible,Resistant
+GCA_014747825.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_012593045.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_023864025.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_012400025.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_012994485.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_014942765.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_023859085.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_044135335.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_012075735.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_014748125.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_023882545.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_012663065.2,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_044153085.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_059054745.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_003792045.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_003791685.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_014745655.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_014028875.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_012347975.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_012621845.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_050502355.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_020437565.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_044148405.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_012074565.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_003792165.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_044079535.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_044693525.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_012307315.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_049208165.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_000798075.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_044698575.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_020381005.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_044135385.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_012074785.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_003794755.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_023886145.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_012603495.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_000819065.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_023869015.1,E.coli and Shigella,ampicillin,Susceptible,Resistant
+GCA_023886725.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_044693205.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_002996945.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_012604765.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_023881745.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_044684065.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_025832455.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_012880695.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_012442345.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_012609635.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_003775505.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_025833825.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_015675195.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_000798575.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_044682845.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_023859905.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_023858885.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_044690205.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_023867775.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_016232995.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_003794475.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_025789875.2,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_012007805.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_044698835.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_044700585.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_003773545.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_044687005.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_015334145.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_046370425.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_033200515.2,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_023862145.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_023879305.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_023890345.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_025828495.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_023880245.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_023886565.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_044693765.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_023877785.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_003791885.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_023870465.1,E.coli and Shigella,tetracycline,Susceptible,Resistant
+GCA_011137715.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_010613225.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_021349025.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_006753345.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_007183235.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_007193505.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_014577135.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_046011435.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_009090445.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_007186455.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_021304755.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_007759115.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_018801005.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_046013795.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_008855925.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_046041855.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_001240625.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_006691605.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_008760555.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_001245135.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_046011315.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_008427325.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_001241515.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_011648615.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_007756395.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_011352145.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_008465265.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_008470845.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_011480315.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_008523875.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_010631245.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_006811385.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_007195575.1,Salmonella enterica,ampicillin,Susceptible,Resistant
+GCA_007191095.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_007183655.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_010823965.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_046013595.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_008513675.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_008517155.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_006695085.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_007751815.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_006629825.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_046016755.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_011550115.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_001247455.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_006754665.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_001245545.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_008897745.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_001245135.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_008758795.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_046011455.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_007195515.1,Salmonella enterica,tetracycline,Susceptible,Resistant
+GCA_020525425.1,Salmonella enterica,tetracycline,Susceptible,Resistant

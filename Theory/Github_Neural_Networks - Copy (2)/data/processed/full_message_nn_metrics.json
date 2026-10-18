@@ -1,0 +1,20 @@
+{
+    "experiment": "3",
+    "text_type": "full_commit_message",
+    "structural_features": 25,
+    "tfidf_features": 1200,
+    "total_features": 1225,
+    "train_samples": 2963,
+    "validation_samples": 635,
+    "test_samples": 636,
+    "validation_accuracy": 0.631496062992126,
+    "validation_precision": 0.6068111455108359,
+    "validation_recall": 0.6468646864686468,
+    "validation_f1": 0.6261980830670927,
+    "validation_roc_auc": 0.6936657521173805,
+    "test_accuracy": 0.6320754716981132,
+    "test_precision": 0.6395348837209303,
+    "test_recall": 0.6666666666666666,
+    "test_f1": 0.6528189910979229,
+    "test_roc_auc": 0.7144880174291939
+}

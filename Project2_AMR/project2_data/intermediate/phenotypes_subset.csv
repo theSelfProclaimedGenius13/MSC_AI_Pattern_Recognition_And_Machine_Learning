@@ -1,0 +1,1201 @@
+organism_group,biosample_accession,assembly_accession,antibiotic,ast_status_original,label,label_binary,strain
+Campylobacter jejuni,SAMN07633435,GCA_004972925.1,ciprofloxacin,R,resistant,1.0,CVM N16C119
+Campylobacter jejuni,SAMN12035700,GCA_006358955.1,ciprofloxacin,R,resistant,1.0,CVM N18C559
+Campylobacter jejuni,SAMN07633319,GCA_004971725.1,ciprofloxacin,R,resistant,1.0,CVM N16C001
+Campylobacter jejuni,SAMN11047786,GCA_005119285.1,ciprofloxacin,R,resistant,1.0,CVM N18C257
+Campylobacter jejuni,SAMN04599777,GCA_005287165.1,ciprofloxacin,R,resistant,1.0,FSIS1606038
+Campylobacter jejuni,SAMN09783303,GCA_005363185.1,ciprofloxacin,R,resistant,1.0,CVM N17C721
+Campylobacter jejuni,SAMN19674306,GCA_018873445.1,ciprofloxacin,R,resistant,1.0,PNUSAC021623
+Campylobacter jejuni,SAMN09604940,GCA_005332525.1,ciprofloxacin,R,resistant,1.0,CVM N17C057
+Campylobacter jejuni,SAMN09605295,GCA_005324655.1,ciprofloxacin,R,resistant,1.0,CVM N17C573
+Campylobacter jejuni,SAMN05440727,GCA_005297005.1,ciprofloxacin,R,resistant,1.0,FSIS1607073
+Campylobacter jejuni,SAMN62387513,GCA_060798815.1,ciprofloxacin,R,resistant,1.0,PNCC001008
+Campylobacter jejuni,SAMN04599785,GCA_005287185.1,ciprofloxacin,R,resistant,1.0,FSIS1606046
+Campylobacter jejuni,SAMN07633623,GCA_004974685.1,ciprofloxacin,R,resistant,1.0,CVM N16C310
+Campylobacter jejuni,SAMN38672095,GCA_034211435.1,ciprofloxacin,R,resistant,1.0,21PA05CL01-C1
+Campylobacter jejuni,SAMN11047958,GCA_004876975.1,ciprofloxacin,R,resistant,1.0,CVM N18C450
+Campylobacter jejuni,SAMN12585639,GCA_014619075.1,ciprofloxacin,R,resistant,1.0,
+Campylobacter jejuni,SAMN04600087,GCA_005288085.1,ciprofloxacin,R,resistant,1.0,FSIS1606154
+Campylobacter jejuni,SAMN38672198,GCA_034214875.1,ciprofloxacin,R,resistant,1.0,21NC09CL01-C1
+Campylobacter jejuni,SAMN62387145,GCA_060801525.1,ciprofloxacin,R,resistant,1.0,PNCC000640
+Campylobacter jejuni,SAMN16231167,GCA_014721915.1,ciprofloxacin,R,resistant,1.0,CVM N19C491
+Campylobacter jejuni,SAMN04869749,GCA_005289545.1,ciprofloxacin,R,resistant,1.0,FSIS1606312
+Campylobacter jejuni,SAMN04958206,GCA_005290065.1,ciprofloxacin,R,resistant,1.0,FSIS1606355
+Campylobacter jejuni,SAMN37751380,GCA_032629165.2,ciprofloxacin,R,resistant,1.0,21TX04CG01-C1
+Campylobacter jejuni,SAMN09605328,GCA_005329685.1,ciprofloxacin,R,resistant,1.0,CVM N17C622
+Campylobacter jejuni,SAMN09605029,GCA_005326505.1,ciprofloxacin,R,resistant,1.0,CVM N17C155
+Campylobacter jejuni,SAMN13153447,GCA_009416125.1,ciprofloxacin,R,resistant,1.0,19MD09CB29-C
+Campylobacter jejuni,SAMN09605336,GCA_005334685.1,ciprofloxacin,R,resistant,1.0,CVM N17C632
+Campylobacter jejuni,SAMN62387172,GCA_060802575.1,ciprofloxacin,R,resistant,1.0,PNCC000667
+Campylobacter jejuni,SAMN27520491,GCA_022921555.1,ciprofloxacin,R,resistant,1.0,21CA02CB04-C1
+Campylobacter jejuni,SAMN13708334,GCA_010362525.1,ciprofloxacin,R,resistant,1.0,19SD10CB38-C1
+Campylobacter jejuni,SAMN04508257,GCA_005283845.1,ciprofloxacin,R,resistant,1.0,FSIS1605808
+Campylobacter jejuni,SAMN04524179,GCA_005284325.1,ciprofloxacin,R,resistant,1.0,FSIS1605852
+Campylobacter jejuni,SAMN38672047,GCA_034218135.1,ciprofloxacin,R,resistant,1.0,21NC03CH01-C1
+Campylobacter jejuni,SAMN62387400,GCA_060792795.1,ciprofloxacin,R,resistant,1.0,PNCC000895
+Campylobacter jejuni,SAMN09783139,GCA_005360465.1,ciprofloxacin,R,resistant,1.0,CVM N17C381
+Campylobacter jejuni,SAMN25582462,GCA_021875595.1,ciprofloxacin,R,resistant,1.0,21MN10CB04-C1
+Campylobacter jejuni,SAMN62387463,GCA_060785045.1,ciprofloxacin,R,resistant,1.0,PNCC000958
+Campylobacter jejuni,SAMN09605360,GCA_005328085.1,ciprofloxacin,R,resistant,1.0,CVM N17C665
+Campylobacter jejuni,SAMN38672290,GCA_034215715.1,ciprofloxacin,R,resistant,1.0,21NM12CG01-C1
+Campylobacter jejuni,SAMN09783390,GCA_005364015.1,ciprofloxacin,R,resistant,1.0,CVM N17C808
+Campylobacter jejuni,SAMN07633740,GCA_005023515.1,ciprofloxacin,R,resistant,1.0,CVM N16C429
+Campylobacter jejuni,SAMN62387518,GCA_060798975.1,ciprofloxacin,R,resistant,1.0,PNCC001013
+Campylobacter jejuni,SAMN09605011,GCA_005331645.1,ciprofloxacin,R,resistant,1.0,CVM N17C137
+Campylobacter jejuni,SAMN09605270,GCA_005333245.1,ciprofloxacin,R,resistant,1.0,CVM N17C540
+Campylobacter jejuni,SAMN13920672,GCA_010308885.1,ciprofloxacin,R,resistant,1.0,19IA12CB28-C1
+Campylobacter jejuni,SAMN12289144,GCA_007470835.2,ciprofloxacin,R,resistant,1.0,19TN06CB18K-C1
+Campylobacter jejuni,SAMN11047655,GCA_004873385.1,ciprofloxacin,R,resistant,1.0,CVM N18C116
+Campylobacter jejuni,SAMN05189927,GCA_005292325.1,ciprofloxacin,R,resistant,1.0,FSIS1606718
+Campylobacter jejuni,SAMN12906189,GCA_008857965.1,ciprofloxacin,R,resistant,1.0,CVM N19C303
+Campylobacter jejuni,SAMN09604922,GCA_005331205.1,ciprofloxacin,R,resistant,1.0,CVM N17C036
+Campylobacter jejuni,SAMN16231210,GCA_014722215.1,ciprofloxacin,R,resistant,1.0,CVM N19C731
+Campylobacter jejuni,SAMN12906161,GCA_008889705.1,ciprofloxacin,R,resistant,1.0,CVM N19C210
+Campylobacter jejuni,SAMN04528906,GCA_005284565.1,ciprofloxacin,R,resistant,1.0,FSIS1605926
+Campylobacter jejuni,SAMN38672011,GCA_034213595.1,ciprofloxacin,R,resistant,1.0,21CO02CG01-C1
+Campylobacter jejuni,SAMN62387481,GCA_060780725.1,ciprofloxacin,R,resistant,1.0,PNCC000976
+Campylobacter jejuni,SAMN09604961,GCA_005329765.1,ciprofloxacin,R,resistant,1.0,CVM N17C078
+Campylobacter jejuni,SAMN09605220,GCA_005330485.1,ciprofloxacin,R,resistant,1.0,CVM N17C489
+Campylobacter jejuni,SAMN04580866,GCA_005286805.1,ciprofloxacin,R,resistant,1.0,FSIS1606095
+Campylobacter jejuni,SAMN62387270,GCA_060796035.1,ciprofloxacin,R,resistant,1.0,PNCC000765
+Campylobacter jejuni,SAMN11047946,GCA_004878985.1,ciprofloxacin,R,resistant,1.0,CVM N18C437
+Campylobacter jejuni,SAMN09783296,GCA_005363435.1,ciprofloxacin,R,resistant,1.0,CVM N17C714
+Campylobacter jejuni,SAMN20847462,GCA_019680375.1,ciprofloxacin,R,resistant,1.0,PNUSAC023187
+Campylobacter jejuni,SAMN12035671,GCA_006359875.1,ciprofloxacin,R,resistant,1.0,CVM N18C527
+Campylobacter jejuni,SAMN62387303,GCA_060783225.1,ciprofloxacin,R,resistant,1.0,PNCC000798
+Campylobacter jejuni,SAMN11047844,GCA_004879665.1,ciprofloxacin,R,resistant,1.0,CVM N18C324
+Campylobacter jejuni,SAMN62387489,GCA_060780865.1,ciprofloxacin,R,resistant,1.0,PNCC000984
+Campylobacter jejuni,SAMN09783167,GCA_005361185.1,ciprofloxacin,R,resistant,1.0,CVM N17C409
+Campylobacter jejuni,SAMN04599793,GCA_005287365.1,ciprofloxacin,R,resistant,1.0,FSIS1606054
+Campylobacter jejuni,SAMN05301254,GCA_005293825.1,ciprofloxacin,R,resistant,1.0,FSIS1606814
+Campylobacter jejuni,SAMN09605236,GCA_005329745.1,ciprofloxacin,R,resistant,1.0,CVM N17C506
+Campylobacter jejuni,SAMN62387161,GCA_060783925.1,ciprofloxacin,R,resistant,1.0,PNCC000656
+Campylobacter jejuni,SAMN16231162,GCA_014721755.1,ciprofloxacin,R,resistant,1.0,CVM N19C448
+Campylobacter jejuni,SAMN38672066,GCA_034216655.1,ciprofloxacin,R,resistant,1.0,21MO04CG01-C2
+Campylobacter jejuni,SAMN14754874,GCA_014606995.1,ciprofloxacin,R,resistant,1.0,CVM N19C369
+Campylobacter jejuni,SAMN62387455,GCA_060776685.1,ciprofloxacin,R,resistant,1.0,PNCC000950
+Campylobacter jejuni,SAMN04580859,GCA_005287125.1,ciprofloxacin,R,resistant,1.0,FSIS1606088
+Campylobacter jejuni,SAMN38672115,GCA_034211875.1,ciprofloxacin,R,resistant,1.0,21WA05CG01-C1
+Campylobacter jejuni,SAMN09604898,GCA_005334985.1,ciprofloxacin,R,resistant,1.0,CVM N17C012
+Campylobacter jejuni,SAMN12648963,GCA_008727455.1,ciprofloxacin,R,resistant,1.0,AR-0413
+Campylobacter jejuni,SAMN62387230,GCA_060795055.1,ciprofloxacin,R,resistant,1.0,PNCC000725
+Campylobacter jejuni,SAMN09605222,GCA_005328595.1,ciprofloxacin,R,resistant,1.0,CVM N17C491
+Campylobacter jejuni,SAMN09605326,GCA_005334165.1,ciprofloxacin,R,resistant,1.0,CVM N17C618
+Campylobacter jejuni,SAMN09783323,GCA_005358105.1,ciprofloxacin,R,resistant,1.0,CVM N17C741
+Campylobacter jejuni,SAMN07633637,GCA_005025805.1,ciprofloxacin,R,resistant,1.0,CVM N16C324
+Campylobacter jejuni,SAMN09605103,GCA_005334305.1,ciprofloxacin,R,resistant,1.0,CVM N17C240
+Campylobacter jejuni,SAMN11047802,GCA_004876965.1,ciprofloxacin,R,resistant,1.0,CVM N18C277
+Campylobacter jejuni,SAMN17833674,GCA_017078555.1,ciprofloxacin,R,resistant,1.0,PNUSAC019964
+Campylobacter jejuni,SAMN09605039,GCA_005328935.1,ciprofloxacin,R,resistant,1.0,CVM N17C165
+Campylobacter jejuni,SAMN04625669,GCA_005289085.1,ciprofloxacin,R,resistant,1.0,FSIS1606224
+Campylobacter jejuni,SAMN62387210,GCA_060792945.1,ciprofloxacin,R,resistant,1.0,PNCC000705
+Campylobacter jejuni,SAMN11047614,GCA_004882325.1,ciprofloxacin,R,resistant,1.0,CVM N18C071
+Campylobacter jejuni,SAMN09604991,GCA_005327715.1,ciprofloxacin,R,resistant,1.0,CVM N17C116
+Campylobacter jejuni,SAMN05013896,GCA_005289005.1,ciprofloxacin,R,resistant,1.0,FSIS1606550
+Campylobacter jejuni,SAMN62387430,GCA_060782505.1,ciprofloxacin,R,resistant,1.0,PNCC000925
+Campylobacter jejuni,SAMN07633732,GCA_005181445.1,ciprofloxacin,R,resistant,1.0,CVM N16C421
+Campylobacter jejuni,SAMN07633529,GCA_005149465.1,ciprofloxacin,R,resistant,1.0,CVM N16C214
+Campylobacter jejuni,SAMN12087880,GCA_007913645.1,ciprofloxacin,R,resistant,1.0,19LA03CB24C1
+Campylobacter jejuni,SAMN09605351,GCA_005330905.1,ciprofloxacin,R,resistant,1.0,CVM N17C652
+Campylobacter jejuni,SAMN12606335,GCA_008130745.1,ciprofloxacin,R,resistant,1.0,CVM N19C045
+Campylobacter jejuni,SAMN16231151,GCA_014721485.1,ciprofloxacin,R,resistant,1.0,CVM N19C231
+Campylobacter jejuni,SAMN11047740,GCA_005119265.1,ciprofloxacin,S,susceptible,0.0,CVM N18C205
+Campylobacter jejuni,SAMN62387414,GCA_060784705.1,ciprofloxacin,S,susceptible,0.0,PNCC000909
+Campylobacter jejuni,SAMN07633749,GCA_005178425.1,ciprofloxacin,S,susceptible,0.0,CVM N16C438
+Campylobacter jejuni,SAMN38672306,GCA_034216135.1,ciprofloxacin,S,susceptible,0.0,21PA10CL01-C1
+Campylobacter jejuni,SAMN04600089,GCA_005287545.1,ciprofloxacin,S,susceptible,0.0,FSIS1606156
+Campylobacter jejuni,SAMN62387533,GCA_060799325.1,ciprofloxacin,S,susceptible,0.0,PNCC001028
+Campylobacter jejuni,SAMN09605248,GCA_005330425.1,ciprofloxacin,S,susceptible,0.0,CVM N17C518
+Campylobacter jejuni,SAMN12035628,GCA_006359195.1,ciprofloxacin,S,susceptible,0.0,CVM N18C481
+Campylobacter jejuni,SAMN05505582,GCA_005297375.1,ciprofloxacin,S,susceptible,0.0,FSIS1607096
+Campylobacter jejuni,SAMN05505588,GCA_005296605.1,ciprofloxacin,S,susceptible,0.0,FSIS1607134
+Campylobacter jejuni,SAMN12035635,GCA_006359075.1,ciprofloxacin,S,susceptible,0.0,CVM N18C490
+Campylobacter jejuni,SAMN09783388,GCA_005364005.1,ciprofloxacin,S,susceptible,0.0,CVM N17C806
+Campylobacter jejuni,SAMN07633563,GCA_005023055.1,ciprofloxacin,S,susceptible,0.0,CVM N16C248
+Campylobacter jejuni,SAMN07633667,GCA_005178685.1,ciprofloxacin,S,susceptible,0.0,CVM N16C354
+Campylobacter jejuni,SAMN62387244,GCA_060778845.1,ciprofloxacin,S,susceptible,0.0,PNCC000739
+Campylobacter jejuni,SAMN38672049,GCA_034218175.1,ciprofloxacin,S,susceptible,0.0,21CO03CG01-C1
+Campylobacter jejuni,SAMN04461472,GCA_005282845.1,ciprofloxacin,S,susceptible,0.0,FSIS1605623
+Campylobacter jejuni,SAMN11047791,GCA_004875925.1,ciprofloxacin,S,susceptible,0.0,CVM N18C266
+Campylobacter jejuni,SAMN07633639,GCA_004974865.1,ciprofloxacin,S,susceptible,0.0,CVM N16C326
+Campylobacter jejuni,SAMN04508228,GCA_005284005.1,ciprofloxacin,S,susceptible,0.0,FSIS1605779
+Campylobacter jejuni,SAMN04599778,GCA_005287325.1,ciprofloxacin,S,susceptible,0.0,FSIS1606039
+Campylobacter jejuni,SAMN15297859,GCA_013685855.1,ciprofloxacin,S,susceptible,0.0,19TX09CB29-C
+Campylobacter jejuni,SAMN12906153,GCA_008889805.1,ciprofloxacin,S,susceptible,0.0,CVM N19C192
+Campylobacter jejuni,SAMN09783346,GCA_005358635.1,ciprofloxacin,S,susceptible,0.0,CVM N17C764
+Campylobacter jejuni,SAMN05190038,GCA_005292925.1,ciprofloxacin,S,susceptible,0.0,FSIS1606480
+Campylobacter jejuni,SAMN05558630,GCA_005297665.1,ciprofloxacin,S,susceptible,0.0,FSIS1607222
+Campylobacter jejuni,SAMN11047796,GCA_004877085.1,ciprofloxacin,S,susceptible,0.0,CVM N18C271
+Campylobacter jejuni,SAMN38672101,GCA_034211555.1,ciprofloxacin,S,susceptible,0.0,21CA04CH01-C1
+Campylobacter jejuni,SAMN38672224,GCA_034212435.1,ciprofloxacin,S,susceptible,0.0,21CA09CL01UCD-C1
+Campylobacter jejuni,SAMN09783253,GCA_005358465.1,ciprofloxacin,S,susceptible,0.0,CVM N17C668
+Campylobacter jejuni,SAMN25247373,GCA_021642845.1,ciprofloxacin,S,susceptible,0.0,PNUSAC026007
+Campylobacter jejuni,SAMN09604926,GCA_005330405.1,ciprofloxacin,S,susceptible,0.0,CVM N17C041
+Campylobacter jejuni,SAMN09605099,GCA_005334325.1,ciprofloxacin,S,susceptible,0.0,CVM N17C236
+Campylobacter jejuni,SAMN11047827,GCA_004877855.1,ciprofloxacin,S,susceptible,0.0,CVM N18C306
+Campylobacter jejuni,SAMN04942547,GCA_005288785.1,ciprofloxacin,S,susceptible,0.0,FSIS1606379
+Campylobacter jejuni,SAMN09783212,GCA_005362425.1,ciprofloxacin,S,susceptible,0.0,CVM N17C458
+Campylobacter jejuni,SAMN07633326,GCA_004972405.1,ciprofloxacin,S,susceptible,0.0,CVM N16C008
+Campylobacter jejuni,SAMN11047749,GCA_004873325.1,ciprofloxacin,S,susceptible,0.0,CVM N18C214
+Campylobacter jejuni,SAMN04508235,GCA_005282925.1,ciprofloxacin,S,susceptible,0.0,FSIS1605786
+Campylobacter jejuni,SAMN05366794,GCA_005294185.1,ciprofloxacin,S,susceptible,0.0,FSIS1606894
+Campylobacter jejuni,SAMN07633432,GCA_005018015.1,ciprofloxacin,S,susceptible,0.0,CVM N16C116
+Campylobacter jejuni,SAMN12035695,GCA_006357795.1,ciprofloxacin,S,susceptible,0.0,CVM N18C552
+Campylobacter jejuni,SAMN05440722,GCA_005295705.1,ciprofloxacin,S,susceptible,0.0,FSIS1607032
+Campylobacter jejuni,SAMN07633386,GCA_005207015.1,ciprofloxacin,S,susceptible,0.0,CVM N16C070
+Campylobacter jejuni,SAMN09605091,GCA_005327635.1,ciprofloxacin,S,susceptible,0.0,CVM N17C227
+Campylobacter jejuni,SAMN13825572,GCA_010360325.1,ciprofloxacin,S,susceptible,0.0,19LA12CB26C1
+Campylobacter jejuni,SAMN09783094,GCA_005360085.1,ciprofloxacin,S,susceptible,0.0,CVM N17C216
+Campylobacter jejuni,SAMN11047959,GCA_004879185.1,ciprofloxacin,S,susceptible,0.0,CVM N18C451
+Campylobacter jejuni,SAMN11854454,GCA_005928315.2,ciprofloxacin,S,susceptible,0.0,19OR02CB17-C1
+Campylobacter jejuni,SAMN16231177,GCA_014722355.1,ciprofloxacin,S,susceptible,0.0,CVM N19C634
+Campylobacter jejuni,SAMN38672289,GCA_034215755.1,ciprofloxacin,S,susceptible,0.0,21OH12CL01-C1
+Campylobacter jejuni,SAMN19461832,GCA_018754135.1,ciprofloxacin,S,susceptible,0.0,21SC05CB04-C1
+Campylobacter jejuni,SAMN12783968,GCA_008622405.1,ciprofloxacin,S,susceptible,0.0,19IA07CB20-C1
+Campylobacter jejuni,SAMN12585648,GCA_014617505.1,ciprofloxacin,S,susceptible,0.0,
+Campylobacter jejuni,SAMN18986040,GCA_033982475.1,ciprofloxacin,S,susceptible,0.0,21NC03CB06-C
+Campylobacter jejuni,SAMN12035636,GCA_006359255.1,ciprofloxacin,S,susceptible,0.0,CVM N18C491
+Campylobacter jejuni,SAMN04537002,GCA_005285745.1,ciprofloxacin,S,susceptible,0.0,FSIS1605935
+Campylobacter jejuni,SAMN09604931,GCA_005326905.1,ciprofloxacin,S,susceptible,0.0,CVM N17C048
+Campylobacter jejuni,SAMN09783173,GCA_005360525.1,ciprofloxacin,S,susceptible,0.0,CVM N17C416
+Campylobacter jejuni,SAMN09783186,GCA_005361925.1,ciprofloxacin,S,susceptible,0.0,CVM N17C430
+Campylobacter jejuni,SAMN12035729,GCA_006359175.1,ciprofloxacin,S,susceptible,0.0,CVM N18C590
+Campylobacter jejuni,SAMN62387256,GCA_060795805.1,ciprofloxacin,S,susceptible,0.0,PNCC000751
+Campylobacter jejuni,SAMN09605036,GCA_005326365.1,ciprofloxacin,S,susceptible,0.0,CVM N17C162
+Campylobacter jejuni,SAMN07633597,GCA_005028275.1,ciprofloxacin,S,susceptible,0.0,CVM N16C283
+Campylobacter jejuni,SAMN05274303,GCA_005291255.1,ciprofloxacin,S,susceptible,0.0,FSIS1606812
+Campylobacter jejuni,SAMN11047861,GCA_004878905.1,ciprofloxacin,S,susceptible,0.0,CVM N18C341
+Campylobacter jejuni,SAMN09605164,GCA_005328335.1,ciprofloxacin,S,susceptible,0.0,CVM N17C319
+Campylobacter jejuni,SAMN16231174,GCA_014722115.1,ciprofloxacin,S,susceptible,0.0,CVM N19C616
+Campylobacter jejuni,SAMN62387486,GCA_060780845.1,ciprofloxacin,S,susceptible,0.0,PNCC000981
+Campylobacter jejuni,SAMN05190016,GCA_005292705.1,ciprofloxacin,S,susceptible,0.0,FSIS1606457
+Campylobacter jejuni,SAMN07633715,GCA_004975245.1,ciprofloxacin,S,susceptible,0.0,CVM N16C404
+Campylobacter jejuni,SAMN05413484,GCA_005295045.1,ciprofloxacin,S,susceptible,0.0,FSIS1606944
+Campylobacter jejuni,SAMN11047805,GCA_004877605.1,ciprofloxacin,S,susceptible,0.0,CVM N18C280
+Campylobacter jejuni,SAMN62387526,GCA_060783565.1,ciprofloxacin,S,susceptible,0.0,PNCC001021
+Campylobacter jejuni,SAMN04599783,GCA_005284645.1,ciprofloxacin,S,susceptible,0.0,FSIS1606044
+Campylobacter jejuni,SAMN09783269,GCA_005360645.1,ciprofloxacin,S,susceptible,0.0,CVM N17C687
+Campylobacter jejuni,SAMN04599784,GCA_005284685.1,ciprofloxacin,S,susceptible,0.0,FSIS1606045
+Campylobacter jejuni,SAMN05505575,GCA_005296945.1,ciprofloxacin,S,susceptible,0.0,FSIS1607089
+Campylobacter jejuni,SAMN12906144,GCA_008858825.1,ciprofloxacin,S,susceptible,0.0,CVM N19C174
+Campylobacter jejuni,SAMN38672161,GCA_034213755.1,ciprofloxacin,S,susceptible,0.0,21CO07CL01-C1
+Campylobacter jejuni,SAMN07633599,GCA_005147985.1,ciprofloxacin,S,susceptible,0.0,CVM N16C285
+Campylobacter jejuni,SAMN04508248,GCA_005283445.1,ciprofloxacin,S,susceptible,0.0,FSIS1605799
+Campylobacter jejuni,SAMN04537008,GCA_005284445.1,ciprofloxacin,S,susceptible,0.0,FSIS1605941
+Campylobacter jejuni,SAMN07633683,GCA_004975085.1,ciprofloxacin,S,susceptible,0.0,CVM N16C370
+Campylobacter jejuni,SAMN20209544,GCA_019217865.1,ciprofloxacin,S,susceptible,0.0,21MN05CG01-C1
+Campylobacter jejuni,SAMN62387285,GCA_060796425.1,ciprofloxacin,S,susceptible,0.0,PNCC000780
+Campylobacter jejuni,SAMN18914393,GCA_018347815.1,ciprofloxacin,S,susceptible,0.0,21IA03CG01-C1
+Campylobacter jejuni,SAMN09783274,GCA_005361325.1,ciprofloxacin,S,susceptible,0.0,CVM N17C692
+Campylobacter jejuni,SAMN09783405,GCA_005362825.1,ciprofloxacin,S,susceptible,0.0,CVM N17C824
+Campylobacter jejuni,SAMN07633626,GCA_004974605.1,ciprofloxacin,S,susceptible,0.0,CVM N16C313
+Campylobacter jejuni,SAMN12035674,GCA_006361575.1,ciprofloxacin,S,susceptible,0.0,CVM N18C530
+Campylobacter jejuni,SAMN09783324,GCA_005364205.1,ciprofloxacin,S,susceptible,0.0,CVM N17C742
+Campylobacter jejuni,SAMN04514652,GCA_005284185.1,ciprofloxacin,S,susceptible,0.0,FSIS1605726
+Campylobacter jejuni,SAMN09605267,GCA_005332985.1,ciprofloxacin,S,susceptible,0.0,CVM N17C537
+Campylobacter jejuni,SAMN62387520,GCA_060799025.1,ciprofloxacin,S,susceptible,0.0,PNCC001015
+Campylobacter jejuni,SAMN04461483,GCA_005282525.1,ciprofloxacin,S,susceptible,0.0,FSIS1605612
+Campylobacter jejuni,SAMN38672218,GCA_034212235.1,ciprofloxacin,S,susceptible,0.0,21PA08CH01-C1
+Campylobacter jejuni,SAMN13293619,GCA_018176455.1,ciprofloxacin,S,susceptible,0.0,PNUSAC013394
+Campylobacter jejuni,SAMN04625686,GCA_005289105.1,ciprofloxacin,S,susceptible,0.0,FSIS1606241
+Campylobacter jejuni,SAMN62387419,GCA_060784745.1,ciprofloxacin,S,susceptible,0.0,PNCC000914
+Campylobacter jejuni,SAMN07633838,GCA_004976845.1,tetracycline,R,resistant,1.0,CVM N16C533
+Campylobacter jejuni,SAMN14754868,GCA_014597255.1,tetracycline,R,resistant,1.0,CVM N19C170
+Campylobacter jejuni,SAMN12035602,GCA_006358275.1,tetracycline,R,resistant,1.0,CVM N18C260
+Campylobacter jejuni,SAMN11047750,GCA_004873865.1,tetracycline,R,resistant,1.0,CVM N18C215
+Campylobacter jejuni,SAMN62387431,GCA_060791545.1,tetracycline,R,resistant,1.0,PNCC000926
+Campylobacter jejuni,SAMN38672302,GCA_034216035.1,tetracycline,R,resistant,1.0,21TN12CL01N-C1
+Campylobacter jejuni,SAMN13781657,GCA_010358485.1,tetracycline,R,resistant,1.0,19SD10CB28-C1
+Campylobacter jejuni,SAMN09783338,GCA_005358925.1,tetracycline,R,resistant,1.0,CVM N17C756
+Campylobacter jejuni,SAMN62387462,GCA_060785025.1,tetracycline,R,resistant,1.0,PNCC000957
+Campylobacter jejuni,SAMN11047898,GCA_004880105.1,tetracycline,R,resistant,1.0,CVM N18C380
+Campylobacter jejuni,SAMN11047839,GCA_004877665.1,tetracycline,R,resistant,1.0,CVM N18C319
+Campylobacter jejuni,SAMN11047702,GCA_004875405.1,tetracycline,R,resistant,1.0,CVM N18C167
+Campylobacter jejuni,SAMN04524198,GCA_005284985.1,tetracycline,R,resistant,1.0,FSIS1605871
+Campylobacter jejuni,SAMN62387151,GCA_060783885.1,tetracycline,R,resistant,1.0,PNCC000646
+Campylobacter jejuni,SAMN14754907,GCA_014606615.1,tetracycline,R,resistant,1.0,CVM N19C540
+Campylobacter jejuni,SAMN04537005,GCA_005284425.1,tetracycline,R,resistant,1.0,FSIS1605938
+Campylobacter jejuni,SAMN04461472,GCA_005282845.1,tetracycline,R,resistant,1.0,FSIS1605623
+Campylobacter jejuni,SAMN05505588,GCA_005296605.1,tetracycline,R,resistant,1.0,FSIS1607134
+Campylobacter jejuni,SAMN62387264,GCA_060779325.1,tetracycline,R,resistant,1.0,PNCC000759
+Campylobacter jejuni,SAMN62387147,GCA_060801585.1,tetracycline,R,resistant,1.0,PNCC000642
+Campylobacter jejuni,SAMN38672290,GCA_034215715.1,tetracycline,R,resistant,1.0,21NM12CG01-C1
+Campylobacter jejuni,SAMN11047943,GCA_004878545.1,tetracycline,R,resistant,1.0,CVM N18C433
+Campylobacter jejuni,SAMN62387243,GCA_060795475.1,tetracycline,R,resistant,1.0,PNCC000738
+Campylobacter jejuni,SAMN12606330,GCA_008129305.1,tetracycline,R,resistant,1.0,CVM N19C039
+Campylobacter jejuni,SAMN05189927,GCA_005292325.1,tetracycline,R,resistant,1.0,FSIS1606718
+Campylobacter jejuni,SAMN15297388,GCA_017688835.1,tetracycline,R,resistant,1.0,PNUSAC016623
+Campylobacter jejuni,SAMN62387425,GCA_060782485.1,tetracycline,R,resistant,1.0,PNCC000920
+Campylobacter jejuni,SAMN04625662,GCA_005289445.1,tetracycline,R,resistant,1.0,FSIS1606174
+Campylobacter jejuni,SAMN12906125,GCA_020943305.1,tetracycline,R,resistant,1.0,CVM N19C136
+Campylobacter jejuni,SAMN07633492,GCA_004973585.1,tetracycline,R,resistant,1.0,CVM N16C177
+Campylobacter jejuni,SAMN09605049,GCA_005330745.1,tetracycline,R,resistant,1.0,CVM N17C178
+Campylobacter jejuni,SAMN13836749,GCA_010305935.1,tetracycline,R,resistant,1.0,19MD11GT16-C
+Campylobacter jejuni,SAMN04528880,GCA_005286385.1,tetracycline,R,resistant,1.0,FSIS1605843
+Campylobacter jejuni,SAMN04599783,GCA_005284645.1,tetracycline,R,resistant,1.0,FSIS1606044
+Campylobacter jejuni,SAMN38672101,GCA_034211555.1,tetracycline,R,resistant,1.0,21CA04CH01-C1
+Campylobacter jejuni,SAMN09604961,GCA_005329765.1,tetracycline,R,resistant,1.0,CVM N17C078
+Campylobacter jejuni,SAMN62387527,GCA_060799175.1,tetracycline,R,resistant,1.0,PNCC001022
+Campylobacter jejuni,SAMN05366801,GCA_005294405.1,tetracycline,R,resistant,1.0,FSIS1606901
+Campylobacter jejuni,SAMN38672008,GCA_034212115.1,tetracycline,R,resistant,1.0,21WA01CL01-C1
+Campylobacter jejuni,SAMN62387328,GCA_060777505.1,tetracycline,R,resistant,1.0,PNCC000823
+Campylobacter jejuni,SAMN62387294,GCA_060779805.1,tetracycline,R,resistant,1.0,PNCC000789
+Campylobacter jejuni,SAMN31428618,GCA_025845135.1,tetracycline,R,resistant,1.0,21MD07CL01-C1
+Campylobacter jejuni,SAMN38672240,GCA_034217295.1,tetracycline,R,resistant,1.0,21TN09CH02N-C1
+Campylobacter jejuni,SAMN07633557,GCA_004974385.1,tetracycline,R,resistant,1.0,CVM N16C242
+Campylobacter jejuni,SAMN09604955,GCA_005332885.1,tetracycline,R,resistant,1.0,CVM N17C072
+Campylobacter jejuni,SAMN38672276,GCA_034215255.1,tetracycline,R,resistant,1.0,21TX12CH01-C1
+Campylobacter jejuni,SAMN62387464,GCA_060780525.1,tetracycline,R,resistant,1.0,PNCC000959
+Campylobacter jejuni,SAMN09605327,GCA_005329725.1,tetracycline,R,resistant,1.0,CVM N17C621
+Campylobacter jejuni,SAMN05013909,GCA_005290465.1,tetracycline,R,resistant,1.0,FSIS1606564
+Campylobacter jejuni,SAMN38672249,GCA_034217395.1,tetracycline,R,resistant,1.0,21NY08CL01-C2
+Campylobacter jejuni,SAMN62387290,GCA_060797695.1,tetracycline,R,resistant,1.0,PNCC000785
+Campylobacter jejuni,SAMN38672157,GCA_034213675.1,tetracycline,R,resistant,1.0,21TX07CL01-C1
+Campylobacter jejuni,SAMN62387416,GCA_060776125.1,tetracycline,R,resistant,1.0,PNCC000911
+Campylobacter jejuni,SAMN05013900,GCA_005288685.1,tetracycline,R,resistant,1.0,FSIS1606554
+Campylobacter jejuni,SAMN04536999,GCA_005285685.1,tetracycline,R,resistant,1.0,FSIS1605932
+Campylobacter jejuni,SAMN07633670,GCA_005023155.1,tetracycline,R,resistant,1.0,CVM N16C357
+Campylobacter jejuni,SAMN09783160,GCA_005361085.1,tetracycline,R,resistant,1.0,CVM N17C402
+Campylobacter jejuni,SAMN05189938,GCA_005292565.1,tetracycline,R,resistant,1.0,FSIS1606729
+Campylobacter jejuni,SAMN04526072,GCA_005286325.1,tetracycline,R,resistant,1.0,FSIS1605887
+Campylobacter jejuni,SAMN05558630,GCA_005297665.1,tetracycline,R,resistant,1.0,FSIS1607222
+Campylobacter jejuni,SAMN09604890,GCA_005330085.1,tetracycline,R,resistant,1.0,CVM N17C004
+Campylobacter jejuni,SAMN04599799,GCA_005287105.1,tetracycline,R,resistant,1.0,FSIS1606061
+Campylobacter jejuni,SAMN11047862,GCA_004878945.1,tetracycline,R,resistant,1.0,CVM N18C342
+Campylobacter jejuni,SAMN04625670,GCA_005291165.1,tetracycline,R,resistant,1.0,FSIS1606225
+Campylobacter jejuni,SAMN04524189,GCA_005285065.1,tetracycline,R,resistant,1.0,FSIS1605862
+Campylobacter jejuni,SAMN11047751,GCA_005218125.1,tetracycline,R,resistant,1.0,CVM N18C216
+Campylobacter jejuni,SAMN07633687,GCA_004975925.1,tetracycline,R,resistant,1.0,CVM N16C374
+Campylobacter jejuni,SAMN09605080,GCA_005327895.1,tetracycline,R,resistant,1.0,CVM N17C211
+Campylobacter jejuni,SAMN07633831,GCA_005008275.1,tetracycline,R,resistant,1.0,CVM N16C526
+Campylobacter jejuni,SAMN38672093,GCA_034214235.1,tetracycline,R,resistant,1.0,21PA05CB05-C1
+Campylobacter jejuni,SAMN05558628,GCA_005297845.1,tetracycline,R,resistant,1.0,FSIS1607220
+Campylobacter jejuni,SAMN05413498,GCA_005294665.1,tetracycline,R,resistant,1.0,FSIS1607003
+Campylobacter jejuni,SAMN12087875,GCA_007913865.1,tetracycline,R,resistant,1.0,19LA04CB10C1
+Campylobacter jejuni,SAMN07633839,GCA_004976925.1,tetracycline,R,resistant,1.0,CVM N16C534
+Campylobacter jejuni,SAMN20509453,GCA_019439425.1,tetracycline,R,resistant,1.0,21LA06CB03-C1
+Campylobacter jejuni,SAMN04625691,GCA_005288845.1,tetracycline,R,resistant,1.0,FSIS1606246
+Campylobacter jejuni,SAMN62387303,GCA_060783225.1,tetracycline,R,resistant,1.0,PNCC000798
+Campylobacter jejuni,SAMN04625674,GCA_005289425.1,tetracycline,R,resistant,1.0,FSIS1606229
+Campylobacter jejuni,SAMN05189931,GCA_005292485.1,tetracycline,R,resistant,1.0,FSIS1606722
+Campylobacter jejuni,SAMN62387397,GCA_060782865.1,tetracycline,R,resistant,1.0,PNCC000892
+Campylobacter jejuni,SAMN05013906,GCA_005290125.1,tetracycline,R,resistant,1.0,FSIS1606560
+Campylobacter jejuni,SAMN62387326,GCA_060777425.1,tetracycline,R,resistant,1.0,PNCC000821
+Campylobacter jejuni,SAMN38672108,GCA_034211715.1,tetracycline,R,resistant,1.0,21NM05CH01-C1
+Campylobacter jejuni,SAMN04508249,GCA_005283965.1,tetracycline,R,resistant,1.0,FSIS1605800
+Campylobacter jejuni,SAMN09605296,GCA_005324395.1,tetracycline,R,resistant,1.0,CVM N17C574
+Campylobacter jejuni,SAMN05440728,GCA_005294695.1,tetracycline,R,resistant,1.0,FSIS1607074
+Campylobacter jejuni,SAMN05440729,GCA_005294465.1,tetracycline,R,resistant,1.0,FSIS1607075
+Campylobacter jejuni,SAMN12606353,GCA_008130645.1,tetracycline,R,resistant,1.0,CVM N19C081
+Campylobacter jejuni,SAMN38672091,GCA_034214255.1,tetracycline,R,resistant,1.0,21PA04CL01-C1
+Campylobacter jejuni,SAMN13025377,GCA_009112925.1,tetracycline,R,resistant,1.0,19LA09CB04C1
+Campylobacter jejuni,SAMN05013903,GCA_005290145.1,tetracycline,R,resistant,1.0,FSIS1606557
+Campylobacter jejuni,SAMN11047609,GCA_004882225.1,tetracycline,R,resistant,1.0,CVM N18C066
+Campylobacter jejuni,SAMN09605007,GCA_005331525.1,tetracycline,R,resistant,1.0,CVM N17C133
+Campylobacter jejuni,SAMN04958217,GCA_005288405.1,tetracycline,R,resistant,1.0,FSIS1606366
+Campylobacter jejuni,SAMN38672205,GCA_034214975.1,tetracycline,R,resistant,1.0,21NM09CL01-C1
+Campylobacter jejuni,SAMN62387402,GCA_060786295.1,tetracycline,R,resistant,1.0,PNCC000897
+Campylobacter jejuni,SAMN04599794,GCA_005287285.1,tetracycline,R,resistant,1.0,FSIS1606055
+Campylobacter jejuni,SAMN05190019,GCA_005292725.1,tetracycline,R,resistant,1.0,FSIS1606460
+Campylobacter jejuni,SAMN07633691,GCA_005022055.1,tetracycline,R,resistant,1.0,CVM N16C380
+Campylobacter jejuni,SAMN62387456,GCA_060791975.1,tetracycline,R,resistant,1.0,PNCC000951
+Campylobacter jejuni,SAMN12585786,GCA_014618155.1,tetracycline,S,susceptible,0.0,
+Campylobacter jejuni,SAMN07633817,GCA_004976725.1,tetracycline,S,susceptible,0.0,CVM N16C512
+Campylobacter jejuni,SAMN14754904,GCA_014597715.1,tetracycline,S,susceptible,0.0,CVM N19C536
+Campylobacter jejuni,SAMN07633343,GCA_005008975.1,tetracycline,S,susceptible,0.0,CVM N16C027
+Campylobacter jejuni,SAMN12585750,GCA_014620125.1,tetracycline,S,susceptible,0.0,
+Campylobacter jejuni,SAMN11047724,GCA_004874865.1,tetracycline,S,susceptible,0.0,CVM N18C189
+Campylobacter jejuni,SAMN12585742,GCA_014618915.1,tetracycline,S,susceptible,0.0,
+Campylobacter jejuni,SAMN62387455,GCA_060776685.1,tetracycline,S,susceptible,0.0,PNCC000950
+Campylobacter jejuni,SAMN14754901,GCA_014606625.1,tetracycline,S,susceptible,0.0,CVM N19C532
+Campylobacter jejuni,SAMN12993393,GCA_008930565.1,tetracycline,S,susceptible,0.0,PNUSAC010827
+Campylobacter jejuni,SAMN07633466,GCA_004974185.1,tetracycline,S,susceptible,0.0,CVM N16C151
+Campylobacter jejuni,SAMN13327261,GCA_010213455.1,tetracycline,S,susceptible,0.0,PNUSAC013408
+Campylobacter jejuni,SAMN12862106,GCA_008768175.1,tetracycline,S,susceptible,0.0,PNUSAC012015
+Campylobacter jejuni,SAMN09783118,GCA_005359505.1,tetracycline,S,susceptible,0.0,CVM N17C359
+Campylobacter jejuni,SAMN12035599,GCA_006353415.1,tetracycline,S,susceptible,0.0,CVM N18C256
+Campylobacter jejuni,SAMN12585746,GCA_014618975.1,tetracycline,S,susceptible,0.0,
+Campylobacter jejuni,SAMN62387128,GCA_060800675.1,tetracycline,S,susceptible,0.0,PNCC000623
+Campylobacter jejuni,SAMN38672129,GCA_034212875.1,tetracycline,S,susceptible,0.0,21NC06CG01-C1
+Campylobacter jejuni,SAMN62387297,GCA_060783185.1,tetracycline,S,susceptible,0.0,PNCC000792
+Campylobacter jejuni,SAMN14754918,GCA_014606835.1,tetracycline,S,susceptible,0.0,CVM N19C587
+Campylobacter jejuni,SAMN07633515,GCA_005160125.1,tetracycline,S,susceptible,0.0,CVM N16C200
+Campylobacter jejuni,SAMN09605168,GCA_005329405.1,tetracycline,S,susceptible,0.0,CVM N17C323
+Campylobacter jejuni,SAMN12236624,GCA_007460545.1,tetracycline,S,susceptible,0.0,19LA05CB06C1
+Campylobacter jejuni,SAMN62387410,GCA_060784625.1,tetracycline,S,susceptible,0.0,PNCC000905
+Campylobacter jejuni,SAMN14754881,GCA_014606405.1,tetracycline,S,susceptible,0.0,CVM N19C401
+Campylobacter jejuni,SAMN38672085,GCA_034217075.1,tetracycline,S,susceptible,0.0,21TN03CL01K-C1
+Campylobacter jejuni,SAMN18914393,GCA_018347815.1,tetracycline,S,susceptible,0.0,21IA03CG01-C1
+Campylobacter jejuni,SAMN07633531,GCA_005013495.1,tetracycline,S,susceptible,0.0,CVM N16C216
+Campylobacter jejuni,SAMN62387370,GCA_060778225.1,tetracycline,S,susceptible,0.0,PNCC000865
+Campylobacter jejuni,SAMN07633471,GCA_005008175.1,tetracycline,S,susceptible,0.0,CVM N16C156
+Campylobacter jejuni,SAMN62387437,GCA_060776485.1,tetracycline,S,susceptible,0.0,PNCC000932
+Campylobacter jejuni,SAMN12606357,GCA_008130525.1,tetracycline,S,susceptible,0.0,CVM N19C102
+Campylobacter jejuni,SAMN12862104,GCA_008768215.1,tetracycline,S,susceptible,0.0,PNUSAC012014
+Campylobacter jejuni,SAMN09783217,GCA_005363115.1,tetracycline,S,susceptible,0.0,CVM N17C463
+Campylobacter jejuni,SAMN12035601,GCA_006358295.1,tetracycline,S,susceptible,0.0,CVM N18C259
+Campylobacter jejuni,SAMN12585671,GCA_014619215.1,tetracycline,S,susceptible,0.0,
+Campylobacter jejuni,SAMN12161666,GCA_006545885.1,tetracycline,S,susceptible,0.0,19TN04CB18N-C
+Campylobacter jejuni,SAMN09783365,GCA_005359065.1,tetracycline,S,susceptible,0.0,CVM N17C783
+Campylobacter jejuni,SAMN38672070,GCA_034216735.1,tetracycline,S,susceptible,0.0,21CA04CL01UCD-C1
+Campylobacter jejuni,SAMN38672006,GCA_034211635.1,tetracycline,S,susceptible,0.0,21WA01CG01-C1
+Campylobacter jejuni,SAMN05049822,GCA_005291725.1,tetracycline,S,susceptible,0.0,FSIS1606605
+Campylobacter jejuni,SAMN38672265,GCA_034217755.1,tetracycline,S,susceptible,0.0,21MO11CG01-C1
+Campylobacter jejuni,SAMN38672031,GCA_034216515.1,tetracycline,S,susceptible,0.0,21MO03CL01-C1
+Campylobacter jejuni,SAMN04942549,GCA_005289745.1,tetracycline,S,susceptible,0.0,FSIS1606381
+Campylobacter jejuni,SAMN38672118,GCA_034211955.1,tetracycline,S,susceptible,0.0,21MO06CH01-C1
+Campylobacter jejuni,SAMN11047855,GCA_004879465.1,tetracycline,S,susceptible,0.0,CVM N18C335
+Campylobacter jejuni,SAMN11047786,GCA_005119285.1,tetracycline,S,susceptible,0.0,CVM N18C257
+Campylobacter jejuni,SAMN09783144,GCA_005360065.1,tetracycline,S,susceptible,0.0,CVM N17C386
+Campylobacter jejuni,SAMN07633751,GCA_005020875.1,tetracycline,S,susceptible,0.0,CVM N16C440
+Campylobacter jejuni,SAMN23426545,GCA_020977905.1,tetracycline,S,susceptible,0.0,21OR06CB05-C1
+Campylobacter jejuni,SAMN13674621,GCA_010310005.1,tetracycline,S,susceptible,0.0,PNUSAC014539
+Campylobacter jejuni,SAMN04869743,GCA_005289645.1,tetracycline,S,susceptible,0.0,FSIS1606306
+Campylobacter jejuni,SAMN38671997,GCA_034214755.1,tetracycline,S,susceptible,0.0,21CA01CH01UCD-C1
+Campylobacter jejuni,SAMN12585097,GCA_010313555.1,tetracycline,S,susceptible,0.0,19LA07CB16C1
+Campylobacter jejuni,SAMN09605257,GCA_005334885.1,tetracycline,S,susceptible,0.0,CVM N17C527
+Campylobacter jejuni,SAMN15096510,GCA_013766335.1,tetracycline,S,susceptible,0.0,PNUSAC014729
+Campylobacter jejuni,SAMN11047616,GCA_004882725.1,tetracycline,S,susceptible,0.0,CVM N18C073
+Campylobacter jejuni,SAMN09605288,GCA_005326345.1,tetracycline,S,susceptible,0.0,CVM N17C565
+Campylobacter jejuni,SAMN07633505,GCA_005206855.1,tetracycline,S,susceptible,0.0,CVM N16C190
+Campylobacter jejuni,SAMN09604994,GCA_005327675.1,tetracycline,S,susceptible,0.0,CVM N17C119
+Campylobacter jejuni,SAMN38672014,GCA_034214555.1,tetracycline,S,susceptible,0.0,21SD02CL01-C1
+Campylobacter jejuni,SAMN04543691,GCA_005286085.1,tetracycline,S,susceptible,0.0,FSIS1605989
+Campylobacter jejuni,SAMN14754919,GCA_014606795.1,tetracycline,S,susceptible,0.0,CVM N19C588
+Campylobacter jejuni,SAMN07633529,GCA_005149465.1,tetracycline,S,susceptible,0.0,CVM N16C214
+Campylobacter jejuni,SAMN09783095,GCA_005359965.1,tetracycline,S,susceptible,0.0,CVM N17C219
+Campylobacter jejuni,SAMN11047831,GCA_004877725.1,tetracycline,S,susceptible,0.0,CVM N18C310
+Campylobacter jejuni,SAMN14410134,GCA_011717875.1,tetracycline,S,susceptible,0.0,19GA11CB18-C
+Campylobacter jejuni,SAMN12384719,GCA_007856745.1,tetracycline,S,susceptible,0.0,190R07CB14-C
+Campylobacter jejuni,SAMN09605002,GCA_005330205.1,tetracycline,S,susceptible,0.0,CVM N17C128
+Campylobacter jejuni,SAMN07633359,GCA_004973425.1,tetracycline,S,susceptible,0.0,CVM N16C043
+Campylobacter jejuni,SAMN09604899,GCA_005335045.1,tetracycline,S,susceptible,0.0,CVM N17C013
+Campylobacter jejuni,SAMN09783260,GCA_005359945.1,tetracycline,S,susceptible,0.0,CVM N17C678
+Campylobacter jejuni,SAMN09605169,GCA_005329525.1,tetracycline,S,susceptible,0.0,CVM N17C324
+Campylobacter jejuni,SAMN07633829,GCA_004976825.1,tetracycline,S,susceptible,0.0,CVM N16C524
+Campylobacter jejuni,SAMN09605065,GCA_005333265.1,tetracycline,S,susceptible,0.0,CVM N17C195
+Campylobacter jejuni,SAMN12585778,GCA_014617835.1,tetracycline,S,susceptible,0.0,
+Campylobacter jejuni,SAMN09783135,GCA_005358145.1,tetracycline,S,susceptible,0.0,CVM N17C377
+Campylobacter jejuni,SAMN13682861,GCA_010227595.1,tetracycline,S,susceptible,0.0,19IA11CB40-C1
+Campylobacter jejuni,SAMN05505589,GCA_005297085.1,tetracycline,S,susceptible,0.0,FSIS1607135
+Campylobacter jejuni,SAMN09604900,GCA_005334865.1,tetracycline,S,susceptible,0.0,CVM N17C014
+Campylobacter jejuni,SAMN09605210,GCA_005326545.1,tetracycline,S,susceptible,0.0,CVM N17C479
+Campylobacter jejuni,SAMN17903838,GCA_017022835.1,tetracycline,S,susceptible,0.0,PNUSAC020341
+Campylobacter jejuni,SAMN20284457,GCA_019269115.1,tetracycline,S,susceptible,0.0,PNUSAC022332
+Campylobacter jejuni,SAMN62387159,GCA_060802125.1,tetracycline,S,susceptible,0.0,PNCC000654
+Campylobacter jejuni,SAMN12906154,GCA_008858725.1,tetracycline,S,susceptible,0.0,CVM N19C194
+Campylobacter jejuni,SAMN09783379,GCA_005363585.1,tetracycline,S,susceptible,0.0,CVM N17C797
+Campylobacter jejuni,SAMN04599780,GCA_005287405.1,tetracycline,S,susceptible,0.0,FSIS1606041
+Campylobacter jejuni,SAMN16231197,GCA_014722735.1,tetracycline,S,susceptible,0.0,CVM N19C693
+Campylobacter jejuni,SAMN07633458,GCA_005215165.1,tetracycline,S,susceptible,0.0,CVM N16C143
+Campylobacter jejuni,SAMN24592216,GCA_021356685.1,tetracycline,S,susceptible,0.0,21NM12CB02-C1
+Campylobacter jejuni,SAMN13851940,GCA_010309635.1,tetracycline,S,susceptible,0.0,19LA10CB32C1
+Campylobacter jejuni,SAMN38672259,GCA_034217595.1,tetracycline,S,susceptible,0.0,21LA11CG01-C1
+Campylobacter jejuni,SAMN20119351,GCA_019185125.2,tetracycline,S,susceptible,0.0,21IA05CB07-C1
+Campylobacter jejuni,SAMN16231166,GCA_014721895.1,tetracycline,S,susceptible,0.0,CVM N19C490
+Campylobacter jejuni,SAMN12585710,GCA_014620455.1,tetracycline,S,susceptible,0.0,
+Campylobacter jejuni,SAMN05413513,GCA_005294965.1,tetracycline,S,susceptible,0.0,FSIS1607018
+Campylobacter jejuni,SAMN07633565,GCA_004974465.1,tetracycline,S,susceptible,0.0,CVM N16C250
+Campylobacter jejuni,SAMN11132139,GCA_004901695.2,tetracycline,S,susceptible,0.0,PNUSAC008489
+Campylobacter jejuni,SAMN05514399,GCA_005296495.1,tetracycline,S,susceptible,0.0,FSIS1607210
+Campylobacter jejuni,SAMN12995454,GCA_018177535.1,tetracycline,S,susceptible,0.0,PNUSAC012372
+E.coli and Shigella,SAMN48878282,GCA_053677125.1,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN16304319,GCA_015671655.1,ampicillin,R,resistant,1.0,R13-CV1-pSow-04
+E.coli and Shigella,SAMN26309248,GCA_025785605.2,ampicillin,R,resistant,1.0,792903
+E.coli and Shigella,SAMN48878633,GCA_053663295.1,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN26308858,GCA_023860065.1,ampicillin,R,resistant,1.0,781393
+E.coli and Shigella,SAMN26309203,GCA_025785545.2,ampicillin,R,resistant,1.0,792697
+E.coli and Shigella,SAMN12587152,GCA_012007745.1,ampicillin,R,resistant,1.0,CVM N18EC0022
+E.coli and Shigella,SAMN10221154,GCA_003783205.1,ampicillin,R,resistant,1.0,CVM N17EC0398
+E.coli and Shigella,SAMN26309245,GCA_023861065.1,ampicillin,R,resistant,1.0,782103
+E.coli and Shigella,SAMN10221225,GCA_012072865.1,ampicillin,R,resistant,1.0,CVM N17EC0544
+E.coli and Shigella,SAMN51434509,GCA_060296275.1,ampicillin,R,resistant,1.0,ZUL137950
+E.coli and Shigella,SAMN26304893,GCA_023892085.1,ampicillin,R,resistant,1.0,838954
+E.coli and Shigella,SAMN48878200,GCA_053672035.1,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN38228846,GCA_033726735.1,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN10221234,GCA_012073125.1,ampicillin,R,resistant,1.0,CVM N17EC0567
+E.coli and Shigella,SAMN03177663,GCA_000797955.1,ampicillin,R,resistant,1.0,CVM N36400PS
+E.coli and Shigella,SAMN26308764,GCA_025788475.2,ampicillin,R,resistant,1.0,824288
+E.coli and Shigella,SAMN36727289,GCA_032333395.2,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN36729169,GCA_032331275.2,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN36726697,GCA_032337055.2,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN13445911,GCA_012610215.1,ampicillin,R,resistant,1.0,PNUSAE042036
+E.coli and Shigella,SAMN10221014,GCA_012075285.1,ampicillin,R,resistant,1.0,CVM N17EC0114
+E.coli and Shigella,SAMN10220963,GCA_003775245.1,ampicillin,R,resistant,1.0,CVM N17EC0012
+E.coli and Shigella,SAMN43565175,GCA_044083955.1,ampicillin,R,resistant,1.0,E-MBS7615A
+E.coli and Shigella,SAMN26308351,GCA_023877185.1,ampicillin,R,resistant,1.0,766357
+E.coli and Shigella,SAMN03177629,GCA_000798435.1,ampicillin,R,resistant,1.0,CVM N33719PS
+E.coli and Shigella,SAMN43694150,GCA_046376405.1,ampicillin,R,resistant,1.0,SH487
+E.coli and Shigella,SAMN26305255,GCA_024165865.1,ampicillin,R,resistant,1.0,822748
+E.coli and Shigella,SAMN51434407,GCA_060298315.1,ampicillin,R,resistant,1.0,SW0153
+E.coli and Shigella,SAMN10221255,GCA_003769125.2,ampicillin,R,resistant,1.0,CVM N17EC0616
+E.coli and Shigella,SAMN12587159,GCA_012006525.1,ampicillin,R,resistant,1.0,CVM N18EC0244
+E.coli and Shigella,SAMN07410718,GCA_012437535.1,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN26309222,GCA_023883955.1,ampicillin,R,resistant,1.0,730453
+E.coli and Shigella,SAMN43564365,GCA_044148585.1,ampicillin,R,resistant,1.0,E-MBS5433A
+E.coli and Shigella,SAMN26304586,GCA_025580785.2,ampicillin,R,resistant,1.0,698886
+E.coli and Shigella,SAMN13842449,GCA_012592885.1,ampicillin,R,resistant,1.0,19NC11GT15_EC
+E.coli and Shigella,SAMN36727302,GCA_032333555.2,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN26308802,GCA_023876585.1,ampicillin,R,resistant,1.0,710299
+E.coli and Shigella,SAMN48878738,GCA_059056145.1,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN26304937,GCA_025786105.2,ampicillin,R,resistant,1.0,793763
+E.coli and Shigella,SAMN31087253,GCA_025830435.1,ampicillin,R,resistant,1.0,35.57
+E.coli and Shigella,SAMN11372853,GCA_012337575.1,ampicillin,R,resistant,1.0,CVM N18EC060
+E.coli and Shigella,SAMN43564213,GCA_044687765.1,ampicillin,R,resistant,1.0,E-MBS5009A
+E.coli and Shigella,SAMN26308741,GCA_025580885.2,ampicillin,R,resistant,1.0,749709
+E.coli and Shigella,SAMN12943655,GCA_012601775.1,ampicillin,R,resistant,1.0,CVM N19EC0328
+E.coli and Shigella,SAMN12359899,GCA_012994725.1,ampicillin,R,resistant,1.0,CVM N18EC0932
+E.coli and Shigella,SAMN04014930,GCA_003571825.1,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN36726422,GCA_032338235.2,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN15394807,GCA_013648095.1,ampicillin,R,resistant,1.0,19CO11GT16-EC
+E.coli and Shigella,SAMN26308815,GCA_023865415.1,ampicillin,R,resistant,1.0,747823
+E.coli and Shigella,SAMN26309309,GCA_025786365.2,ampicillin,R,resistant,1.0,734861
+E.coli and Shigella,SAMN12943713,GCA_012600875.1,ampicillin,R,resistant,1.0,CVM N19EC0406
+E.coli and Shigella,SAMN43564152,GCA_044689445.1,ampicillin,R,resistant,1.0,E-MBS4814A
+E.coli and Shigella,SAMN40930662,GCA_038080815.1,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN36726620,GCA_032335175.2,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN10620158,GCA_004566465.1,ampicillin,R,resistant,1.0,URMC_87
+E.coli and Shigella,SAMN43563273,GCA_044689065.1,ampicillin,R,resistant,1.0,E-MBS2176A
+E.coli and Shigella,SAMN13445912,GCA_012608035.1,ampicillin,R,resistant,1.0,PNUSAE042029
+E.coli and Shigella,SAMN26309251,GCA_023872835.1,ampicillin,R,resistant,1.0,807568
+E.coli and Shigella,SAMN26304346,GCA_023863525.1,ampicillin,R,resistant,1.0,750335
+E.coli and Shigella,SAMN16304283,GCA_015672245.1,ampicillin,R,resistant,1.0,R13-AF11-pFin-03
+E.coli and Shigella,SAMN26308889,GCA_023877545.1,ampicillin,R,resistant,1.0,836720
+E.coli and Shigella,SAMN10620083,GCA_004567805.1,ampicillin,R,resistant,1.0,URMC_2
+E.coli and Shigella,SAMN12943597,GCA_012598425.1,ampicillin,R,resistant,1.0,CVM N19EC0249
+E.coli and Shigella,SAMN26304542,GCA_023867955.1,ampicillin,R,resistant,1.0,704979
+E.coli and Shigella,SAMN26309412,GCA_023871805.1,ampicillin,R,resistant,1.0,838316
+E.coli and Shigella,SAMN36727317,GCA_032334035.2,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN31087219,GCA_025831135.1,ampicillin,R,resistant,1.0,35.23
+E.coli and Shigella,SAMN10620169,GCA_004569165.1,ampicillin,R,resistant,1.0,URMC_105
+E.coli and Shigella,SAMN05774076,GCA_012586975.1,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN43564549,GCA_044688805.1,ampicillin,R,resistant,1.0,E-MBS5995A
+E.coli and Shigella,SAMN36726418,GCA_032338135.2,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN36726480,GCA_032338575.2,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN43562965,GCA_044682695.1,ampicillin,R,resistant,1.0,E-MBS1174A
+E.coli and Shigella,SAMN10221100,GCA_012073105.1,ampicillin,R,resistant,1.0,CVM N17EC0290
+E.coli and Shigella,SAMN04014969,GCA_002180275.1,ampicillin,R,resistant,1.0,AR_0128
+E.coli and Shigella,SAMN38228875,GCA_034514735.1,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN12091255,GCA_012289245.2,ampicillin,R,resistant,1.0,19OR05PC04-EC
+E.coli and Shigella,SAMN36728988,GCA_032331995.2,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN22785515,GCA_020690145.1,ampicillin,R,resistant,1.0,CVM N19EC0864
+E.coli and Shigella,SAMN31087258,GCA_025830355.1,ampicillin,R,resistant,1.0,35.62
+E.coli and Shigella,SAMN43694153,GCA_046376345.1,ampicillin,R,resistant,1.0,SH30
+E.coli and Shigella,SAMN41091872,GCA_038510605.1,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN12943744,GCA_012598645.1,ampicillin,R,resistant,1.0,CVM N19EC0450
+E.coli and Shigella,SAMN43564603,GCA_044692885.1,ampicillin,R,resistant,1.0,E-MBS6160A
+E.coli and Shigella,SAMN12359862,GCA_012990805.1,ampicillin,R,resistant,1.0,CVM N18EC0854
+E.coli and Shigella,SAMN51434408,GCA_060298295.1,ampicillin,R,resistant,1.0,SW0266
+E.coli and Shigella,SAMN26308420,GCA_023881225.1,ampicillin,R,resistant,1.0,792663
+E.coli and Shigella,SAMN43694159,GCA_046376185.1,ampicillin,R,resistant,1.0,SH46
+E.coli and Shigella,SAMN37516902,GCA_032121275.2,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN26304406,GCA_023880945.1,ampicillin,R,resistant,1.0,758039
+E.coli and Shigella,SAMN26309060,GCA_023895835.1,ampicillin,R,resistant,1.0,821890
+E.coli and Shigella,SAMN26305081,GCA_023861185.1,ampicillin,R,resistant,1.0,781763
+E.coli and Shigella,SAMN39956418,GCA_036669155.1,ampicillin,R,resistant,1.0,
+E.coli and Shigella,SAMN43564646,GCA_044091295.1,ampicillin,R,resistant,1.0,E-MBS6253A
+E.coli and Shigella,SAMN31087423,GCA_025827095.1,ampicillin,R,resistant,1.0,ESBL4620
+E.coli and Shigella,SAMN43564942,GCA_044692645.1,ampicillin,R,resistant,1.0,E-MBS6917A
+E.coli and Shigella,SAMN13176243,GCA_012925825.1,ampicillin,R,resistant,1.0,unkown
+E.coli and Shigella,SAMN16245277,GCA_014746235.1,ampicillin,R,resistant,1.0,CVM N19EC1253
+E.coli and Shigella,SAMN51434876,GCA_060269715.1,ampicillin,R,resistant,1.0,2013091
+E.coli and Shigella,SAMN16245199,GCA_021505415.1,ampicillin,S,susceptible,0.0,CVM N19EC1009
+E.coli and Shigella,SAMN12797188,GCA_012453785.1,ampicillin,S,susceptible,0.0,19MD08CB09-EC
+E.coli and Shigella,SAMN16245132,GCA_014747825.1,ampicillin,S,susceptible,0.0,CVM N19EC0623
+E.coli and Shigella,SAMN13719135,GCA_012593045.1,ampicillin,S,susceptible,0.0,19SD11PC06-EC
+E.coli and Shigella,SAMN12359968,GCA_012989165.1,ampicillin,S,susceptible,0.0,CVM N18EC1094
+E.coli and Shigella,SAMN43564842,GCA_044084375.1,ampicillin,S,susceptible,0.0,E-MBS6625A
+E.coli and Shigella,SAMN12943591,GCA_012597945.1,ampicillin,S,susceptible,0.0,CVM N19EC0243
+E.coli and Shigella,SAMN10221232,GCA_012071085.1,ampicillin,S,susceptible,0.0,CVM N17EC0562
+E.coli and Shigella,SAMN12359819,GCA_012994045.1,ampicillin,S,susceptible,0.0,CVM N18EC0766
+E.coli and Shigella,SAMN26305150,GCA_023870865.1,ampicillin,S,susceptible,0.0,767499
+E.coli and Shigella,SAMN10221513,GCA_012071125.1,ampicillin,S,susceptible,0.0,CVM N17EC1146
+E.coli and Shigella,SAMN26309019,GCA_023864025.1,ampicillin,S,susceptible,0.0,708895
+E.coli and Shigella,SAMN12727832,GCA_012400025.1,ampicillin,S,susceptible,0.0,19NC07PC06_EC
+E.coli and Shigella,SAMN12359774,GCA_012994485.1,ampicillin,S,susceptible,0.0,CVM N18EC0667
+E.coli and Shigella,SAMN26308819,GCA_023880305.1,ampicillin,S,susceptible,0.0,736109
+E.coli and Shigella,SAMN12359931,GCA_012991885.1,ampicillin,S,susceptible,0.0,CVM N18EC1002
+E.coli and Shigella,SAMN26305159,GCA_023889865.1,ampicillin,S,susceptible,0.0,793415
+E.coli and Shigella,SAMN26308752,GCA_025787055.2,ampicillin,S,susceptible,0.0,767587
+E.coli and Shigella,SAMN26309008,GCA_024165905.1,ampicillin,S,susceptible,0.0,781877
+E.coli and Shigella,SAMN10221373,GCA_012075345.1,ampicillin,S,susceptible,0.0,CVM N17EC0862
+E.coli and Shigella,SAMN16484135,GCA_014942765.1,ampicillin,S,susceptible,0.0,CVM N19EC1214
+E.coli and Shigella,SAMN26305156,GCA_023859085.1,ampicillin,S,susceptible,0.0,806194
+E.coli and Shigella,SAMN43563756,GCA_044135335.1,ampicillin,S,susceptible,0.0,E-MBS3605A
+E.coli and Shigella,SAMN26309113,GCA_025788815.2,ampicillin,S,susceptible,0.0,749557
+E.coli and Shigella,SAMN10221214,GCA_012075735.1,ampicillin,S,susceptible,0.0,CVM N17EC0516
+E.coli and Shigella,SAMN12943465,GCA_012600155.1,ampicillin,S,susceptible,0.0,CVM N19EC0035
+E.coli and Shigella,SAMN12359932,GCA_012991985.1,ampicillin,S,susceptible,0.0,CVM N18EC1004
+E.coli and Shigella,SAMN49488380,GCA_060384135.1,ampicillin,S,susceptible,0.0,
+E.coli and Shigella,SAMN12990630,GCA_012006185.1,ampicillin,S,susceptible,0.0,CVM N19EC0482
+E.coli and Shigella,SAMN16245193,GCA_014748125.1,ampicillin,S,susceptible,0.0,CVM N19EC1001
+E.coli and Shigella,SAMN26304363,GCA_023882545.1,ampicillin,S,susceptible,0.0,758967
+E.coli and Shigella,SAMN10221067,GCA_012074165.1,ampicillin,S,susceptible,0.0,CVM N17EC0222
+E.coli and Shigella,SAMN13836675,GCA_012663065.2,ampicillin,S,susceptible,0.0,19MD11GT06-EC
+E.coli and Shigella,SAMN12587173,GCA_012007345.1,ampicillin,S,susceptible,0.0,CVM N18EC1015
+E.coli and Shigella,SAMN26309097,GCA_023866195.1,ampicillin,S,susceptible,0.0,698432
+E.coli and Shigella,SAMN43565208,GCA_044153085.1,ampicillin,S,susceptible,0.0,E-MBS7699A
+E.coli and Shigella,SAMN12359779,GCA_012994325.1,ampicillin,S,susceptible,0.0,CVM N18EC0680
+E.coli and Shigella,SAMN26304690,GCA_023862625.1,ampicillin,S,susceptible,0.0,822600
+E.coli and Shigella,SAMN43564930,GCA_044105495.1,ampicillin,S,susceptible,0.0,E-MBS6887A
+E.coli and Shigella,SAMN26308691,GCA_023890665.1,ampicillin,S,susceptible,0.0,838874
+E.coli and Shigella,SAMN10221610,GCA_003791285.1,ampicillin,S,susceptible,0.0,CVM N17EC1340
+E.coli and Shigella,SAMN48878771,GCA_059054745.1,ampicillin,S,susceptible,0.0,
+E.coli and Shigella,SAMN48878357,GCA_053661975.1,ampicillin,S,susceptible,0.0,
+E.coli and Shigella,SAMN26308660,GCA_023861545.1,ampicillin,S,susceptible,0.0,794645
+E.coli and Shigella,SAMN48878924,GCA_053671555.1,ampicillin,S,susceptible,0.0,
+E.coli and Shigella,SAMN10221487,GCA_003792045.1,ampicillin,S,susceptible,0.0,CVM N17EC1092
+E.coli and Shigella,SAMN10221557,GCA_003791685.1,ampicillin,S,susceptible,0.0,CVM N17EC1232
+E.coli and Shigella,SAMN26304468,GCA_023869075.1,ampicillin,S,susceptible,0.0,758177
+E.coli and Shigella,SAMN10221559,GCA_012073765.1,ampicillin,S,susceptible,0.0,CVM N17EC1237
+E.coli and Shigella,SAMN16245214,GCA_014745655.1,ampicillin,S,susceptible,0.0,CVM N19EC1058
+E.coli and Shigella,SAMN05510450,GCA_014028875.1,ampicillin,S,susceptible,0.0,
+E.coli and Shigella,SAMN11372864,GCA_012347975.1,ampicillin,S,susceptible,0.0,CVM N18EC085
+E.coli and Shigella,SAMN12913175,GCA_012625365.1,ampicillin,S,susceptible,0.0,19OR09PC01-EC
+E.coli and Shigella,SAMN13153733,GCA_012621845.1,ampicillin,S,susceptible,0.0,19MD09CB09-EC
+E.coli and Shigella,SAMN48590768,GCA_050502355.1,ampicillin,S,susceptible,0.0,SENASICA_Ec_BT97
+E.coli and Shigella,SAMN26304921,GCA_023894165.1,ampicillin,S,susceptible,0.0,758353
+E.coli and Shigella,SAMN16245238,GCA_020437565.1,ampicillin,S,susceptible,0.0,CVM N19EC1110
+E.coli and Shigella,SAMN10221568,GCA_012072585.1,ampicillin,S,susceptible,0.0,CVM N17EC1254
+E.coli and Shigella,SAMN43564294,GCA_044148405.1,ampicillin,S,susceptible,0.0,E-MBS5242A
+E.coli and Shigella,SAMN43564953,GCA_044105695.1,ampicillin,S,susceptible,0.0,E-MBS6958A
+E.coli and Shigella,SAMN10221003,GCA_012074565.1,ampicillin,S,susceptible,0.0,CVM N17EC0092
+E.coli and Shigella,SAMN26308949,GCA_023862765.1,ampicillin,S,susceptible,0.0,781721
+E.coli and Shigella,SAMN10221668,GCA_003792165.1,ampicillin,S,susceptible,0.0,CVM N17EC1448
+E.coli and Shigella,SAMN13446263,GCA_011820555.1,ampicillin,S,susceptible,0.0,PNUSAE042028
+E.coli and Shigella,SAMN43564416,GCA_044079535.1,ampicillin,S,susceptible,0.0,E-MBS5596A
+E.coli and Shigella,SAMN12359841,GCA_012988745.1,ampicillin,S,susceptible,0.0,CVM N18EC0810
+E.coli and Shigella,SAMN43563281,GCA_044693525.1,ampicillin,S,susceptible,0.0,E-MBS2198A
+E.coli and Shigella,SAMN12359560,GCA_012307315.1,ampicillin,S,susceptible,0.0,CVM N18EC1286
+E.coli and Shigella,SAMN47623322,GCA_049208165.1,ampicillin,S,susceptible,0.0,SENASICA_Ec_BS55
+E.coli and Shigella,SAMN43563646,GCA_044146925.1,ampicillin,S,susceptible,0.0,E-MBS3302A
+E.coli and Shigella,SAMN26304415,GCA_023890585.1,ampicillin,S,susceptible,0.0,794347
+E.coli and Shigella,SAMN12091249,GCA_012289905.1,ampicillin,S,susceptible,0.0,19OR04PC04-EC
+E.coli and Shigella,SAMN03177635,GCA_000798075.1,ampicillin,S,susceptible,0.0,CVM N33849PS
+E.coli and Shigella,SAMN10221363,GCA_003783445.1,ampicillin,S,susceptible,0.0,CVM N17EC0842
+E.coli and Shigella,SAMN43562885,GCA_044698575.1,ampicillin,S,susceptible,0.0,E-MBS0898A
+E.coli and Shigella,SAMN26308753,GCA_023877385.1,ampicillin,S,susceptible,0.0,794629
+E.coli and Shigella,SAMN16245293,GCA_014746615.1,ampicillin,S,susceptible,0.0,CVM N19EC1333
+E.coli and Shigella,SAMN26309011,GCA_023887365.1,ampicillin,S,susceptible,0.0,822264
+E.coli and Shigella,SAMN10221276,GCA_012073485.1,ampicillin,S,susceptible,0.0,CVM N17EC0662
+E.coli and Shigella,SAMN26305126,GCA_023891695.1,ampicillin,S,susceptible,0.0,822192
+E.coli and Shigella,SAMN10220970,GCA_003791965.1,ampicillin,S,susceptible,0.0,CVM N17EC0026
+E.coli and Shigella,SAMN04563576,GCA_020381005.1,ampicillin,S,susceptible,0.0,FSIS1606016
+E.coli and Shigella,SAMN43563761,GCA_044135385.1,ampicillin,S,susceptible,0.0,E-MBS3627A
+E.coli and Shigella,SAMN43563069,GCA_044698765.1,ampicillin,S,susceptible,0.0,E-MBS1515A
+E.coli and Shigella,SAMN43563507,GCA_044702015.1,ampicillin,S,susceptible,0.0,E-MBS2866A
+E.coli and Shigella,SAMN22785525,GCA_020690365.1,ampicillin,S,susceptible,0.0,CVM N19EC0891
+E.coli and Shigella,SAMN10221177,GCA_012074785.1,ampicillin,S,susceptible,0.0,CVM N17EC0444
+E.coli and Shigella,SAMN10221622,GCA_003794755.1,ampicillin,S,susceptible,0.0,CVM N17EC1356
+E.coli and Shigella,SAMN10221430,GCA_003793695.1,ampicillin,S,susceptible,0.0,CVM N17EC0978
+E.coli and Shigella,SAMN26304994,GCA_023876045.1,ampicillin,S,susceptible,0.0,749687
+E.coli and Shigella,SAMN26305268,GCA_023890145.1,ampicillin,S,susceptible,0.0,822328
+E.coli and Shigella,SAMN26304818,GCA_023886145.1,ampicillin,S,susceptible,0.0,837942
+E.coli and Shigella,SAMN12943525,GCA_012603495.1,ampicillin,S,susceptible,0.0,CVM N19EC0111
+E.coli and Shigella,SAMN26309380,GCA_023877905.1,ampicillin,S,susceptible,0.0,805498
+E.coli and Shigella,SAMN26305248,GCA_023876825.1,ampicillin,S,susceptible,0.0,806694
+E.coli and Shigella,SAMN03177643,GCA_000819065.1,ampicillin,S,susceptible,0.0,CVM N34228PS
+E.coli and Shigella,SAMN26309255,GCA_023889675.1,ampicillin,S,susceptible,0.0,822004
+E.coli and Shigella,SAMN26308678,GCA_025784905.2,ampicillin,S,susceptible,0.0,758555
+E.coli and Shigella,SAMN26308695,GCA_023869015.1,ampicillin,S,susceptible,0.0,709009
+E.coli and Shigella,SAMN26308509,GCA_023857705.1,ampicillin,S,susceptible,0.0,837708
+E.coli and Shigella,SAMN12990617,GCA_012006305.1,tetracycline,R,resistant,1.0,CVM N19EC0468
+E.coli and Shigella,SAMN12990688,GCA_012006665.1,tetracycline,R,resistant,1.0,CVM N19EC0618
+E.coli and Shigella,SAMN12359942,GCA_012990105.1,tetracycline,R,resistant,1.0,CVM N18EC1030
+E.coli and Shigella,SAMN10221621,GCA_003794595.1,tetracycline,R,resistant,1.0,CVM N17EC1355
+E.coli and Shigella,SAMN12943660,GCA_012600385.1,tetracycline,R,resistant,1.0,CVM N19EC0333
+E.coli and Shigella,SAMN12307939,GCA_012318505.1,tetracycline,R,resistant,1.0,19OR06PC04-EC
+E.coli and Shigella,SAMN12273919,GCA_012318765.1,tetracycline,R,resistant,1.0,19SC06PC10-EC
+E.coli and Shigella,SAMN16304073,GCA_015675975.1,tetracycline,R,resistant,1.0,Res13-Croi-PEC03-01
+E.coli and Shigella,SAMN06311517,GCA_012479835.1,tetracycline,R,resistant,1.0,
+E.coli and Shigella,SAMN26304936,GCA_023885515.1,tetracycline,R,resistant,1.0,750159
+E.coli and Shigella,SAMN42946274,GCA_059934275.1,tetracycline,R,resistant,1.0,
+E.coli and Shigella,SAMN14850302,GCA_013123095.2,tetracycline,R,resistant,1.0,PNUSAE052313
+E.coli and Shigella,SAMN10221296,GCA_003782585.1,tetracycline,R,resistant,1.0,CVM N17EC0701
+E.coli and Shigella,SAMN26309177,GCA_023872425.1,tetracycline,R,resistant,1.0,698336
+E.coli and Shigella,SAMN16304184,GCA_015673905.1,tetracycline,R,resistant,1.0,Res13-Lact-PEA13-25
+E.coli and Shigella,SAMN12943606,GCA_012599725.1,tetracycline,R,resistant,1.0,CVM N19EC0260
+E.coli and Shigella,SAMN26309222,GCA_023883955.1,tetracycline,R,resistant,1.0,730453
+E.coli and Shigella,SAMN31087093,GCA_025833655.1,tetracycline,R,resistant,1.0,33.58
+E.coli and Shigella,SAMN10221093,GCA_003793075.1,tetracycline,R,resistant,1.0,CVM N17EC0276
+E.coli and Shigella,SAMN12359618,GCA_015327405.1,tetracycline,R,resistant,1.0,CVM N18EC0212
+E.coli and Shigella,SAMN43564463,GCA_044689825.1,tetracycline,R,resistant,1.0,E-MBS5724A
+E.coli and Shigella,SAMN43563930,GCA_044686405.1,tetracycline,R,resistant,1.0,E-MBS4134A
+E.coli and Shigella,SAMN10221499,GCA_003775485.1,tetracycline,R,resistant,1.0,CVM N17EC1120
+E.coli and Shigella,SAMN10221079,GCA_003794435.1,tetracycline,R,resistant,1.0,CVM N17EC0248
+E.coli and Shigella,SAMN26304623,GCA_023878265.1,tetracycline,R,resistant,1.0,757681
+E.coli and Shigella,SAMN06546419,GCA_012479775.1,tetracycline,R,resistant,1.0,
+E.coli and Shigella,SAMN12359848,GCA_012991085.1,tetracycline,R,resistant,1.0,CVM N18EC0824
+E.coli and Shigella,SAMN43563775,GCA_044135915.1,tetracycline,R,resistant,1.0,E-MBS3682A
+E.coli and Shigella,SAMN14448591,GCA_012855085.1,tetracycline,R,resistant,1.0,19GA09GB03-EC
+E.coli and Shigella,SAMN43563868,GCA_044144335.1,tetracycline,R,resistant,1.0,E-MBS3957A
+E.coli and Shigella,SAMN12359967,GCA_012989105.1,tetracycline,R,resistant,1.0,CVM N18EC1090
+E.coli and Shigella,SAMN26304798,GCA_023860205.1,tetracycline,R,resistant,1.0,699090
+E.coli and Shigella,SAMN10948830,GCA_012179625.2,tetracycline,R,resistant,1.0,PNUSAE022254
+E.coli and Shigella,SAMN10221640,GCA_012073265.1,tetracycline,R,resistant,1.0,CVM N17EC1392
+E.coli and Shigella,SAMN16245237,GCA_020447595.1,tetracycline,R,resistant,1.0,CVM N19EC1109
+E.coli and Shigella,SAMN12990628,GCA_012608875.1,tetracycline,R,resistant,1.0,CVM N19EC0480
+E.coli and Shigella,SAMN10221040,GCA_004282155.1,tetracycline,R,resistant,1.0,CVM N17EC0168
+E.coli and Shigella,SAMN10221508,GCA_012076465.1,tetracycline,R,resistant,1.0,CVM N17EC1136
+E.coli and Shigella,SAMN16245122,GCA_014746665.1,tetracycline,R,resistant,1.0,CVM N19EC0555
+E.coli and Shigella,SAMN26309095,GCA_023878705.1,tetracycline,R,resistant,1.0,750755
+E.coli and Shigella,SAMN12943623,GCA_012600545.1,tetracycline,R,resistant,1.0,CVM N19EC0278
+E.coli and Shigella,SAMN26308956,GCA_023878605.1,tetracycline,R,resistant,1.0,735743
+E.coli and Shigella,SAMN47623376,GCA_049209315.1,tetracycline,R,resistant,1.0,SENASICA_Ec_BT46
+E.coli and Shigella,SAMN31087319,GCA_025829115.1,tetracycline,R,resistant,1.0,ESBL4329
+E.coli and Shigella,SAMN10221341,GCA_012072985.1,tetracycline,R,resistant,1.0,CVM N17EC0792
+E.coli and Shigella,SAMN26304660,GCA_023883605.1,tetracycline,R,resistant,1.0,836594
+E.coli and Shigella,SAMN36729156,GCA_032332215.2,tetracycline,R,resistant,1.0,
+E.coli and Shigella,SAMN31087390,GCA_025827725.1,tetracycline,R,resistant,1.0,ESBL4539
+E.coli and Shigella,SAMN12359801,GCA_012994985.1,tetracycline,R,resistant,1.0,CVM N18EC0724
+E.coli and Shigella,SAMN26305301,GCA_023857505.1,tetracycline,R,resistant,1.0,772513
+E.coli and Shigella,SAMN12943648,GCA_012601235.1,tetracycline,R,resistant,1.0,CVM N19EC0321
+E.coli and Shigella,SAMN47585722,GCA_055786465.1,tetracycline,R,resistant,1.0,ECO196
+E.coli and Shigella,SAMN16245240,GCA_020469065.1,tetracycline,R,resistant,1.0,CVM N19EC1112
+E.coli and Shigella,SAMN26308396,GCA_023884565.1,tetracycline,R,resistant,1.0,758097
+E.coli and Shigella,SAMN43564205,GCA_044691745.1,tetracycline,R,resistant,1.0,E-MBS4986A
+E.coli and Shigella,SAMN36726662,GCA_032335355.2,tetracycline,R,resistant,1.0,
+E.coli and Shigella,SAMN12359735,GCA_012989905.1,tetracycline,R,resistant,1.0,CVM N18EC0576
+E.coli and Shigella,SAMN10221160,GCA_003784195.1,tetracycline,R,resistant,1.0,CVM N17EC0410
+E.coli and Shigella,SAMN43694168,GCA_046376045.1,tetracycline,R,resistant,1.0,SH265580
+E.coli and Shigella,SAMN12091260,GCA_012289385.1,tetracycline,R,resistant,1.0,19OR04GT12-EC
+E.coli and Shigella,SAMN03177668,GCA_000797995.1,tetracycline,R,resistant,1.0,CVM N36613PS
+E.coli and Shigella,SAMN43563669,GCA_044691645.1,tetracycline,R,resistant,1.0,E-MBS3374A
+E.coli and Shigella,SAMN43563906,GCA_044102235.1,tetracycline,R,resistant,1.0,E-MBS4070A
+E.coli and Shigella,SAMN36729192,GCA_032332355.2,tetracycline,R,resistant,1.0,
+E.coli and Shigella,SAMN04621604,GCA_012708785.1,tetracycline,R,resistant,1.0,FSIS1606138
+E.coli and Shigella,SAMN26308885,GCA_023884465.1,tetracycline,R,resistant,1.0,807786
+E.coli and Shigella,SAMN43563450,GCA_044701795.1,tetracycline,R,resistant,1.0,E-MBS2717A
+E.coli and Shigella,SAMN15299077,GCA_013684935.1,tetracycline,R,resistant,1.0,19TX09GT10-EC
+E.coli and Shigella,SAMN43694153,GCA_046376345.1,tetracycline,R,resistant,1.0,SH30
+E.coli and Shigella,SAMN12289081,GCA_012318565.1,tetracycline,R,resistant,1.0,19TN06GB03K-EC
+E.coli and Shigella,SAMN12943603,GCA_012599615.1,tetracycline,R,resistant,1.0,CVM N19EC0257
+E.coli and Shigella,SAMN26304507,GCA_023870085.1,tetracycline,R,resistant,1.0,757913
+E.coli and Shigella,SAMN31087226,GCA_025831025.1,tetracycline,R,resistant,1.0,35.30
+E.coli and Shigella,SAMN10221447,GCA_003783825.1,tetracycline,R,resistant,1.0,CVM N17EC1012
+E.coli and Shigella,SAMN31087108,GCA_025833355.1,tetracycline,R,resistant,1.0,33.73
+E.coli and Shigella,SAMN10221419,GCA_012072565.1,tetracycline,R,resistant,1.0,CVM N17EC0956
+E.coli and Shigella,SAMN12943448,GCA_012597965.1,tetracycline,R,resistant,1.0,CVM N19EC0012
+E.coli and Shigella,SAMN31087408,GCA_025827295.1,tetracycline,R,resistant,1.0,ESBL4581
+E.coli and Shigella,SAMN43564839,GCA_044692985.1,tetracycline,R,resistant,1.0,E-MBS6622A
+E.coli and Shigella,SAMN26308427,GCA_023859745.1,tetracycline,R,resistant,1.0,772799
+E.coli and Shigella,SAMN43564334,GCA_044689325.1,tetracycline,R,resistant,1.0,E-MBS5337A
+E.coli and Shigella,SAMN10221175,GCA_012075085.1,tetracycline,R,resistant,1.0,CVM N17EC0440
+E.coli and Shigella,SAMN26309326,GCA_023891165.1,tetracycline,R,resistant,1.0,780399
+E.coli and Shigella,SAMN47623382,GCA_049209695.1,tetracycline,R,resistant,1.0,SENASICA_Ec_BT52
+E.coli and Shigella,SAMN10221237,GCA_012073005.1,tetracycline,R,resistant,1.0,CVM N17EC0578
+E.coli and Shigella,SAMN10221187,GCA_004276605.1,tetracycline,R,resistant,1.0,CVM N17EC0464
+E.coli and Shigella,SAMN26304999,GCA_023864005.1,tetracycline,R,resistant,1.0,758635
+E.coli and Shigella,SAMN22785518,GCA_020690505.1,tetracycline,R,resistant,1.0,CVM N19EC0867
+E.coli and Shigella,SAMN12924386,GCA_012450205.1,tetracycline,R,resistant,1.0,19OR09PC07-EC
+E.coli and Shigella,SAMN07291513,GCA_003000675.1,tetracycline,R,resistant,1.0,AR_0370
+E.coli and Shigella,SAMN43564012,GCA_044104175.1,tetracycline,R,resistant,1.0,E-MBS4389A
+E.coli and Shigella,SAMN26304535,GCA_023880595.1,tetracycline,R,resistant,1.0,708909
+E.coli and Shigella,SAMN10221538,GCA_012074505.1,tetracycline,R,resistant,1.0,CVM N17EC1194
+E.coli and Shigella,SAMN10221339,GCA_004276775.1,tetracycline,R,resistant,1.0,CVM N17EC0788
+E.coli and Shigella,SAMN13682810,GCA_012595385.1,tetracycline,R,resistant,1.0,19IA11GB08-EC
+E.coli and Shigella,SAMN47623301,GCA_049208285.1,tetracycline,R,resistant,1.0,SENASICA_Ec_BS34
+E.coli and Shigella,SAMN03177621,GCA_000798595.1,tetracycline,R,resistant,1.0,CVM N33601PS
+E.coli and Shigella,SAMN26308801,GCA_025788255.2,tetracycline,R,resistant,1.0,705133
+E.coli and Shigella,SAMN15053762,GCA_013792205.1,tetracycline,R,resistant,1.0,19SC04PC02-EC
+E.coli and Shigella,SAMN47623302,GCA_049208465.1,tetracycline,R,resistant,1.0,SENASICA_Ec_BS35
+E.coli and Shigella,SAMN26308386,GCA_023886725.1,tetracycline,S,susceptible,0.0,822394
+E.coli and Shigella,SAMN12359737,GCA_012989865.1,tetracycline,S,susceptible,0.0,CVM N18EC0584
+E.coli and Shigella,SAMN26304417,GCA_023878755.1,tetracycline,S,susceptible,0.0,748973
+E.coli and Shigella,SAMN12359871,GCA_012992725.1,tetracycline,S,susceptible,0.0,CVM N18EC0872
+E.coli and Shigella,SAMN43565019,GCA_044693205.1,tetracycline,S,susceptible,0.0,E-MBS7144A
+E.coli and Shigella,SAMN10221655,GCA_003793395.1,tetracycline,S,susceptible,0.0,CVM N17EC1422
+E.coli and Shigella,SAMN26304579,GCA_023859985.1,tetracycline,S,susceptible,0.0,772281
+E.coli and Shigella,SAMN12359721,GCA_012988355.1,tetracycline,S,susceptible,0.0,CVM N18EC0546
+E.coli and Shigella,SAMN04014922,GCA_002996945.1,tetracycline,S,susceptible,0.0,AR_0081
+E.coli and Shigella,SAMN12943576,GCA_012604765.1,tetracycline,S,susceptible,0.0,CVM N19EC0179
+E.coli and Shigella,SAMN26308829,GCA_023881745.1,tetracycline,S,susceptible,0.0,750255
+E.coli and Shigella,SAMN43562874,GCA_044684065.1,tetracycline,S,susceptible,0.0,E-MBS0857A
+E.coli and Shigella,SAMN10221472,GCA_012074185.1,tetracycline,S,susceptible,0.0,CVM N17EC1062
+E.coli and Shigella,SAMN31087153,GCA_025832455.1,tetracycline,S,susceptible,0.0,34.37
+E.coli and Shigella,SAMN14414513,GCA_012880695.1,tetracycline,S,susceptible,0.0,19GA09GB06-EC
+E.coli and Shigella,SAMN26304370,GCA_023880005.1,tetracycline,S,susceptible,0.0,781457
+E.coli and Shigella,SAMN26309100,GCA_023868635.1,tetracycline,S,susceptible,0.0,708933
+E.coli and Shigella,SAMN26304384,GCA_023863665.1,tetracycline,S,susceptible,0.0,794515
+E.coli and Shigella,SAMN07332509,GCA_012442345.1,tetracycline,S,susceptible,0.0,
+E.coli and Shigella,SAMN26304897,GCA_023878155.1,tetracycline,S,susceptible,0.0,805204
+E.coli and Shigella,SAMN12990697,GCA_012609635.1,tetracycline,S,susceptible,0.0,CVM N19EC0635
+E.coli and Shigella,SAMN10221258,GCA_003775505.1,tetracycline,S,susceptible,0.0,CVM N17EC0622
+E.coli and Shigella,SAMN31087086,GCA_025833825.1,tetracycline,S,susceptible,0.0,33.51
+E.coli and Shigella,SAMN16304112,GCA_015675195.1,tetracycline,S,susceptible,0.0,Res13-Lact-EA06-30
+E.coli and Shigella,SAMN26305149,GCA_023892365.1,tetracycline,S,susceptible,0.0,767175
+E.coli and Shigella,SAMN03177665,GCA_000798575.1,tetracycline,S,susceptible,0.0,CVM N36404PS
+E.coli and Shigella,SAMN43563172,GCA_044682845.1,tetracycline,S,susceptible,0.0,E-MBS1867A
+E.coli and Shigella,SAMN05510454,GCA_012634105.1,tetracycline,S,susceptible,0.0,
+E.coli and Shigella,SAMN26305193,GCA_023859905.1,tetracycline,S,susceptible,0.0,838294
+E.coli and Shigella,SAMN26308661,GCA_023858885.1,tetracycline,S,susceptible,0.0,805422
+E.coli and Shigella,SAMN26304461,GCA_023868395.1,tetracycline,S,susceptible,0.0,748877
+E.coli and Shigella,SAMN11372842,GCA_012359935.1,tetracycline,S,susceptible,0.0,CVM N18EC034
+E.coli and Shigella,SAMN26308927,GCA_023886925.1,tetracycline,S,susceptible,0.0,708917
+E.coli and Shigella,SAMN43563739,GCA_044690205.1,tetracycline,S,susceptible,0.0,E-MBS3573A
+E.coli and Shigella,SAMN26308651,GCA_023867775.1,tetracycline,S,susceptible,0.0,757939
+E.coli and Shigella,SAMN14448422,GCA_012855315.1,tetracycline,S,susceptible,0.0,19GA05GB03-EC
+E.coli and Shigella,SAMN12684085,GCA_012453965.1,tetracycline,S,susceptible,0.0,19MD07GB09-EC
+E.coli and Shigella,SAMN12943499,GCA_016232995.1,tetracycline,S,susceptible,0.0,CVM N19EC0084
+E.coli and Shigella,SAMN26305092,GCA_023880845.1,tetracycline,S,susceptible,0.0,794275
+E.coli and Shigella,SAMN26304321,GCA_023857385.1,tetracycline,S,susceptible,0.0,822836
+E.coli and Shigella,SAMN26304644,GCA_023866305.1,tetracycline,S,susceptible,0.0,758151
+E.coli and Shigella,SAMN26304743,GCA_023877955.1,tetracycline,S,susceptible,0.0,736011
+E.coli and Shigella,SAMN10221205,GCA_003794475.1,tetracycline,S,susceptible,0.0,CVM N17EC0500
+E.coli and Shigella,SAMN12990630,GCA_012006185.1,tetracycline,S,susceptible,0.0,CVM N19EC0482
+E.coli and Shigella,SAMN26308358,GCA_023871405.1,tetracycline,S,susceptible,0.0,767885
+E.coli and Shigella,SAMN16484154,GCA_014937365.1,tetracycline,S,susceptible,0.0,CVM N19EC0640
+E.coli and Shigella,SAMN26309267,GCA_025789875.2,tetracycline,S,susceptible,0.0,734555
+E.coli and Shigella,SAMN12587158,GCA_012007805.1,tetracycline,S,susceptible,0.0,CVM N18EC0242
+E.coli and Shigella,SAMN04568568,GCA_012714465.1,tetracycline,S,susceptible,0.0,FSIS1606066
+E.coli and Shigella,SAMN43563436,GCA_044698835.1,tetracycline,S,susceptible,0.0,E-MBS2676A
+E.coli and Shigella,SAMN10221382,GCA_012074725.1,tetracycline,S,susceptible,0.0,CVM N17EC0880
+E.coli and Shigella,SAMN43563283,GCA_044700585.1,tetracycline,S,susceptible,0.0,E-MBS2203A
+E.coli and Shigella,SAMN10221018,GCA_003773545.1,tetracycline,S,susceptible,0.0,CVM N17EC0122
+E.coli and Shigella,SAMN43563286,GCA_044687005.1,tetracycline,S,susceptible,0.0,E-MBS2222A
+E.coli and Shigella,SAMN26309430,GCA_023887225.1,tetracycline,S,susceptible,0.0,821962
+E.coli and Shigella,SAMN16304190,GCA_015673805.1,tetracycline,S,susceptible,0.0,Res13-Lact-PEA25-11
+E.coli and Shigella,SAMN10221629,GCA_012075305.1,tetracycline,S,susceptible,0.0,CVM N17EC1370
+E.coli and Shigella,SAMN26308585,GCA_023884885.1,tetracycline,S,susceptible,0.0,735461
+E.coli and Shigella,SAMN31087165,GCA_025832155.1,tetracycline,S,susceptible,0.0,34.49
+E.coli and Shigella,SAMN26309022,GCA_023860385.1,tetracycline,S,susceptible,0.0,698634
+E.coli and Shigella,SAMN10221091,GCA_015334145.1,tetracycline,S,susceptible,0.0,CVM N17EC0272
+E.coli and Shigella,SAMN11372953,GCA_012359795.1,tetracycline,S,susceptible,0.0,CVM N18EC0284
+E.coli and Shigella,SAMN26309285,GCA_023882275.1,tetracycline,S,susceptible,0.0,766331
+E.coli and Shigella,SAMN26308966,GCA_023891505.1,tetracycline,S,susceptible,0.0,735323
+E.coli and Shigella,SAMN26305224,GCA_023876065.1,tetracycline,S,susceptible,0.0,709147
+E.coli and Shigella,SAMN10221616,GCA_003792105.1,tetracycline,S,susceptible,0.0,CVM N17EC1350
+E.coli and Shigella,SAMN26305248,GCA_023876825.1,tetracycline,S,susceptible,0.0,806694
+E.coli and Shigella,SAMN12943747,GCA_012599815.1,tetracycline,S,susceptible,0.0,CVM N19EC0453
+E.coli and Shigella,SAMN43694184,GCA_046370425.1,tetracycline,S,susceptible,0.0,SH401081
+E.coli and Shigella,SAMN26309335,GCA_023871325.1,tetracycline,S,susceptible,0.0,767465
+E.coli and Shigella,SAMN26304947,GCA_023871095.1,tetracycline,S,susceptible,0.0,767851
+E.coli and Shigella,SAMN26304476,GCA_023879205.1,tetracycline,S,susceptible,0.0,794451
+E.coli and Shigella,SAMN26305005,GCA_023868435.1,tetracycline,S,susceptible,0.0,749007
+E.coli and Shigella,SAMN43563363,GCA_044693545.1,tetracycline,S,susceptible,0.0,E-MBS2460A
+E.coli and Shigella,SAMN26305283,GCA_023879725.1,tetracycline,S,susceptible,0.0,794603
+E.coli and Shigella,SAMN26305167,GCA_023879405.1,tetracycline,S,susceptible,0.0,699138
+E.coli and Shigella,SAMN26304449,GCA_023876925.1,tetracycline,S,susceptible,0.0,767907
+E.coli and Shigella,SAMN26309080,GCA_023863065.1,tetracycline,S,susceptible,0.0,838260
+E.coli and Shigella,SAMN36728953,GCA_033200515.2,tetracycline,S,susceptible,0.0,
+E.coli and Shigella,SAMN11372907,GCA_012375435.1,tetracycline,S,susceptible,0.0,CVM N18EC167
+E.coli and Shigella,SAMN26305030,GCA_023862145.1,tetracycline,S,susceptible,0.0,772731
+E.coli and Shigella,SAMN26308643,GCA_023879305.1,tetracycline,S,susceptible,0.0,749195
+E.coli and Shigella,SAMN26304845,GCA_025785165.2,tetracycline,S,susceptible,0.0,792735
+E.coli and Shigella,SAMN26304458,GCA_023890345.1,tetracycline,S,susceptible,0.0,793499
+E.coli and Shigella,SAMN26304751,GCA_023891785.1,tetracycline,S,susceptible,0.0,822490
+E.coli and Shigella,SAMN13996990,GCA_012678535.2,tetracycline,S,susceptible,0.0,19SD12GB10-EC
+E.coli and Shigella,SAMN31087357,GCA_025828495.1,tetracycline,S,susceptible,0.0,ESBL4422
+E.coli and Shigella,SAMN14850305,GCA_013123055.1,tetracycline,S,susceptible,0.0,PNUSAE052317
+E.coli and Shigella,SAMN26305280,GCA_023880245.1,tetracycline,S,susceptible,0.0,804910
+E.coli and Shigella,SAMN26304991,GCA_023886565.1,tetracycline,S,susceptible,0.0,709163
+E.coli and Shigella,SAMN26304649,GCA_023869085.1,tetracycline,S,susceptible,0.0,749523
+E.coli and Shigella,SAMN43565160,GCA_044693765.1,tetracycline,S,susceptible,0.0,E-MBS7569A
+E.coli and Shigella,SAMN26309298,GCA_023862945.1,tetracycline,S,susceptible,0.0,838210
+E.coli and Shigella,SAMN26309000,GCA_025580925.2,tetracycline,S,susceptible,0.0,698474
+E.coli and Shigella,SAMN26305076,GCA_025783695.2,tetracycline,S,susceptible,0.0,792689
+E.coli and Shigella,SAMN26304697,GCA_023877785.1,tetracycline,S,susceptible,0.0,805448
+E.coli and Shigella,SAMN10221478,GCA_003791885.1,tetracycline,S,susceptible,0.0,CVM N17EC1074
+E.coli and Shigella,SAMN26308907,GCA_023870465.1,tetracycline,S,susceptible,0.0,822070
+E.coli and Shigella,SAMN26305108,GCA_023875325.1,tetracycline,S,susceptible,0.0,781343
+E.coli and Shigella,SAMN04339724,GCA_012766035.1,tetracycline,S,susceptible,0.0,
+Salmonella enterica,SAMN13930078,GCA_011273225.1,ampicillin,R,resistant,1.0,19GA12CB36-S
+Salmonella enterica,SAMN02699206,GCA_001478745.1,ampicillin,R,resistant,1.0,CVM N29369
+Salmonella enterica,SAMN04577341,GCA_008518825.1,ampicillin,R,resistant,1.0,CVM N57456F
+Salmonella enterica,SAMN38225595,GCA_046013535.1,ampicillin,R,resistant,1.0,21NC08CH01-S1
+Salmonella enterica,SAMN05941624,GCA_006498975.1,ampicillin,R,resistant,1.0,2015K-0030
+Salmonella enterica,SAMN03291632,GCA_006693045.1,ampicillin,R,resistant,1.0,WAPHL_SAL-A00803
+Salmonella enterica,SAMN04856227,GCA_008412285.1,ampicillin,R,resistant,1.0,FSIS1606215
+Salmonella enterica,SAMN03842264,GCA_007186495.1,ampicillin,R,resistant,1.0,CVM-N15244
+Salmonella enterica,SAMN03938941,GCA_007549335.1,ampicillin,R,resistant,1.0,VA-WGS-00639
+Salmonella enterica,SAMN03938819,GCA_007755415.1,ampicillin,R,resistant,1.0,VA-WGS-00517
+Salmonella enterica,SAMN03291515,GCA_006691645.1,ampicillin,R,resistant,1.0,WAPHL_SAL-A00686
+Salmonella enterica,SAMN05907758,GCA_008430545.1,ampicillin,R,resistant,1.0,2014AM-2923
+Salmonella enterica,SAMN12360234,GCA_007864065.1,ampicillin,R,resistant,1.0,CVM N18S1761
+Salmonella enterica,SAMN02894185,GCA_007746835.1,ampicillin,R,resistant,1.0,AZ-TG74468
+Salmonella enterica,SAMN04217205,GCA_007189835.1,ampicillin,R,resistant,1.0,WAPHL-SAL-A00981
+Salmonella enterica,SAMN05202006,GCA_008424025.1,ampicillin,R,resistant,1.0,CVM N42511
+Salmonella enterica,SAMN04217332,GCA_007230475.1,ampicillin,R,resistant,1.0,WAPHL-SAL-A01090
+Salmonella enterica,SAMN04256035,GCA_007194755.1,ampicillin,R,resistant,1.0,CVM-N23755
+Salmonella enterica,SAMN11967935,GCA_006341905.1,ampicillin,R,resistant,1.0,CVM N18S0189
+Salmonella enterica,SAMN03938754,GCA_007758555.1,ampicillin,R,resistant,1.0,VA-WGS-00452
+Salmonella enterica,SAMN04577465,GCA_008411185.1,ampicillin,R,resistant,1.0,CVM N57840F
+Salmonella enterica,SAMN04908470,GCA_008474005.1,ampicillin,R,resistant,1.0,FSIS1606346
+Salmonella enterica,SAMN12587270,GCA_011312315.1,ampicillin,R,resistant,1.0,CVM N19S0138
+Salmonella enterica,SAMN02782583,GCA_007747845.1,ampicillin,R,resistant,1.0,WAPHL_SAL-A00531
+Salmonella enterica,SAMN04577446,GCA_008474465.1,ampicillin,R,resistant,1.0,CVM N57787F
+Salmonella enterica,SAMN02699308,GCA_001480865.1,ampicillin,R,resistant,1.0,CVM N39863
+Salmonella enterica,SAMN03938932,GCA_007240155.1,ampicillin,R,resistant,1.0,VA-WGS-00630
+Salmonella enterica,SAMN05907762,GCA_008430725.1,ampicillin,R,resistant,1.0,2014AM-1448
+Salmonella enterica,SAMN12142568,GCA_006537895.1,ampicillin,R,resistant,1.0,19MN04GT14
+Salmonella enterica,SAMN05201511,GCA_008520425.1,ampicillin,R,resistant,1.0,CVM N29334
+Salmonella enterica,SAMN02782495,GCA_006752945.1,ampicillin,R,resistant,1.0,WAPHL_SAL-A00443
+Salmonella enterica,SAMN20429144,GCA_019379555.1,ampicillin,R,resistant,1.0,21MD05CB03-S
+Salmonella enterica,SAMN11968050,GCA_006340075.1,ampicillin,R,resistant,1.0,CVM N18S0637
+Salmonella enterica,SAMN02767031,GCA_006630465.1,ampicillin,R,resistant,1.0,FL-NRM086
+Salmonella enterica,SAMN05201754,GCA_008552765.1,ampicillin,R,resistant,1.0,CVM N38847
+Salmonella enterica,SAMN12360100,GCA_007864665.1,ampicillin,R,resistant,1.0,CVM N18S1006
+Salmonella enterica,SAMN04224227,GCA_007190055.1,ampicillin,R,resistant,1.0,NY-N19888
+Salmonella enterica,SAMN10133005,GCA_005415415.1,ampicillin,R,resistant,1.0,CVM N17S1213
+Salmonella enterica,SAMN02699256,GCA_001479435.1,ampicillin,R,resistant,1.0,CVM N32754
+Salmonella enterica,SAMN10132770,GCA_005689175.1,ampicillin,R,resistant,1.0,CVM N17S066
+Salmonella enterica,SAMN12138080,GCA_006532955.1,ampicillin,R,resistant,1.0,19MN03CB27
+Salmonella enterica,SAMN03894279,GCA_001244795.1,ampicillin,R,resistant,1.0,CVM N48692
+Salmonella enterica,SAMN08114000,GCA_010131215.1,ampicillin,R,resistant,1.0,16MD02GT06-S
+Salmonella enterica,SAMN04218175,GCA_007196435.1,ampicillin,R,resistant,1.0,CVM-N19739
+Salmonella enterica,SAMN12842989,GCA_008759455.1,ampicillin,R,resistant,1.0,CVM N19S0506
+Salmonella enterica,SAMN05201943,GCA_008521905.1,ampicillin,R,resistant,1.0,CVM N41923
+Salmonella enterica,SAMN04255358,GCA_007195435.1,ampicillin,R,resistant,1.0,CVM-N23614
+Salmonella enterica,SAMN04867492,GCA_008519865.1,ampicillin,R,resistant,1.0,FSIS1606278
+Salmonella enterica,SAMN03938895,GCA_007185745.1,ampicillin,R,resistant,1.0,VA-WGS-00593
+Salmonella enterica,SAMN27484015,GCA_046022945.1,ampicillin,R,resistant,1.0,21CA10GT08-S1
+Salmonella enterica,SAMN03894323,GCA_001245745.1,ampicillin,R,resistant,1.0,CVM N50443
+Salmonella enterica,SAMN26174799,GCA_022383055.1,ampicillin,R,resistant,1.0,21TX10GT07-S1
+Salmonella enterica,SAMN02766959,GCA_007472315.1,ampicillin,R,resistant,1.0,FL-NRM014
+Salmonella enterica,SAMN10132765,GCA_005767415.2,ampicillin,R,resistant,1.0,CVM N17S016
+Salmonella enterica,SAMN04255390,GCA_007193255.1,ampicillin,R,resistant,1.0,CVM-N23646
+Salmonella enterica,SAMN04256007,GCA_007190615.1,ampicillin,R,resistant,1.0,CVM-N23715
+Salmonella enterica,SAMN04224358,GCA_007195375.1,ampicillin,R,resistant,1.0,NY-N20033
+Salmonella enterica,SAMN04255260,GCA_007226815.1,ampicillin,R,resistant,1.0,CVM-N27370
+Salmonella enterica,SAMN03291556,GCA_007750075.1,ampicillin,R,resistant,1.0,WAPHL_SAL-A00727
+Salmonella enterica,SAMN05596296,GCA_006496755.1,ampicillin,R,resistant,1.0,2014AM-1627
+Salmonella enterica,SAMN17577685,GCA_017220415.1,ampicillin,R,resistant,1.0,21TN01CB04K-S1
+Salmonella enterica,SAMN03938873,GCA_007187215.1,ampicillin,R,resistant,1.0,VA-WGS-00571
+Salmonella enterica,SAMN12161881,GCA_007824805.1,ampicillin,R,resistant,1.0,19TN04CB16N-S
+Salmonella enterica,SAMN12586985,GCA_011480075.1,ampicillin,R,resistant,1.0,CVM N18S1411
+Salmonella enterica,SAMN12587260,GCA_010879705.1,ampicillin,R,resistant,1.0,CVM N19S0127
+Salmonella enterica,SAMN18984159,GCA_018255175.1,ampicillin,R,resistant,1.0,21TN04GT04N-S1
+Salmonella enterica,SAMN04255341,GCA_007217715.1,ampicillin,R,resistant,1.0,CVM-N23585
+Salmonella enterica,SAMN19314168,GCA_018493155.1,ampicillin,R,resistant,1.0,21TX02GT07-S1
+Salmonella enterica,SAMN04964208,GCA_008412465.1,ampicillin,R,resistant,1.0,FSIS1606521
+Salmonella enterica,SAMN04576652,GCA_008408605.1,ampicillin,R,resistant,1.0,CVM N57983
+Salmonella enterica,SAMN04577389,GCA_008473585.1,ampicillin,R,resistant,1.0,CVM N57625F
+Salmonella enterica,SAMN12843061,GCA_008757635.2,ampicillin,R,resistant,1.0,CVM N19S0641
+Salmonella enterica,SAMN03567171,GCA_008468145.1,ampicillin,R,resistant,1.0,PNUSAS000230
+Salmonella enterica,SAMN04577438,GCA_008411455.1,ampicillin,R,resistant,1.0,CVM N57757F
+Salmonella enterica,SAMN03938807,GCA_007756675.1,ampicillin,R,resistant,1.0,VA-WGS-00505
+Salmonella enterica,SAMN08114236,GCA_010629145.1,ampicillin,R,resistant,1.0,16MD11GT15-S
+Salmonella enterica,SAMN05201877,GCA_008415485.1,ampicillin,R,resistant,1.0,CVM N40418
+Salmonella enterica,SAMN08114009,GCA_010659325.2,ampicillin,R,resistant,1.0,16MD03PC02-S
+Salmonella enterica,SAMN23391191,GCA_020963155.1,ampicillin,R,resistant,1.0,21NM10GT01-S1
+Salmonella enterica,SAMN02777737,GCA_007744555.1,ampicillin,R,resistant,1.0,NY-32421
+Salmonella enterica,SAMN04217334,GCA_007229895.1,ampicillin,R,resistant,1.0,WAPHL-SAL-A01091
+Salmonella enterica,SAMN04224324,GCA_007758465.1,ampicillin,R,resistant,1.0,NY-N19997
+Salmonella enterica,SAMN04217226,GCA_007758535.1,ampicillin,R,resistant,1.0,WAPHL-SAL-A01002
+Salmonella enterica,SAMN04255142,GCA_007193455.1,ampicillin,R,resistant,1.0,CVM-N25391
+Salmonella enterica,SAMN03938820,GCA_007755495.1,ampicillin,R,resistant,1.0,VA-WGS-00518
+Salmonella enterica,SAMN04577384,GCA_008518445.1,ampicillin,R,resistant,1.0,CVM N57615F
+Salmonella enterica,SAMN05201643,GCA_008478205.1,ampicillin,R,resistant,1.0,CVM N32044
+Salmonella enterica,SAMN04577206,GCA_008472585.1,ampicillin,R,resistant,1.0,CVM N57007F
+Salmonella enterica,SAMN04218158,GCA_007204995.1,ampicillin,R,resistant,1.0,CVM-N18615
+Salmonella enterica,SAMN05201976,GCA_008471505.1,ampicillin,R,resistant,1.0,CVM N42466
+Salmonella enterica,SAMN11942485,GCA_006295975.1,ampicillin,R,resistant,1.0,19MO04GT06-S1
+Salmonella enterica,SAMN02782473,GCA_007179215.1,ampicillin,R,resistant,1.0,WAPHL_SAL-A00421
+Salmonella enterica,SAMN03938942,GCA_007472815.1,ampicillin,R,resistant,1.0,VA-WGS-00640
+Salmonella enterica,SAMN05201603,GCA_008425065.1,ampicillin,R,resistant,1.0,CVM N31388
+Salmonella enterica,SAMN05201700,GCA_008478365.1,ampicillin,R,resistant,1.0,CVM N37900
+Salmonella enterica,SAMN20286093,GCA_046025575.1,ampicillin,R,resistant,1.0,21NY06CB07-S1
+Salmonella enterica,SAMN04217280,GCA_007191715.1,ampicillin,R,resistant,1.0,WAPHL-SAL-A01052
+Salmonella enterica,SAMN03842238,GCA_006388335.1,ampicillin,R,resistant,1.0,CVM-N14796
+Salmonella enterica,SAMN05596753,GCA_008482345.1,ampicillin,R,resistant,1.0,2014AM-0756
+Salmonella enterica,SAMN12842968,GCA_008760215.1,ampicillin,R,resistant,1.0,CVM N19S0464
+Salmonella enterica,SAMN04532059,GCA_008407785.1,ampicillin,S,susceptible,0.0,FSIS1605956
+Salmonella enterica,SAMN04218245,GCA_007227115.1,ampicillin,S,susceptible,0.0,CVM-N19810
+Salmonella enterica,SAMN08114226,GCA_011137715.1,ampicillin,S,susceptible,0.0,16LA10CB09-S
+Salmonella enterica,SAMN08114113,GCA_010613225.1,ampicillin,S,susceptible,0.0,16MD05GT10-S
+Salmonella enterica,SAMN25596648,GCA_021883295.1,ampicillin,S,susceptible,0.0,21MN12CB01-S1
+Salmonella enterica,SAMN08113939,GCA_009523775.1,ampicillin,S,susceptible,0.0,16MO02CB02-S
+Salmonella enterica,SAMN24588003,GCA_021349025.1,ampicillin,S,susceptible,0.0,21MO12CB08-S1
+Salmonella enterica,SAMN26027247,GCA_022362955.1,ampicillin,S,susceptible,0.0,
+Salmonella enterica,SAMN02766967,GCA_007748575.1,ampicillin,S,susceptible,0.0,FL-NRM022
+Salmonella enterica,SAMN03894343,GCA_001246195.1,ampicillin,S,susceptible,0.0,CVM N51252
+Salmonella enterica,SAMN10132996,GCA_005688655.1,ampicillin,S,susceptible,0.0,CVM N17S1180
+Salmonella enterica,SAMN12587034,GCA_011545305.1,ampicillin,S,susceptible,0.0,CVM N18S1550
+Salmonella enterica,SAMN02782617,GCA_006753345.1,ampicillin,S,susceptible,0.0,WAPHL_SAL-A00565
+Salmonella enterica,SAMN03894128,GCA_001241475.1,ampicillin,S,susceptible,0.0,CVM N44711
+Salmonella enterica,SAMN03276019,GCA_007183775.1,ampicillin,S,susceptible,0.0,NY-N13201
+Salmonella enterica,SAMN05413520,GCA_008427245.1,ampicillin,S,susceptible,0.0,FSIS1607131
+Salmonella enterica,SAMN02767009,GCA_007748875.1,ampicillin,S,susceptible,0.0,FL-NRM064
+Salmonella enterica,SAMN05201586,GCA_008524295.1,ampicillin,S,susceptible,0.0,CVM N30691
+Salmonella enterica,SAMN04568446,GCA_008468965.1,ampicillin,S,susceptible,0.0,FSIS1605907
+Salmonella enterica,SAMN04218222,GCA_007226595.1,ampicillin,S,susceptible,0.0,CVM-N19787
+Salmonella enterica,SAMN03276015,GCA_007183235.1,ampicillin,S,susceptible,0.0,NY-N13197
+Salmonella enterica,SAMN02640898,GCA_006690325.1,ampicillin,S,susceptible,0.0,WAPHL-SAL-A00335
+Salmonella enterica,SAMN04224391,GCA_007191395.1,ampicillin,S,susceptible,0.0,NY-N20072
+Salmonella enterica,SAMN04224444,GCA_007193505.1,ampicillin,S,susceptible,0.0,NY-N20092
+Salmonella enterica,SAMN14755082,GCA_014577135.1,ampicillin,S,susceptible,0.0,CVM N19S1974
+Salmonella enterica,SAMN38225729,GCA_046011435.1,ampicillin,S,susceptible,0.0,21IA12CG01-S1
+Salmonella enterica,SAMN04869632,GCA_008519945.1,ampicillin,S,susceptible,0.0,FSIS1606176
+Salmonella enterica,SAMN04507536,GCA_008470665.1,ampicillin,S,susceptible,0.0,FSIS1605669
+Salmonella enterica,SAMN10132859,GCA_045999265.1,ampicillin,S,susceptible,0.0,CVM N17S469
+Salmonella enterica,SAMN13018483,GCA_009090445.1,ampicillin,S,susceptible,0.0,19CO03PC05-S1
+Salmonella enterica,SAMN03842308,GCA_007186455.1,ampicillin,S,susceptible,0.0,CVM-N15771
+Salmonella enterica,SAMN24442247,GCA_021304755.1,ampicillin,S,susceptible,0.0,21WA12CB02-S1
+Salmonella enterica,SAMN04224384,GCA_007759115.1,ampicillin,S,susceptible,0.0,NY-N20062
+Salmonella enterica,SAMN05201809,GCA_008476715.1,ampicillin,S,susceptible,0.0,CVM N38930
+Salmonella enterica,SAMN38156159,GCA_046014055.1,ampicillin,S,susceptible,0.0,21MO05CL01-S1
+Salmonella enterica,SAMN19605051,GCA_018801005.1,ampicillin,S,susceptible,0.0,21TX04CB05-S1
+Salmonella enterica,SAMN38156225,GCA_046018675.1,ampicillin,S,susceptible,0.0,21TX06CL01-S1
+Salmonella enterica,SAMN12702760,GCA_008351925.1,ampicillin,S,susceptible,0.0,19OR07GT09-S1
+Salmonella enterica,SAMN38156144,GCA_046013795.1,ampicillin,S,susceptible,0.0,21CT04CG01-S1
+Salmonella enterica,SAMN40541410,GCA_037418135.1,ampicillin,S,susceptible,0.0,21IA05CB07-S1
+Salmonella enterica,SAMN12360226,GCA_007862825.1,ampicillin,S,susceptible,0.0,CVM N18S1741
+Salmonella enterica,SAMN04576642,GCA_008472105.1,ampicillin,S,susceptible,0.0,CVM N57539
+Salmonella enterica,SAMN10133078,GCA_005998695.1,ampicillin,S,susceptible,0.0,CVM N17S1594
+Salmonella enterica,SAMN05201546,GCA_008425305.1,ampicillin,S,susceptible,0.0,CVM N30639
+Salmonella enterica,SAMN12842956,GCA_008855925.1,ampicillin,S,susceptible,0.0,CVM N19S0452
+Salmonella enterica,SAMN05596241,GCA_006498395.1,ampicillin,S,susceptible,0.0,2014AM-2671
+Salmonella enterica,SAMN05440608,GCA_008525085.1,ampicillin,S,susceptible,0.0,FSIS1607047
+Salmonella enterica,SAMN02777661,GCA_006630105.1,ampicillin,S,susceptible,0.0,NY-29767
+Salmonella enterica,SAMN08114146,GCA_009583525.1,ampicillin,S,susceptible,0.0,16MD07CB32-S
+Salmonella enterica,SAMN02782515,GCA_006630125.1,ampicillin,S,susceptible,0.0,WAPHL_SAL-A00463
+Salmonella enterica,SAMN16231227,GCA_046041855.1,ampicillin,S,susceptible,0.0,CVM N19S0691
+Salmonella enterica,SAMN03894088,GCA_001240625.1,ampicillin,S,susceptible,0.0,CVM N43479
+Salmonella enterica,SAMN12586935,GCA_011312555.1,ampicillin,S,susceptible,0.0,CVM N18S0027
+Salmonella enterica,SAMN03275961,GCA_006691605.1,ampicillin,S,susceptible,0.0,NY-N11262
+Salmonella enterica,SAMN13003108,GCA_008998255.1,ampicillin,S,susceptible,0.0,19MD04GT02
+Salmonella enterica,SAMN11968077,GCA_006339315.1,ampicillin,S,susceptible,0.0,CVM N18S0717
+Salmonella enterica,SAMN11967902,GCA_006338995.1,ampicillin,S,susceptible,0.0,CVM N18S0056
+Salmonella enterica,SAMN02640864,GCA_007181765.1,ampicillin,S,susceptible,0.0,WAPHL-SAL-A00301
+Salmonella enterica,SAMN03291536,GCA_006691805.1,ampicillin,S,susceptible,0.0,WAPHL_SAL-A00707
+Salmonella enterica,SAMN12842936,GCA_008760555.1,ampicillin,S,susceptible,0.0,CVM N19S0430
+Salmonella enterica,SAMN12360056,GCA_007863885.1,ampicillin,S,susceptible,0.0,CVM N18S0840
+Salmonella enterica,SAMN02782647,GCA_007745795.1,ampicillin,S,susceptible,0.0,WAPHL_SAL-A00595
+Salmonella enterica,SAMN03894296,GCA_001245135.1,ampicillin,S,susceptible,0.0,CVM N48710
+Salmonella enterica,SAMN04869849,GCA_008413425.1,ampicillin,S,susceptible,0.0,FSIS1606189
+Salmonella enterica,SAMN12897299,GCA_008838725.1,ampicillin,S,susceptible,0.0,CVM N19S0727
+Salmonella enterica,SAMN38225723,GCA_046011315.1,ampicillin,S,susceptible,0.0,21TN10CG01N-S1
+Salmonella enterica,SAMN11968092,GCA_006338225.1,ampicillin,S,susceptible,0.0,CVM N18S0828
+Salmonella enterica,SAMN05413588,GCA_008427325.1,ampicillin,S,susceptible,0.0,FSIS1607121
+Salmonella enterica,SAMN04577404,GCA_008410885.1,ampicillin,S,susceptible,0.0,CVM N57660F
+Salmonella enterica,SAMN03894283,GCA_001244895.1,ampicillin,S,susceptible,0.0,CVM N48696
+Salmonella enterica,SAMN04507532,GCA_008470545.1,ampicillin,S,susceptible,0.0,FSIS1605665
+Salmonella enterica,SAMN03894130,GCA_001241515.1,ampicillin,S,susceptible,0.0,CVM N44713
+Salmonella enterica,SAMN13186650,GCA_011648615.1,ampicillin,S,susceptible,0.0,19OR10CB11-S1
+Salmonella enterica,SAMN12360078,GCA_007864385.1,ampicillin,S,susceptible,0.0,CVM N18S0927
+Salmonella enterica,SAMN12561584,GCA_011480875.1,ampicillin,S,susceptible,0.0,19MO07CB22-S1
+Salmonella enterica,SAMN25980731,GCA_022256935.1,ampicillin,S,susceptible,0.0,
+Salmonella enterica,SAMN02777714,GCA_007742535.1,ampicillin,S,susceptible,0.0,NY-30663
+Salmonella enterica,SAMN12842830,GCA_008745795.1,ampicillin,S,susceptible,0.0,CVM N19S0258
+Salmonella enterica,SAMN03938913,GCA_007756395.1,ampicillin,S,susceptible,0.0,VA-WGS-00611
+Salmonella enterica,SAMN11967915,GCA_006340385.1,ampicillin,S,susceptible,0.0,CVM N18S0118
+Salmonella enterica,SAMN13991591,GCA_011352145.1,ampicillin,S,susceptible,0.0,19WA12CB01-S1
+Salmonella enterica,SAMN10132938,GCA_005617355.1,ampicillin,S,susceptible,0.0,CVM N17S847
+Salmonella enterica,SAMN02782555,GCA_007906795.1,ampicillin,S,susceptible,0.0,WAPHL_SAL-A00503
+Salmonella enterica,SAMN08114241,GCA_010130045.1,ampicillin,S,susceptible,0.0,16MN11CB20-S
+Salmonella enterica,SAMN03894215,GCA_001243305.1,ampicillin,S,susceptible,0.0,CVM N46836
+Salmonella enterica,SAMN38225691,GCA_046009675.1,ampicillin,S,susceptible,0.0,21OH10CH01-S1
+Salmonella enterica,SAMN04576687,GCA_008471635.1,ampicillin,S,susceptible,0.0,CVM N58019
+Salmonella enterica,SAMN03269421,GCA_007472415.1,ampicillin,S,susceptible,0.0,FL-NRM124
+Salmonella enterica,SAMN04577379,GCA_008465265.1,ampicillin,S,susceptible,0.0,CVM N57601F
+Salmonella enterica,SAMN04482637,GCA_008470845.1,ampicillin,S,susceptible,0.0,FSIS1605544
+Salmonella enterica,SAMN12587076,GCA_011480315.1,ampicillin,S,susceptible,0.0,CVM N18S2029
+Salmonella enterica,SAMN03988399,GCA_006813945.1,ampicillin,S,susceptible,0.0,CVM N54702
+Salmonella enterica,SAMN05274324,GCA_008523875.1,ampicillin,S,susceptible,0.0,FSIS1606889
+Salmonella enterica,SAMN12586933,GCA_011480035.1,ampicillin,S,susceptible,0.0,CVM N18S0022
+Salmonella enterica,SAMN08114296,GCA_010631245.1,ampicillin,S,susceptible,0.0,16CO08CB36-S
+Salmonella enterica,SAMN02782524,GCA_006811385.1,ampicillin,S,susceptible,0.0,WAPHL_SAL-A00472
+Salmonella enterica,SAMN16231323,GCA_046039875.1,ampicillin,S,susceptible,0.0,CVM N19S2072
+Salmonella enterica,SAMN04224472,GCA_007195575.1,ampicillin,S,susceptible,0.0,NY-N20116
+Salmonella enterica,SAMN05596682,GCA_008482365.1,ampicillin,S,susceptible,0.0,2014AM-0339
+Salmonella enterica,SAMN03275988,GCA_006632255.1,ampicillin,S,susceptible,0.0,NY-N13131
+Salmonella enterica,SAMN02699332,GCA_001480985.1,tetracycline,R,resistant,1.0,CVM N41906
+Salmonella enterica,SAMN03842387,GCA_006813545.1,tetracycline,R,resistant,1.0,CVM-N16415
+Salmonella enterica,SAMN16231315,GCA_046042025.1,tetracycline,R,resistant,1.0,CVM N19S1915
+Salmonella enterica,SAMN05907766,GCA_008482065.1,tetracycline,R,resistant,1.0,2014AM-1449
+Salmonella enterica,SAMN02699353,GCA_001481135.1,tetracycline,R,resistant,1.0,CVM N42479
+Salmonella enterica,SAMN03291537,GCA_006812645.1,tetracycline,R,resistant,1.0,WAPHL_SAL-A00708
+Salmonella enterica,SAMN04577210,GCA_008472405.1,tetracycline,R,resistant,1.0,CVM N57020F
+Salmonella enterica,SAMN04224225,GCA_007190035.1,tetracycline,R,resistant,1.0,NY-N19886
+Salmonella enterica,SAMN05505559,GCA_008428325.1,tetracycline,R,resistant,1.0,FSIS1607117
+Salmonella enterica,SAMN12842902,GCA_008761195.2,tetracycline,R,resistant,1.0,CVM N19S0388
+Salmonella enterica,SAMN02782646,GCA_007745575.1,tetracycline,R,resistant,1.0,WAPHL_SAL-A00594
+Salmonella enterica,SAMN12897318,GCA_008858145.1,tetracycline,R,resistant,1.0,CVM N19S0748
+Salmonella enterica,SAMN05176306,GCA_008520565.1,tetracycline,R,resistant,1.0,FSIS1606575
+Salmonella enterica,SAMN08113916,GCA_009580865.1,tetracycline,R,resistant,1.0,16CT03GT03-S
+Salmonella enterica,SAMN10132953,GCA_005616595.1,tetracycline,R,resistant,1.0,CVM N17S905
+Salmonella enterica,SAMN02782517,GCA_006752445.1,tetracycline,R,resistant,1.0,WAPHL_SAL-A00465
+Salmonella enterica,SAMN08114139,GCA_007765355.2,tetracycline,R,resistant,1.0,16MD04GT05-S
+Salmonella enterica,SAMN05201587,GCA_008424845.1,tetracycline,R,resistant,1.0,CVM N30692
+Salmonella enterica,SAMN10133056,GCA_005616895.1,tetracycline,R,resistant,1.0,CVM N17S1476
+Salmonella enterica,SAMN02894075,GCA_007815175.1,tetracycline,R,resistant,1.0,AZ-TG74944
+Salmonella enterica,SAMN11509985,GCA_005671835.1,tetracycline,R,resistant,1.0,19WA01GT01-S1
+Salmonella enterica,SAMN02777819,GCA_007816325.1,tetracycline,R,resistant,1.0,NY-N131
+Salmonella enterica,SAMN04577481,GCA_008518545.1,tetracycline,R,resistant,1.0,CVM N57898F
+Salmonella enterica,SAMN04576596,GCA_008471405.1,tetracycline,R,resistant,1.0,CVM N55857
+Salmonella enterica,SAMN04218247,GCA_007217115.1,tetracycline,R,resistant,1.0,CVM-N19812
+Salmonella enterica,SAMN03269439,GCA_006693205.1,tetracycline,R,resistant,1.0,FL-NRM156
+Salmonella enterica,SAMN02777678,GCA_007746025.1,tetracycline,R,resistant,1.0,NY-30276
+Salmonella enterica,SAMN02699215,GCA_001478855.1,tetracycline,R,resistant,1.0,CVM N30650
+Salmonella enterica,SAMN04255295,GCA_007229775.1,tetracycline,R,resistant,1.0,CVM-N27418
+Salmonella enterica,SAMN08113934,GCA_011412675.1,tetracycline,R,resistant,1.0,16MN01GT20-S
+Salmonella enterica,SAMN12360203,GCA_007864925.1,tetracycline,R,resistant,1.0,CVM N18S1607
+Salmonella enterica,SAMN02777682,GCA_007745975.1,tetracycline,R,resistant,1.0,NY-30439
+Salmonella enterica,SAMN04577212,GCA_008472465.1,tetracycline,R,resistant,1.0,CVM N57036F
+Salmonella enterica,SAMN38156175,GCA_046015095.1,tetracycline,R,resistant,1.0,21CT05CL01-S1
+Salmonella enterica,SAMN02766966,GCA_006239565.1,tetracycline,R,resistant,1.0,FL-NRM021
+Salmonella enterica,SAMN09771008,GCA_008553905.1,tetracycline,R,resistant,1.0,CVM N17S1062
+Salmonella enterica,SAMN05201642,GCA_008553095.1,tetracycline,R,resistant,1.0,CVM N32043
+Salmonella enterica,SAMN05201603,GCA_008425065.1,tetracycline,R,resistant,1.0,CVM N31388
+Salmonella enterica,SAMN04218212,GCA_007196035.1,tetracycline,R,resistant,1.0,CVM-N19776
+Salmonella enterica,SAMN03988254,GCA_008515255.1,tetracycline,R,resistant,1.0,CVM N52053
+Salmonella enterica,SAMN14755033,GCA_014579835.1,tetracycline,R,resistant,1.0,CVM N19S1855
+Salmonella enterica,SAMN03938842,GCA_007755575.1,tetracycline,R,resistant,1.0,VA-WGS-00540
+Salmonella enterica,SAMN03988455,GCA_008405625.1,tetracycline,R,resistant,1.0,CVM N55375
+Salmonella enterica,SAMN38156151,GCA_046013915.1,tetracycline,R,resistant,1.0,21NY03CL01-S1
+Salmonella enterica,SAMN05596269,GCA_006497275.1,tetracycline,R,resistant,1.0,2014AM-0326
+Salmonella enterica,SAMN38225732,GCA_046011555.1,tetracycline,R,resistant,1.0,21OH12CG01-S
+Salmonella enterica,SAMN04217257,GCA_007191655.1,tetracycline,R,resistant,1.0,WAPHL-SAL-A01032
+Salmonella enterica,SAMN03842404,GCA_007753735.1,tetracycline,R,resistant,1.0,CVM-N16432
+Salmonella enterica,SAMN02640794,GCA_007748715.1,tetracycline,R,resistant,1.0,WAPHL-SAL-A00231
+Salmonella enterica,SAMN04217434,GCA_007229335.1,tetracycline,R,resistant,1.0,WAPHL-SAL-A01138
+Salmonella enterica,SAMN04255159,GCA_007194205.1,tetracycline,R,resistant,1.0,CVM-N26089
+Salmonella enterica,SAMN03988470,GCA_008470105.1,tetracycline,R,resistant,1.0,CVM N55390
+Salmonella enterica,SAMN03276048,GCA_007184035.1,tetracycline,R,resistant,1.0,NY-N13673
+Salmonella enterica,SAMN04577206,GCA_008472585.1,tetracycline,R,resistant,1.0,CVM N57007F
+Salmonella enterica,SAMN14755108,GCA_014577395.1,tetracycline,R,resistant,1.0,CVM N19S2185
+Salmonella enterica,SAMN03842313,GCA_007186215.1,tetracycline,R,resistant,1.0,CVM-N15778
+Salmonella enterica,SAMN14754938,GCA_014575095.1,tetracycline,R,resistant,1.0,CVM N19S0320
+Salmonella enterica,SAMN04218117,GCA_007195095.1,tetracycline,R,resistant,1.0,CVM-N18573
+Salmonella enterica,SAMN03269495,GCA_006389575.1,tetracycline,R,resistant,1.0,FL-NRM188
+Salmonella enterica,SAMN04577420,GCA_008465365.1,tetracycline,R,resistant,1.0,CVM N57704F
+Salmonella enterica,SAMN02894183,GCA_006754165.1,tetracycline,R,resistant,1.0,AZ-TG74928
+Salmonella enterica,SAMN02640840,GCA_007181495.1,tetracycline,R,resistant,1.0,WAPHL-SAL-A00277
+Salmonella enterica,SAMN02699211,GCA_001478825.1,tetracycline,R,resistant,1.0,CVM N29383
+Salmonella enterica,SAMN04942608,GCA_008519845.1,tetracycline,R,resistant,1.0,FSIS1606394
+Salmonella enterica,SAMN04576673,GCA_008517675.1,tetracycline,R,resistant,1.0,CVM N58004
+Salmonella enterica,SAMN38156059,GCA_046018175.1,tetracycline,R,resistant,1.0,21NC02CL01-S1
+Salmonella enterica,SAMN05907758,GCA_008430545.1,tetracycline,R,resistant,1.0,2014AM-2923
+Salmonella enterica,SAMN12930425,GCA_008918305.1,tetracycline,R,resistant,1.0,CVM N18S2004
+Salmonella enterica,SAMN02766991,GCA_007181195.1,tetracycline,R,resistant,1.0,FL-NRM046
+Salmonella enterica,SAMN05201926,GCA_008413245.1,tetracycline,R,resistant,1.0,CVM N41902
+Salmonella enterica,SAMN02777751,GCA_007742775.1,tetracycline,R,resistant,1.0,NY-32463
+Salmonella enterica,SAMN09770937,GCA_008537995.1,tetracycline,R,resistant,1.0,CVM N17S381
+Salmonella enterica,SAMN11967914,GCA_006340365.1,tetracycline,R,resistant,1.0,CVM N18S0115
+Salmonella enterica,SAMN08114051,GCA_010631285.1,tetracycline,R,resistant,1.0,16NM05GT01-S
+Salmonella enterica,SAMN18336128,GCA_017492445.1,tetracycline,R,resistant,1.0,21LA02CB06-S1
+Salmonella enterica,SAMN04536993,GCA_008471045.1,tetracycline,R,resistant,1.0,FSIS1605909
+Salmonella enterica,SAMN03842388,GCA_007186985.1,tetracycline,R,resistant,1.0,CVM-N16416
+Salmonella enterica,SAMN04255245,GCA_007762715.1,tetracycline,R,resistant,1.0,CVM-N27252
+Salmonella enterica,SAMN03988367,GCA_008405145.1,tetracycline,R,resistant,1.0,CVM N54261
+Salmonella enterica,SAMN02782590,GCA_007747075.1,tetracycline,R,resistant,1.0,WAPHL_SAL-A00538
+Salmonella enterica,SAMN02777794,GCA_007818075.1,tetracycline,R,resistant,1.0,NY-N4
+Salmonella enterica,SAMN04256051,GCA_007758435.1,tetracycline,R,resistant,1.0,CVM-N23780
+Salmonella enterica,SAMN14754970,GCA_014579915.1,tetracycline,R,resistant,1.0,CVM N19S1631
+Salmonella enterica,SAMN02777829,GCA_006691705.1,tetracycline,R,resistant,1.0,NY-N148
+Salmonella enterica,SAMN03276092,GCA_006758475.1,tetracycline,R,resistant,1.0,NY-N14608
+Salmonella enterica,SAMN04577355,GCA_008473645.1,tetracycline,R,resistant,1.0,CVM N57499F
+Salmonella enterica,SAMN03938933,GCA_007756375.1,tetracycline,R,resistant,1.0,VA-WGS-00631
+Salmonella enterica,SAMN08114230,GCA_009584265.1,tetracycline,R,resistant,1.0,16LA11CB19-S
+Salmonella enterica,SAMN08114118,GCA_009583845.1,tetracycline,R,resistant,1.0,16CT05CB01-S
+Salmonella enterica,SAMN04224437,GCA_007760075.1,tetracycline,R,resistant,1.0,NY-N20085
+Salmonella enterica,SAMN03988479,GCA_008468645.1,tetracycline,R,resistant,1.0,CVM N55399
+Salmonella enterica,SAMN10132982,GCA_005447085.1,tetracycline,R,resistant,1.0,CVM N17S1118
+Salmonella enterica,SAMN38156137,GCA_046013675.1,tetracycline,R,resistant,1.0,21OR04CL01-S1
+Salmonella enterica,SAMN12843010,GCA_008758335.1,tetracycline,R,resistant,1.0,CVM N19S0565
+Salmonella enterica,SAMN25281342,GCA_021691375.2,tetracycline,R,resistant,1.0,21OH09GT06-S1
+Salmonella enterica,SAMN02782591,GCA_007747105.1,tetracycline,R,resistant,1.0,WAPHL_SAL-A00539
+Salmonella enterica,SAMN12842925,GCA_008760815.1,tetracycline,R,resistant,1.0,CVM N19S0417
+Salmonella enterica,SAMN02894041,GCA_007761775.1,tetracycline,R,resistant,1.0,AZ-TG74352
+Salmonella enterica,SAMN38156266,GCA_046018195.1,tetracycline,R,resistant,1.0,21TX07CL01-S1
+Salmonella enterica,SAMN12783880,GCA_008622955.1,tetracycline,R,resistant,1.0,19IA07GT08-S1
+Salmonella enterica,SAMN12587206,GCA_011627145.1,tetracycline,S,susceptible,0.0,CVM N19S0060
+Salmonella enterica,SAMN04255113,GCA_007190835.1,tetracycline,S,susceptible,0.0,CVM-N23834
+Salmonella enterica,SAMN02777691,GCA_007746395.1,tetracycline,S,susceptible,0.0,NY-30488
+Salmonella enterica,SAMN03988304,GCA_008513975.1,tetracycline,S,susceptible,0.0,CVM N53048
+Salmonella enterica,SAMN14754944,GCA_014574915.1,tetracycline,S,susceptible,0.0,CVM N19S0978
+Salmonella enterica,SAMN23206604,GCA_020945125.1,tetracycline,S,susceptible,0.0,21CT10CB04-S1
+Salmonella enterica,SAMN03938834,GCA_007907845.1,tetracycline,S,susceptible,0.0,VA-WGS-00532
+Salmonella enterica,SAMN10132872,GCA_005616615.1,tetracycline,S,susceptible,0.0,CVM N17S531
+Salmonella enterica,SAMN03842316,GCA_006633345.1,tetracycline,S,susceptible,0.0,CVM-N15781
+Salmonella enterica,SAMN05201555,GCA_008478225.1,tetracycline,S,susceptible,0.0,CVM N30651
+Salmonella enterica,SAMN04256047,GCA_007191095.1,tetracycline,S,susceptible,0.0,CVM-N23776
+Salmonella enterica,SAMN04256015,GCA_007190715.1,tetracycline,S,susceptible,0.0,CVM-N23727
+Salmonella enterica,SAMN10132933,GCA_005617235.1,tetracycline,S,susceptible,0.0,CVM N17S818
+Salmonella enterica,SAMN03269336,GCA_007183655.1,tetracycline,S,susceptible,0.0,FL-NRM290
+Salmonella enterica,SAMN05461900,GCA_008428265.1,tetracycline,S,susceptible,0.0,FSIS1607187
+Salmonella enterica,SAMN12930410,GCA_008919185.1,tetracycline,S,susceptible,0.0,CVM N18S1190
+Salmonella enterica,SAMN05201684,GCA_008425885.1,tetracycline,S,susceptible,0.0,CVM N32784
+Salmonella enterica,SAMN04218141,GCA_007204495.1,tetracycline,S,susceptible,0.0,CVM-N18598
+Salmonella enterica,SAMN38156094,GCA_046017285.1,tetracycline,S,susceptible,0.0,21WA02CH01-S1
+Salmonella enterica,SAMN12842922,GCA_008759835.1,tetracycline,S,susceptible,0.0,CVM N19S0414
+Salmonella enterica,SAMN05596257,GCA_006569285.1,tetracycline,S,susceptible,0.0,2014AM-2256
+Salmonella enterica,SAMN38225697,GCA_046009995.1,tetracycline,S,susceptible,0.0,21SD11CG01-S1
+Salmonella enterica,SAMN13494306,GCA_010823965.1,tetracycline,S,susceptible,0.0,19CO02GT11-S1
+Salmonella enterica,SAMN10133033,GCA_005617335.1,tetracycline,S,susceptible,0.0,CVM N17S1334
+Salmonella enterica,SAMN03988345,GCA_008513795.1,tetracycline,S,susceptible,0.0,CVM N53833
+Salmonella enterica,SAMN09771025,GCA_008456665.1,tetracycline,S,susceptible,0.0,CVM N17S1167
+Salmonella enterica,SAMN02782558,GCA_007815455.1,tetracycline,S,susceptible,0.0,WAPHL_SAL-A00506
+Salmonella enterica,SAMN21569108,GCA_046025415.1,tetracycline,S,susceptible,0.0,21NY08GT08-S1
+Salmonella enterica,SAMN04575034,GCA_008517225.1,tetracycline,S,susceptible,0.0,FSIS1605975
+Salmonella enterica,SAMN03291649,GCA_006634345.1,tetracycline,S,susceptible,0.0,WAPHL_SAL-A00820
+Salmonella enterica,SAMN02777710,GCA_007177355.1,tetracycline,S,susceptible,0.0,NY-30659
+Salmonella enterica,SAMN04256110,GCA_007188155.1,tetracycline,S,susceptible,0.0,CVM-N23821
+Salmonella enterica,SAMN05001753,GCA_008476085.1,tetracycline,S,susceptible,0.0,FSIS1606581
+Salmonella enterica,SAMN12360217,GCA_007860605.1,tetracycline,S,susceptible,0.0,CVM N18S1710
+Salmonella enterica,SAMN12587117,GCA_010916455.1,tetracycline,S,susceptible,0.0,CVM N18S2158
+Salmonella enterica,SAMN04489848,GCA_008515985.1,tetracycline,S,susceptible,0.0,FSIS1605579
+Salmonella enterica,SAMN38156110,GCA_046018595.1,tetracycline,S,susceptible,0.0,21CT03CL01-S1
+Salmonella enterica,SAMN38225678,GCA_046013595.1,tetracycline,S,susceptible,0.0,21WA08CL01-S1
+Salmonella enterica,SAMN02640834,GCA_006754525.1,tetracycline,S,susceptible,0.0,WAPHL-SAL-A00271
+Salmonella enterica,SAMN10132967,GCA_003914375.1,tetracycline,S,susceptible,0.0,CVM N17S971
+Salmonella enterica,SAMN02782568,GCA_004218605.1,tetracycline,S,susceptible,0.0,WAPHL_SAL-A00516
+Salmonella enterica,SAMN10133081,GCA_006074695.1,tetracycline,S,susceptible,0.0,CVM N17S1602
+Salmonella enterica,SAMN08114186,GCA_009583625.1,tetracycline,S,susceptible,0.0,16NM11GT01-S
+Salmonella enterica,SAMN09770860,GCA_008504265.1,tetracycline,S,susceptible,0.0,CVM N17S033
+Salmonella enterica,SAMN16424500,GCA_046001345.1,tetracycline,S,susceptible,0.0,CVM N19S1225
+Salmonella enterica,SAMN12751067,GCA_008513675.1,tetracycline,S,susceptible,0.0,19MO08CB21-S1
+Salmonella enterica,SAMN04528757,GCA_008517155.1,tetracycline,S,susceptible,0.0,FSIS1605761
+Salmonella enterica,SAMN02777763,GCA_007741735.1,tetracycline,S,susceptible,0.0,NY-32514
+Salmonella enterica,SAMN04255370,GCA_007192055.1,tetracycline,S,susceptible,0.0,CVM-N23626
+Salmonella enterica,SAMN04218246,GCA_007226955.1,tetracycline,S,susceptible,0.0,CVM-N19811
+Salmonella enterica,SAMN16231280,GCA_046041235.1,tetracycline,S,susceptible,0.0,CVM N19S1182
+Salmonella enterica,SAMN03842367,GCA_006695085.1,tetracycline,S,susceptible,0.0,CVM-N15835
+Salmonella enterica,SAMN24118209,GCA_021218405.1,tetracycline,S,susceptible,0.0,21CT11GT01-S1
+Salmonella enterica,SAMN02894156,GCA_007178255.1,tetracycline,S,susceptible,0.0,AZ-TG74840
+Salmonella enterica,SAMN38225659,GCA_046013215.1,tetracycline,S,susceptible,0.0,21NM10GB01-S1
+Salmonella enterica,SAMN13266243,GCA_011659595.1,tetracycline,S,susceptible,0.0,19CO09CB36-S1
+Salmonella enterica,SAMN02777669,GCA_007746255.1,tetracycline,S,susceptible,0.0,NY-29984
+Salmonella enterica,SAMN03269505,GCA_007751815.1,tetracycline,S,susceptible,0.0,FL-NRM191
+Salmonella enterica,SAMN04255288,GCA_007229535.1,tetracycline,S,susceptible,0.0,CVM-N27410
+Salmonella enterica,SAMN10242832,GCA_005549955.1,tetracycline,S,susceptible,0.0,CVM N17S557
+Salmonella enterica,SAMN05191778,GCA_008476385.1,tetracycline,S,susceptible,0.0,FSIS1606702
+Salmonella enterica,SAMN38225641,GCA_046010755.1,tetracycline,S,susceptible,0.0,21OR09CH01-S1
+Salmonella enterica,SAMN10133087,GCA_003916395.1,tetracycline,S,susceptible,0.0,CVM N17S1625
+Salmonella enterica,SAMN05596296,GCA_006496755.1,tetracycline,S,susceptible,0.0,2014AM-1627
+Salmonella enterica,SAMN02699334,GCA_001481015.1,tetracycline,S,susceptible,0.0,CVM N41913
+Salmonella enterica,SAMN02782474,GCA_007179225.1,tetracycline,S,susceptible,0.0,WAPHL_SAL-A00422
+Salmonella enterica,SAMN02640815,GCA_006630725.1,tetracycline,S,susceptible,0.0,WAPHL-SAL-A00252
+Salmonella enterica,SAMN12360176,GCA_007863605.1,tetracycline,S,susceptible,0.0,CVM N18S1295
+Salmonella enterica,SAMN02894178,GCA_006629825.1,tetracycline,S,susceptible,0.0,AZ-TG74336
+Salmonella enterica,SAMN38156205,GCA_046016755.1,tetracycline,S,susceptible,0.0,21SC05CG01-S1
+Salmonella enterica,SAMN12586929,GCA_011550115.1,tetracycline,S,susceptible,0.0,CVM N18S0012
+Salmonella enterica,SAMN03894402,GCA_001247455.1,tetracycline,S,susceptible,0.0,CVM N51311
+Salmonella enterica,SAMN04576638,GCA_008471985.1,tetracycline,S,susceptible,0.0,CVM N56570
+Salmonella enterica,SAMN22377525,GCA_020536455.1,tetracycline,S,susceptible,0.0,21MN09CB01-S1
+Salmonella enterica,SAMN10133086,GCA_005998645.1,tetracycline,S,susceptible,0.0,CVM N17S1624
+Salmonella enterica,SAMN03276051,GCA_006754665.1,tetracycline,S,susceptible,0.0,NY-N14202
+Salmonella enterica,SAMN16815571,GCA_019258565.1,tetracycline,S,susceptible,0.0,17PM0035
+Salmonella enterica,SAMN03894064,GCA_001240135.1,tetracycline,S,susceptible,0.0,CVM N43455
+Salmonella enterica,SAMN38156191,GCA_046015445.1,tetracycline,S,susceptible,0.0,21CO04CG01-S1
+Salmonella enterica,SAMN19406514,GCA_018805395.1,tetracycline,S,susceptible,0.0,21WA05CB01-S1
+Salmonella enterica,SAMN03894314,GCA_001245545.1,tetracycline,S,susceptible,0.0,CVM N50434
+Salmonella enterica,SAMN02894016,GCA_007761655.1,tetracycline,S,susceptible,0.0,AZ-TG74416
+Salmonella enterica,SAMN08113956,GCA_009524855.1,tetracycline,S,susceptible,0.0,16NY01CB34-S
+Salmonella enterica,SAMN12897324,GCA_008897745.1,tetracycline,S,susceptible,0.0,CVM N19S0778
+Salmonella enterica,SAMN03842310,GCA_006635005.1,tetracycline,S,susceptible,0.0,CVM-N15774
+Salmonella enterica,SAMN03894296,GCA_001245135.1,tetracycline,S,susceptible,0.0,CVM N48710
+Salmonella enterica,SAMN03291563,GCA_006633705.1,tetracycline,S,susceptible,0.0,WAPHL_SAL-A00734
+Salmonella enterica,SAMN03894067,GCA_001240265.1,tetracycline,S,susceptible,0.0,CVM N43458
+Salmonella enterica,SAMN11967934,GCA_006341925.1,tetracycline,S,susceptible,0.0,CVM N18S0185
+Salmonella enterica,SAMN02640824,GCA_007548295.1,tetracycline,S,susceptible,0.0,WAPHL-SAL-A00261
+Salmonella enterica,SAMN12842807,GCA_008757505.1,tetracycline,S,susceptible,0.0,CVM N19S0229
+Salmonella enterica,SAMN12842798,GCA_008758795.1,tetracycline,S,susceptible,0.0,CVM N19S0192
+Salmonella enterica,SAMN02782660,GCA_007178515.1,tetracycline,S,susceptible,0.0,WAPHL_SAL-A00608
+Salmonella enterica,SAMN03269417,GCA_007549175.1,tetracycline,S,susceptible,0.0,FL-NRM113
+Salmonella enterica,SAMN38225731,GCA_046011455.1,tetracycline,S,susceptible,0.0,21CA10CG01-S1
+Salmonella enterica,SAMN04217246,GCA_007195515.1,tetracycline,S,susceptible,0.0,WAPHL-SAL-A01021
+Salmonella enterica,SAMN04605182,GCA_008412085.1,tetracycline,S,susceptible,0.0,FSIS1606117
+Salmonella enterica,SAMN22306580,GCA_020525425.1,tetracycline,S,susceptible,0.0,21LA09CB06-S1
+Salmonella enterica,SAMN05245177,GCA_008412595.1,tetracycline,S,susceptible,0.0,FSIS1606763
+Salmonella enterica,SAMN03988263,GCA_008515145.1,tetracycline,S,susceptible,0.0,CVM N52062
